@@ -11,3 +11,13 @@ def sub_algo_glouton(s, k, V):
 def AlgorithmeIII(s, k, V) :
     tab = [0] + V
     return sub_algo_glouton(s, k, tab)
+
+def TestGloutonCompatible(k, V) :
+    if k>=3 :
+        for S in range(V[3]+2, V[k-1] + V[k]) :
+            for j in range(1, k) :
+                if (V[j] < S) and (AlgorithmeIII(S, len(V), V) > AlgorithmeIII(S - V[j], len(V), V) ) :
+                    return False
+    return True
+                                   
+                               
