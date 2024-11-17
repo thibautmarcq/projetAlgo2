@@ -1,7 +1,4 @@
-import math
 import numpy as np
-
-#print(math.inf > 0)
 
 def AlgorithmeI(s, i, V) :
     tab = [-1] + V

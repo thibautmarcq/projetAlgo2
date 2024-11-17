@@ -1,12 +1,12 @@
 def genere_tests() : 
 
-    tab_d = [2, 3, 4] 
-    tab_s = [7, 12, 68, 520, 1009, 1999, 14852, 45279, 109573, 2985376]
-    tab_k = [1, 2, 3, 7, 11]
-   
-    # ok cv
+    tab_d = [4]
+    # tab_d = [2, 3, 4] 
+    tab_s = [7, 12, 68, 120, 200, 300, 1009, 1999, 14852, 45279]
+    # tab_s = [7, 12, 68, 120, 200, 300]
+    tab_k = [10]
+    # tab_k = [1, 2, 3, 7, 11]
 
-    
     for s in tab_s :
         for d in tab_d :
             for k in tab_k :
@@ -19,8 +19,3 @@ def genere_tests() :
                         file.write(str(capacite) + "\n")
 
 genere_tests()
-
-
-# no joke vvi
-# vvi ?
-# jsp ça lag jai pas ecrit ça
