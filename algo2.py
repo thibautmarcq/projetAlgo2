@@ -22,6 +22,23 @@ def calcul_matrice(s, k, V) :
 
 def AlgorithmeII(s, k, V) :
     m = calcul_matrice(s, k, V)
+    nb_pots = 0
+    tab = [-1]+V
+    utilises = np.zeros(k+1)
+    i = s
+    j = k
+    while i>0 and j >= 0 :
+        if i>= tab[j] and m[i][j] == m[i-tab[j]][j]+1 :
+            utilises[j] += 1
+            nb_pots+=1
+            i = i-tab[j]
+        else :
+            j-=1
+    return nb_pots
+    #return utilises[1:]
+
+def Algorithme2(s, k, V) :
+    m = calcul_matrice(s, k, V)
 
     tab = [-1]+V
     utilises = np.zeros(k+1)
@@ -33,4 +50,8 @@ def AlgorithmeII(s, k, V) :
             i = i-tab[j]
         else :
             j-=1
-    return utilises[1:]
+    
+    sum = 0
+    for ind in range(1, len(utilises)) :
+        sum += tab[ind] * utilises[ind]
+    return sum

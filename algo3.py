@@ -1,3 +1,7 @@
+
+from genere_system import *
+
+
 def sub_algo_glouton(s, k, V):
     res=0
     for i in range(k, 0, -1):
@@ -19,5 +23,5 @@ def TestGloutonCompatible(k, V) :
                 if (V[j] < S) and (AlgorithmeIII(S, len(V), V) > AlgorithmeIII(S - V[j], len(V), V) ) :
                     return False
     return True
-                                   
-                               
+
+
