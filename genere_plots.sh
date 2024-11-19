@@ -52,4 +52,17 @@ for file in thib/*.txt; do
     #          '$file' using 1:4 with points title 'Temps AlgoIII';
     # "
 
+        gnuplot -e "
+        set terminal png;
+        set output 'thib/${base_name}_plot_sans1.png';
+        set title '${base_name}';
+        set xlabel 'Valeur de s';
+        set ylabel 'Temps (secondes)';
+        set key inside;
+        set xtics rotate by -45;
+        set format x '%.0f';
+        plot '$file' using 1:3 with points title 'Temps AlgoII', \
+             '$file' using 1:4 with points title 'Temps AlgoIII';
+    "
+
 done
