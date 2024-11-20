@@ -1,21 +1,21 @@
 #!/bin/bash
 
 # Parcourir tous les fichiers .txt dans le dossier 'results'
-for file in stats/stats_ecarts/*.txt; do
+for file in stats/stats_proportion_compatibles/*.txt; do
     # Extraire le nom de base du fichier sans l'extension
     base_name=$(basename "$file" .txt)
     
     # Générer le graphique avec toutes les valeurs de s
     gnuplot -e "
         set terminal png;
-        set output 'stats/stats_ecarts/${base_name}_plot.png';
+        set output 'stats/plots/stats_proportion_compatibles${base_name}_plot.png';
         set title '${base_name}';
-        set xlabel 'Valeur de s';
+        set xlabel 'Valeur de k';
         set ylabel 'Difference de lalgo glouton avec dalgo dynamique';
         set key inside;
         set xtics rotate by -45;
         set format x '%.0f';
-        plot '$file' using 1:4 with points title 'Proportion de difference';
+        plot '$file' using 1:2 with points title 'Proportion compatibles';
     "
 
     # gnuplot -e "

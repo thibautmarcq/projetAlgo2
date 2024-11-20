@@ -7,8 +7,8 @@ import os
 import time
 import random
 
-PMAX = 400
-F = 5
+PMAX = 700
+F = 20
 random.seed(47)
 
 def read_test_file(filepath):
@@ -51,16 +51,6 @@ def compare_algorithms():
    
     return results
 
-# results = compare_algorithms()
-# txt_file = 'results.txt'
-
-# # Écrire les résultats dans le fichier texte
-# with open(txt_file, mode='w') as file:
-#     file.write('s\talgo1_time\talgo2_time\talgo3_time\n')
-
-#     for result in results:
-#         file.write(f"{result['s']}\t{result['algo1_time']:.6f}\t{result['algo2_time']:.6f}\t{result['algo3_time']:.6f}\n")
-
 
 def proportion_gloutons_compatibles() :
 
@@ -68,7 +58,6 @@ def proportion_gloutons_compatibles() :
     comp_glouton = 0
 
     tab_k = [1, 2, 3, 4, 5, 6, 9, 10, 20, 50, 100, 200]
-    tab_k.sort()
 
     with open("proportion_glouton_compatibles.txt", "w") as g_comp :
         g_comp.write("Taille_Systeme\tPourcentage_compatibles\n")
@@ -84,73 +73,63 @@ def proportion_gloutons_compatibles() :
                     comp_glouton_partiel+=1
             proportion = comp_glouton_partiel/tot_partiel
             g_comp.write(f"{k}\t{proportion}\n")
-            print("k : ", k)
-            print("\t tot : ", tot_partiel)
-            print("\t compatibles : ", comp_glouton_partiel)
-            print("\t proportion d'instances glouton-compatibles : ", comp_glouton_partiel/tot_partiel)
-        
+            
     return comp_glouton/tot
 
 #print("proportion : ", proportion_gloutons_compatibles())
 
 def ecarts_glouton() :
-    tab_k = [1, 2, 3, 9, 50]
 
-    logs_name = "logs2.txt"
-    stats_name = "stats_ecarts_petites_valeurs.txt"
+    tab_k = [1, 2, 3, 9, 50, 200]
 
-    with open(logs_name, "w") as logs:
-        with open(stats_name, "w") as stats : 
-            stats.write("Taille_Systeme\tEcart_Moyen\tEcart_Max\tPourcentage_Difference\n")
-        
-            for k in tab_k :
-                tot = 0
-                ecart = 0
-                ecart_max = 0
-                pourc = 0
-                for i in range(5) :
-                    tab = genere_system(k)
-                    if not TestGloutonCompatible(k, tab) :
-                        for s in range(PMAX, PMAX*F + 1, 5) :
-                            text = "k, s : "+ str(k) + ", " + str(s) + "\n"
-                            logs.write(text)
-                            tot+=1
+    stats_name = "stats_test.txt"
 
-                            
-                            val1 = AlgorithmeII(s, k, tab)
-                            text = "\tval1 : " + str(val1) + "\n"
-                            logs.write(text)
-                            
-                            
-                            val2 = AlgorithmeIII(s, k, tab)
-                            text = "\tval2 : " + str(val2) + "\n"
-                            logs.write(text)
+    
+    with open(stats_name, "w") as stats : 
+        stats.write("Taille_Systeme\tEcart_Moyen\tEcart_Max\tPourcentage_Difference\n")
+    
+        for k in tab_k :
+            tot = 0
+            ecart = 0
+            ecart_max = 0
+            pourc = 0
+            for i in range(10) :
+                tab = genere_system(k)
+                if not TestGloutonCompatible(k, tab) :
+                    for s in range(PMAX, PMAX*F + 1, 5) :
+                        tot+=1
 
-                            ecart_tmp = abs(val1-val2)
-                            ecart += ecart_tmp
+                        val1 = AlgorithmeII(s, k, tab)
+                        
+                        val2 = AlgorithmeIII(s, k, tab)
 
-                            if val1!=0 :
-                                pourc+= ecart_tmp/val1  
-                            
-                            if ecart_tmp > ecart_max :
-                                ecart_max = ecart
-                
-                if tot !=0 :
-                    ecart_moy = ecart/tot
-                    pourc_moyen = pourc/tot
+                        ecart_tmp = abs(val1-val2)
+                        ecart += ecart_tmp
 
-                else : 
-                    ecart_moy = ecart
-                    pourc_moyen = pourc
+                        if val1!=0 :
+                            pourc_tmp = ecart_tmp/val1  
+                            pourc += pourc_tmp
 
-                # logs.write("\n")
-                # logs.write(f"{k}\t{s}\t{ecart_moy}\t{ecart_max}\t{pourc_moyen}\n")
-                # logs.write("\n\n")
+                        else :
+                            pourc_tmp = 0
+                        
+                        if ecart_tmp > ecart_max :
+                            ecart_max = ecart_tmp
+                        
+            
+            print("ecart moy : ", ecart)
+            print("pourcentage : ", pourc)
+            print("total : ", tot)
 
-                stats.write(f"{k}\t{ecart_moy}\t{ecart_max}\t{pourc_moyen}\n")
+            if tot !=0 :
+                ecart_moy = ecart/tot
+                pourc_moyen = pourc/tot
+
+            else : 
+                ecart_moy = ecart
+                pourc_moyen = pourc
+
+            stats.write(f"{k}\t{ecart_moy}\t{ecart_max}\t{pourc_moyen}\n")
 
        
-ecarts_glouton()                    
-# moy, max, pourc = ecarts_glouton_ou_pas()
-# print("moyenne : ", moy, " max : ", max, "pourcentage d'erreur : ", pourc)
-
+#ecarts_glouton()

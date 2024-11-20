@@ -35,7 +35,6 @@ def AlgorithmeII(s, k, V) :
         else :
             j-=1
     return nb_pots
-    #return utilises[1:]
 
 def Algorithme2(s, k, V) :
     m = calcul_matrice(s, k, V)

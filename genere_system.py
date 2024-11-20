@@ -2,6 +2,7 @@ import math
 import random
 
 P_MAX = 700
+
 random.seed(47)
 
 
@@ -15,4 +16,4 @@ def genere_system(k) :
     tab.sort()
     return tab
 
-genere_system(699)
+#genere_system(699)
