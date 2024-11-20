@@ -7,7 +7,7 @@ import os
 import time
 import random
 
-PMAX = 500
+PMAX = 400
 F = 5
 random.seed(47)
 
@@ -67,35 +67,37 @@ def proportion_gloutons_compatibles() :
     tot = 0
     comp_glouton = 0
 
-    tab_k = [1, 2, 3, 4, 5, 6, 9, 10, 20, 40, 60, 80, 100, 120, 140]
-    # tab_k = [1] + [random.randint(1, 50000) for _ in range(500)]
+    tab_k = [1, 2, 3, 4, 5, 6, 9, 10, 20, 50, 100, 200]
     tab_k.sort()
 
-    for k in tab_k :
-        tot_partiel = 0
-        comp_glouton_partiel = 0
-        for i in range(100000) :    
-            tot+=1
-            tot_partiel+=1
-            tab = genere_system(k)
-            if TestGloutonCompatible(k, tab) :
-                comp_glouton+=1
-                comp_glouton_partiel+=1
-        print("k : ", k)
-        print("\t tot : ", tot_partiel)
-        print("\t compatibles : ", comp_glouton_partiel)
-        print("\t proportion d'instances glouton-compatibles : ", comp_glouton_partiel/tot_partiel)
-    
+    with open("proportion_glouton_compatibles.txt", "w") as g_comp :
+        g_comp.write("Taille_Systeme\tPourcentage_compatibles\n")
+        for k in tab_k :
+            tot_partiel = 0
+            comp_glouton_partiel = 0
+            for i in range(10000) :    
+                tot+=1
+                tot_partiel+=1
+                tab = genere_system(k)
+                if TestGloutonCompatible(k, tab) :
+                    comp_glouton+=1
+                    comp_glouton_partiel+=1
+            proportion = comp_glouton_partiel/tot_partiel
+            g_comp.write(f"{k}\t{proportion}\n")
+            print("k : ", k)
+            print("\t tot : ", tot_partiel)
+            print("\t compatibles : ", comp_glouton_partiel)
+            print("\t proportion d'instances glouton-compatibles : ", comp_glouton_partiel/tot_partiel)
+        
     return comp_glouton/tot
 
-#print(proportion_gloutons_compatibles())
+#print("proportion : ", proportion_gloutons_compatibles())
 
 def ecarts_glouton() :
     tab_k = [1, 2, 3, 9, 50]
-    #tab_k = [1, 3, 9, 50, 200, 500, 750, 1000, 5000]
 
-    logs_name = "logs.txt"
-    stats_name = "stats.txt"
+    logs_name = "logs2.txt"
+    stats_name = "stats_ecarts_petites_valeurs.txt"
 
     with open(logs_name, "w") as logs:
         with open(stats_name, "w") as stats : 
@@ -106,7 +108,7 @@ def ecarts_glouton() :
                 ecart = 0
                 ecart_max = 0
                 pourc = 0
-                for i in range(10) :
+                for i in range(5) :
                     tab = genere_system(k)
                     if not TestGloutonCompatible(k, tab) :
                         for s in range(PMAX, PMAX*F + 1, 5) :

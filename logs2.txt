@@ -1,0 +1,13482 @@
+k, s : 3, 400
+	val1 : 10
+	val2 : 10
+k, s : 3, 405
+	val1 : 15
+	val2 : 15
+k, s : 3, 410
+	val1 : 20
+	val2 : 20
+k, s : 3, 415
+	val1 : 25
+	val2 : 25
+k, s : 3, 420
+	val1 : 14
+	val2 : 30
+k, s : 3, 425
+	val1 : 6
+	val2 : 6
+k, s : 3, 430
+	val1 : 11
+	val2 : 11
+k, s : 3, 435
+	val1 : 16
+	val2 : 16
+k, s : 3, 440
+	val1 : 21
+	val2 : 21
+k, s : 3, 445
+	val1 : 26
+	val2 : 26
+k, s : 3, 450
+	val1 : 15
+	val2 : 31
+k, s : 3, 455
+	val1 : 7
+	val2 : 7
+k, s : 3, 460
+	val1 : 12
+	val2 : 12
+k, s : 3, 465
+	val1 : 17
+	val2 : 17
+k, s : 3, 470
+	val1 : 22
+	val2 : 22
+k, s : 3, 475
+	val1 : 27
+	val2 : 27
+k, s : 3, 480
+	val1 : 16
+	val2 : 32
+k, s : 3, 485
+	val1 : 8
+	val2 : 8
+k, s : 3, 490
+	val1 : 13
+	val2 : 13
+k, s : 3, 495
+	val1 : 18
+	val2 : 18
+k, s : 3, 500
+	val1 : 23
+	val2 : 23
+k, s : 3, 505
+	val1 : 28
+	val2 : 28
+k, s : 3, 510
+	val1 : 17
+	val2 : 33
+k, s : 3, 515
+	val1 : 9
+	val2 : 9
+k, s : 3, 520
+	val1 : 14
+	val2 : 14
+k, s : 3, 525
+	val1 : 19
+	val2 : 19
+k, s : 3, 530
+	val1 : 24
+	val2 : 24
+k, s : 3, 535
+	val1 : 29
+	val2 : 29
+k, s : 3, 540
+	val1 : 18
+	val2 : 34
+k, s : 3, 545
+	val1 : 10
+	val2 : 10
+k, s : 3, 550
+	val1 : 2
+	val2 : 2
+k, s : 3, 555
+	val1 : 7
+	val2 : 7
+k, s : 3, 560
+	val1 : 12
+	val2 : 12
+k, s : 3, 565
+	val1 : 17
+	val2 : 17
+k, s : 3, 570
+	val1 : 19
+	val2 : 22
+k, s : 3, 575
+	val1 : 11
+	val2 : 27
+k, s : 3, 580
+	val1 : 3
+	val2 : 3
+k, s : 3, 585
+	val1 : 8
+	val2 : 8
+k, s : 3, 590
+	val1 : 13
+	val2 : 13
+k, s : 3, 595
+	val1 : 18
+	val2 : 18
+k, s : 3, 600
+	val1 : 20
+	val2 : 23
+k, s : 3, 605
+	val1 : 12
+	val2 : 28
+k, s : 3, 610
+	val1 : 4
+	val2 : 4
+k, s : 3, 615
+	val1 : 9
+	val2 : 9
+k, s : 3, 620
+	val1 : 14
+	val2 : 14
+k, s : 3, 625
+	val1 : 19
+	val2 : 19
+k, s : 3, 630
+	val1 : 21
+	val2 : 24
+k, s : 3, 635
+	val1 : 13
+	val2 : 29
+k, s : 3, 640
+	val1 : 5
+	val2 : 5
+k, s : 3, 645
+	val1 : 10
+	val2 : 10
+k, s : 3, 650
+	val1 : 15
+	val2 : 15
+k, s : 3, 655
+	val1 : 20
+	val2 : 20
+k, s : 3, 660
+	val1 : 22
+	val2 : 25
+k, s : 3, 665
+	val1 : 14
+	val2 : 30
+k, s : 3, 670
+	val1 : 6
+	val2 : 6
+k, s : 3, 675
+	val1 : 11
+	val2 : 11
+k, s : 3, 680
+	val1 : 16
+	val2 : 16
+k, s : 3, 685
+	val1 : 21
+	val2 : 21
+k, s : 3, 690
+	val1 : 23
+	val2 : 26
+k, s : 3, 695
+	val1 : 15
+	val2 : 31
+k, s : 3, 700
+	val1 : 7
+	val2 : 7
+k, s : 3, 705
+	val1 : 12
+	val2 : 12
+k, s : 3, 710
+	val1 : 17
+	val2 : 17
+k, s : 3, 715
+	val1 : 22
+	val2 : 22
+k, s : 3, 720
+	val1 : 24
+	val2 : 27
+k, s : 3, 725
+	val1 : 16
+	val2 : 32
+k, s : 3, 730
+	val1 : 8
+	val2 : 8
+k, s : 3, 735
+	val1 : 13
+	val2 : 13
+k, s : 3, 740
+	val1 : 18
+	val2 : 18
+k, s : 3, 745
+	val1 : 23
+	val2 : 23
+k, s : 3, 750
+	val1 : 25
+	val2 : 28
+k, s : 3, 755
+	val1 : 17
+	val2 : 33
+k, s : 3, 760
+	val1 : 9
+	val2 : 9
+k, s : 3, 765
+	val1 : 14
+	val2 : 14
+k, s : 3, 770
+	val1 : 19
+	val2 : 19
+k, s : 3, 775
+	val1 : 24
+	val2 : 24
+k, s : 3, 780
+	val1 : 26
+	val2 : 29
+k, s : 3, 785
+	val1 : 18
+	val2 : 34
+k, s : 3, 790
+	val1 : 10
+	val2 : 10
+k, s : 3, 795
+	val1 : 15
+	val2 : 15
+k, s : 3, 800
+	val1 : 20
+	val2 : 20
+k, s : 3, 805
+	val1 : 25
+	val2 : 25
+k, s : 3, 810
+	val1 : 27
+	val2 : 30
+k, s : 3, 815
+	val1 : 19
+	val2 : 35
+k, s : 3, 820
+	val1 : 11
+	val2 : 11
+k, s : 3, 825
+	val1 : 3
+	val2 : 3
+k, s : 3, 830
+	val1 : 8
+	val2 : 8
+k, s : 3, 835
+	val1 : 13
+	val2 : 13
+k, s : 3, 840
+	val1 : 18
+	val2 : 18
+k, s : 3, 845
+	val1 : 20
+	val2 : 23
+k, s : 3, 850
+	val1 : 12
+	val2 : 28
+k, s : 3, 855
+	val1 : 4
+	val2 : 4
+k, s : 3, 860
+	val1 : 9
+	val2 : 9
+k, s : 3, 865
+	val1 : 14
+	val2 : 14
+k, s : 3, 870
+	val1 : 19
+	val2 : 19
+k, s : 3, 875
+	val1 : 21
+	val2 : 24
+k, s : 3, 880
+	val1 : 13
+	val2 : 29
+k, s : 3, 885
+	val1 : 5
+	val2 : 5
+k, s : 3, 890
+	val1 : 10
+	val2 : 10
+k, s : 3, 895
+	val1 : 15
+	val2 : 15
+k, s : 3, 900
+	val1 : 20
+	val2 : 20
+k, s : 3, 905
+	val1 : 22
+	val2 : 25
+k, s : 3, 910
+	val1 : 14
+	val2 : 30
+k, s : 3, 915
+	val1 : 6
+	val2 : 6
+k, s : 3, 920
+	val1 : 11
+	val2 : 11
+k, s : 3, 925
+	val1 : 16
+	val2 : 16
+k, s : 3, 930
+	val1 : 21
+	val2 : 21
+k, s : 3, 935
+	val1 : 23
+	val2 : 26
+k, s : 3, 940
+	val1 : 15
+	val2 : 31
+k, s : 3, 945
+	val1 : 7
+	val2 : 7
+k, s : 3, 950
+	val1 : 12
+	val2 : 12
+k, s : 3, 955
+	val1 : 17
+	val2 : 17
+k, s : 3, 960
+	val1 : 22
+	val2 : 22
+k, s : 3, 965
+	val1 : 24
+	val2 : 27
+k, s : 3, 970
+	val1 : 16
+	val2 : 32
+k, s : 3, 975
+	val1 : 8
+	val2 : 8
+k, s : 3, 980
+	val1 : 13
+	val2 : 13
+k, s : 3, 985
+	val1 : 18
+	val2 : 18
+k, s : 3, 990
+	val1 : 23
+	val2 : 23
+k, s : 3, 995
+	val1 : 25
+	val2 : 28
+k, s : 3, 1000
+	val1 : 17
+	val2 : 33
+k, s : 3, 1005
+	val1 : 9
+	val2 : 9
+k, s : 3, 1010
+	val1 : 14
+	val2 : 14
+k, s : 3, 1015
+	val1 : 19
+	val2 : 19
+k, s : 3, 1020
+	val1 : 24
+	val2 : 24
+k, s : 3, 1025
+	val1 : 26
+	val2 : 29
+k, s : 3, 1030
+	val1 : 18
+	val2 : 34
+k, s : 3, 1035
+	val1 : 10
+	val2 : 10
+k, s : 3, 1040
+	val1 : 15
+	val2 : 15
+k, s : 3, 1045
+	val1 : 20
+	val2 : 20
+k, s : 3, 1050
+	val1 : 25
+	val2 : 25
+k, s : 3, 1055
+	val1 : 27
+	val2 : 30
+k, s : 3, 1060
+	val1 : 19
+	val2 : 35
+k, s : 3, 1065
+	val1 : 11
+	val2 : 11
+k, s : 3, 1070
+	val1 : 16
+	val2 : 16
+k, s : 3, 1075
+	val1 : 21
+	val2 : 21
+k, s : 3, 1080
+	val1 : 26
+	val2 : 26
+k, s : 3, 1085
+	val1 : 28
+	val2 : 31
+k, s : 3, 1090
+	val1 : 20
+	val2 : 36
+k, s : 3, 1095
+	val1 : 12
+	val2 : 12
+k, s : 3, 1100
+	val1 : 4
+	val2 : 4
+k, s : 3, 1105
+	val1 : 9
+	val2 : 9
+k, s : 3, 1110
+	val1 : 14
+	val2 : 14
+k, s : 3, 1115
+	val1 : 19
+	val2 : 19
+k, s : 3, 1120
+	val1 : 21
+	val2 : 24
+k, s : 3, 1125
+	val1 : 13
+	val2 : 29
+k, s : 3, 1130
+	val1 : 5
+	val2 : 5
+k, s : 3, 1135
+	val1 : 10
+	val2 : 10
+k, s : 3, 1140
+	val1 : 15
+	val2 : 15
+k, s : 3, 1145
+	val1 : 20
+	val2 : 20
+k, s : 3, 1150
+	val1 : 22
+	val2 : 25
+k, s : 3, 1155
+	val1 : 14
+	val2 : 30
+k, s : 3, 1160
+	val1 : 6
+	val2 : 6
+k, s : 3, 1165
+	val1 : 11
+	val2 : 11
+k, s : 3, 1170
+	val1 : 16
+	val2 : 16
+k, s : 3, 1175
+	val1 : 21
+	val2 : 21
+k, s : 3, 1180
+	val1 : 23
+	val2 : 26
+k, s : 3, 1185
+	val1 : 15
+	val2 : 31
+k, s : 3, 1190
+	val1 : 7
+	val2 : 7
+k, s : 3, 1195
+	val1 : 12
+	val2 : 12
+k, s : 3, 1200
+	val1 : 17
+	val2 : 17
+k, s : 3, 1205
+	val1 : 22
+	val2 : 22
+k, s : 3, 1210
+	val1 : 24
+	val2 : 27
+k, s : 3, 1215
+	val1 : 16
+	val2 : 32
+k, s : 3, 1220
+	val1 : 8
+	val2 : 8
+k, s : 3, 1225
+	val1 : 13
+	val2 : 13
+k, s : 3, 1230
+	val1 : 18
+	val2 : 18
+k, s : 3, 1235
+	val1 : 23
+	val2 : 23
+k, s : 3, 1240
+	val1 : 25
+	val2 : 28
+k, s : 3, 1245
+	val1 : 17
+	val2 : 33
+k, s : 3, 1250
+	val1 : 9
+	val2 : 9
+k, s : 3, 1255
+	val1 : 14
+	val2 : 14
+k, s : 3, 1260
+	val1 : 19
+	val2 : 19
+k, s : 3, 1265
+	val1 : 24
+	val2 : 24
+k, s : 3, 1270
+	val1 : 26
+	val2 : 29
+k, s : 3, 1275
+	val1 : 18
+	val2 : 34
+k, s : 3, 1280
+	val1 : 10
+	val2 : 10
+k, s : 3, 1285
+	val1 : 15
+	val2 : 15
+k, s : 3, 1290
+	val1 : 20
+	val2 : 20
+k, s : 3, 1295
+	val1 : 25
+	val2 : 25
+k, s : 3, 1300
+	val1 : 27
+	val2 : 30
+k, s : 3, 1305
+	val1 : 19
+	val2 : 35
+k, s : 3, 1310
+	val1 : 11
+	val2 : 11
+k, s : 3, 1315
+	val1 : 16
+	val2 : 16
+k, s : 3, 1320
+	val1 : 21
+	val2 : 21
+k, s : 3, 1325
+	val1 : 26
+	val2 : 26
+k, s : 3, 1330
+	val1 : 28
+	val2 : 31
+k, s : 3, 1335
+	val1 : 20
+	val2 : 36
+k, s : 3, 1340
+	val1 : 12
+	val2 : 12
+k, s : 3, 1345
+	val1 : 17
+	val2 : 17
+k, s : 3, 1350
+	val1 : 22
+	val2 : 22
+k, s : 3, 1355
+	val1 : 27
+	val2 : 27
+k, s : 3, 1360
+	val1 : 29
+	val2 : 32
+k, s : 3, 1365
+	val1 : 21
+	val2 : 37
+k, s : 3, 1370
+	val1 : 13
+	val2 : 13
+k, s : 3, 1375
+	val1 : 5
+	val2 : 5
+k, s : 3, 1380
+	val1 : 10
+	val2 : 10
+k, s : 3, 1385
+	val1 : 15
+	val2 : 15
+k, s : 3, 1390
+	val1 : 20
+	val2 : 20
+k, s : 3, 1395
+	val1 : 22
+	val2 : 25
+k, s : 3, 1400
+	val1 : 14
+	val2 : 30
+k, s : 3, 1405
+	val1 : 6
+	val2 : 6
+k, s : 3, 1410
+	val1 : 11
+	val2 : 11
+k, s : 3, 1415
+	val1 : 16
+	val2 : 16
+k, s : 3, 1420
+	val1 : 21
+	val2 : 21
+k, s : 3, 1425
+	val1 : 23
+	val2 : 26
+k, s : 3, 1430
+	val1 : 15
+	val2 : 31
+k, s : 3, 1435
+	val1 : 7
+	val2 : 7
+k, s : 3, 1440
+	val1 : 12
+	val2 : 12
+k, s : 3, 1445
+	val1 : 17
+	val2 : 17
+k, s : 3, 1450
+	val1 : 22
+	val2 : 22
+k, s : 3, 1455
+	val1 : 24
+	val2 : 27
+k, s : 3, 1460
+	val1 : 16
+	val2 : 32
+k, s : 3, 1465
+	val1 : 8
+	val2 : 8
+k, s : 3, 1470
+	val1 : 13
+	val2 : 13
+k, s : 3, 1475
+	val1 : 18
+	val2 : 18
+k, s : 3, 1480
+	val1 : 23
+	val2 : 23
+k, s : 3, 1485
+	val1 : 25
+	val2 : 28
+k, s : 3, 1490
+	val1 : 17
+	val2 : 33
+k, s : 3, 1495
+	val1 : 9
+	val2 : 9
+k, s : 3, 1500
+	val1 : 14
+	val2 : 14
+k, s : 3, 1505
+	val1 : 19
+	val2 : 19
+k, s : 3, 1510
+	val1 : 24
+	val2 : 24
+k, s : 3, 1515
+	val1 : 26
+	val2 : 29
+k, s : 3, 1520
+	val1 : 18
+	val2 : 34
+k, s : 3, 1525
+	val1 : 10
+	val2 : 10
+k, s : 3, 1530
+	val1 : 15
+	val2 : 15
+k, s : 3, 1535
+	val1 : 20
+	val2 : 20
+k, s : 3, 1540
+	val1 : 25
+	val2 : 25
+k, s : 3, 1545
+	val1 : 27
+	val2 : 30
+k, s : 3, 1550
+	val1 : 19
+	val2 : 35
+k, s : 3, 1555
+	val1 : 11
+	val2 : 11
+k, s : 3, 1560
+	val1 : 16
+	val2 : 16
+k, s : 3, 1565
+	val1 : 21
+	val2 : 21
+k, s : 3, 1570
+	val1 : 26
+	val2 : 26
+k, s : 3, 1575
+	val1 : 28
+	val2 : 31
+k, s : 3, 1580
+	val1 : 20
+	val2 : 36
+k, s : 3, 1585
+	val1 : 12
+	val2 : 12
+k, s : 3, 1590
+	val1 : 17
+	val2 : 17
+k, s : 3, 1595
+	val1 : 22
+	val2 : 22
+k, s : 3, 1600
+	val1 : 27
+	val2 : 27
+k, s : 3, 1605
+	val1 : 29
+	val2 : 32
+k, s : 3, 1610
+	val1 : 21
+	val2 : 37
+k, s : 3, 1615
+	val1 : 13
+	val2 : 13
+k, s : 3, 1620
+	val1 : 18
+	val2 : 18
+k, s : 3, 1625
+	val1 : 23
+	val2 : 23
+k, s : 3, 1630
+	val1 : 28
+	val2 : 28
+k, s : 3, 1635
+	val1 : 30
+	val2 : 33
+k, s : 3, 1640
+	val1 : 22
+	val2 : 38
+k, s : 3, 1645
+	val1 : 14
+	val2 : 14
+k, s : 3, 1650
+	val1 : 6
+	val2 : 6
+k, s : 3, 1655
+	val1 : 11
+	val2 : 11
+k, s : 3, 1660
+	val1 : 16
+	val2 : 16
+k, s : 3, 1665
+	val1 : 21
+	val2 : 21
+k, s : 3, 1670
+	val1 : 23
+	val2 : 26
+k, s : 3, 1675
+	val1 : 15
+	val2 : 31
+k, s : 3, 1680
+	val1 : 7
+	val2 : 7
+k, s : 3, 1685
+	val1 : 12
+	val2 : 12
+k, s : 3, 1690
+	val1 : 17
+	val2 : 17
+k, s : 3, 1695
+	val1 : 22
+	val2 : 22
+k, s : 3, 1700
+	val1 : 24
+	val2 : 27
+k, s : 3, 1705
+	val1 : 16
+	val2 : 32
+k, s : 3, 1710
+	val1 : 8
+	val2 : 8
+k, s : 3, 1715
+	val1 : 13
+	val2 : 13
+k, s : 3, 1720
+	val1 : 18
+	val2 : 18
+k, s : 3, 1725
+	val1 : 23
+	val2 : 23
+k, s : 3, 1730
+	val1 : 25
+	val2 : 28
+k, s : 3, 1735
+	val1 : 17
+	val2 : 33
+k, s : 3, 1740
+	val1 : 9
+	val2 : 9
+k, s : 3, 1745
+	val1 : 14
+	val2 : 14
+k, s : 3, 1750
+	val1 : 19
+	val2 : 19
+k, s : 3, 1755
+	val1 : 24
+	val2 : 24
+k, s : 3, 1760
+	val1 : 26
+	val2 : 29
+k, s : 3, 1765
+	val1 : 18
+	val2 : 34
+k, s : 3, 1770
+	val1 : 10
+	val2 : 10
+k, s : 3, 1775
+	val1 : 15
+	val2 : 15
+k, s : 3, 1780
+	val1 : 20
+	val2 : 20
+k, s : 3, 1785
+	val1 : 25
+	val2 : 25
+k, s : 3, 1790
+	val1 : 27
+	val2 : 30
+k, s : 3, 1795
+	val1 : 19
+	val2 : 35
+k, s : 3, 1800
+	val1 : 11
+	val2 : 11
+k, s : 3, 1805
+	val1 : 16
+	val2 : 16
+k, s : 3, 1810
+	val1 : 21
+	val2 : 21
+k, s : 3, 1815
+	val1 : 26
+	val2 : 26
+k, s : 3, 1820
+	val1 : 28
+	val2 : 31
+k, s : 3, 1825
+	val1 : 20
+	val2 : 36
+k, s : 3, 1830
+	val1 : 12
+	val2 : 12
+k, s : 3, 1835
+	val1 : 17
+	val2 : 17
+k, s : 3, 1840
+	val1 : 22
+	val2 : 22
+k, s : 3, 1845
+	val1 : 27
+	val2 : 27
+k, s : 3, 1850
+	val1 : 29
+	val2 : 32
+k, s : 3, 1855
+	val1 : 21
+	val2 : 37
+k, s : 3, 1860
+	val1 : 13
+	val2 : 13
+k, s : 3, 1865
+	val1 : 18
+	val2 : 18
+k, s : 3, 1870
+	val1 : 23
+	val2 : 23
+k, s : 3, 1875
+	val1 : 28
+	val2 : 28
+k, s : 3, 1880
+	val1 : 30
+	val2 : 33
+k, s : 3, 1885
+	val1 : 22
+	val2 : 38
+k, s : 3, 1890
+	val1 : 14
+	val2 : 14
+k, s : 3, 1895
+	val1 : 19
+	val2 : 19
+k, s : 3, 1900
+	val1 : 24
+	val2 : 24
+k, s : 3, 1905
+	val1 : 29
+	val2 : 29
+k, s : 3, 1910
+	val1 : 31
+	val2 : 34
+k, s : 3, 1915
+	val1 : 23
+	val2 : 39
+k, s : 3, 1920
+	val1 : 15
+	val2 : 15
+k, s : 3, 1925
+	val1 : 7
+	val2 : 7
+k, s : 3, 1930
+	val1 : 12
+	val2 : 12
+k, s : 3, 1935
+	val1 : 17
+	val2 : 17
+k, s : 3, 1940
+	val1 : 22
+	val2 : 22
+k, s : 3, 1945
+	val1 : 24
+	val2 : 27
+k, s : 3, 1950
+	val1 : 16
+	val2 : 32
+k, s : 3, 1955
+	val1 : 8
+	val2 : 8
+k, s : 3, 1960
+	val1 : 13
+	val2 : 13
+k, s : 3, 1965
+	val1 : 18
+	val2 : 18
+k, s : 3, 1970
+	val1 : 23
+	val2 : 23
+k, s : 3, 1975
+	val1 : 25
+	val2 : 28
+k, s : 3, 1980
+	val1 : 17
+	val2 : 33
+k, s : 3, 1985
+	val1 : 9
+	val2 : 9
+k, s : 3, 1990
+	val1 : 14
+	val2 : 14
+k, s : 3, 1995
+	val1 : 19
+	val2 : 19
+k, s : 3, 2000
+	val1 : 24
+	val2 : 24
+k, s : 3, 400
+	val1 : 22
+	val2 : 22
+k, s : 3, 405
+	val1 : 10
+	val2 : 10
+k, s : 3, 410
+	val1 : 15
+	val2 : 15
+k, s : 3, 415
+	val1 : 20
+	val2 : 20
+k, s : 3, 420
+	val1 : 8
+	val2 : 8
+k, s : 3, 425
+	val1 : 13
+	val2 : 13
+k, s : 3, 430
+	val1 : 18
+	val2 : 18
+k, s : 3, 435
+	val1 : 23
+	val2 : 23
+k, s : 3, 440
+	val1 : 11
+	val2 : 11
+k, s : 3, 445
+	val1 : 16
+	val2 : 16
+k, s : 3, 450
+	val1 : 21
+	val2 : 21
+k, s : 3, 455
+	val1 : 26
+	val2 : 26
+k, s : 3, 460
+	val1 : 14
+	val2 : 14
+k, s : 3, 465
+	val1 : 19
+	val2 : 19
+k, s : 3, 470
+	val1 : 24
+	val2 : 24
+k, s : 3, 475
+	val1 : 12
+	val2 : 12
+k, s : 3, 480
+	val1 : 17
+	val2 : 17
+k, s : 3, 485
+	val1 : 22
+	val2 : 22
+k, s : 3, 490
+	val1 : 27
+	val2 : 27
+k, s : 3, 495
+	val1 : 15
+	val2 : 15
+k, s : 3, 500
+	val1 : 20
+	val2 : 20
+k, s : 3, 505
+	val1 : 25
+	val2 : 25
+k, s : 3, 510
+	val1 : 13
+	val2 : 13
+k, s : 3, 515
+	val1 : 18
+	val2 : 18
+k, s : 3, 520
+	val1 : 23
+	val2 : 23
+k, s : 3, 525
+	val1 : 28
+	val2 : 28
+k, s : 3, 530
+	val1 : 16
+	val2 : 16
+k, s : 3, 535
+	val1 : 21
+	val2 : 21
+k, s : 3, 540
+	val1 : 26
+	val2 : 26
+k, s : 3, 545
+	val1 : 31
+	val2 : 31
+k, s : 3, 550
+	val1 : 19
+	val2 : 19
+k, s : 3, 555
+	val1 : 24
+	val2 : 24
+k, s : 3, 560
+	val1 : 29
+	val2 : 29
+k, s : 3, 565
+	val1 : 17
+	val2 : 17
+k, s : 3, 570
+	val1 : 22
+	val2 : 22
+k, s : 3, 575
+	val1 : 27
+	val2 : 27
+k, s : 3, 580
+	val1 : 32
+	val2 : 32
+k, s : 3, 585
+	val1 : 20
+	val2 : 20
+k, s : 3, 590
+	val1 : 4
+	val2 : 4
+k, s : 3, 595
+	val1 : 9
+	val2 : 9
+k, s : 3, 600
+	val1 : 14
+	val2 : 14
+k, s : 3, 605
+	val1 : 19
+	val2 : 19
+k, s : 3, 610
+	val1 : 7
+	val2 : 7
+k, s : 3, 615
+	val1 : 12
+	val2 : 12
+k, s : 3, 620
+	val1 : 17
+	val2 : 17
+k, s : 3, 625
+	val1 : 5
+	val2 : 5
+k, s : 3, 630
+	val1 : 10
+	val2 : 10
+k, s : 3, 635
+	val1 : 15
+	val2 : 15
+k, s : 3, 640
+	val1 : 20
+	val2 : 20
+k, s : 3, 645
+	val1 : 8
+	val2 : 8
+k, s : 3, 650
+	val1 : 13
+	val2 : 13
+k, s : 3, 655
+	val1 : 18
+	val2 : 18
+k, s : 3, 660
+	val1 : 6
+	val2 : 6
+k, s : 3, 665
+	val1 : 11
+	val2 : 11
+k, s : 3, 670
+	val1 : 16
+	val2 : 16
+k, s : 3, 675
+	val1 : 21
+	val2 : 21
+k, s : 3, 680
+	val1 : 9
+	val2 : 9
+k, s : 3, 685
+	val1 : 14
+	val2 : 14
+k, s : 3, 690
+	val1 : 19
+	val2 : 19
+k, s : 3, 695
+	val1 : 24
+	val2 : 24
+k, s : 3, 700
+	val1 : 12
+	val2 : 12
+k, s : 3, 705
+	val1 : 17
+	val2 : 17
+k, s : 3, 710
+	val1 : 22
+	val2 : 22
+k, s : 3, 715
+	val1 : 10
+	val2 : 10
+k, s : 3, 720
+	val1 : 15
+	val2 : 15
+k, s : 3, 725
+	val1 : 20
+	val2 : 20
+k, s : 3, 730
+	val1 : 25
+	val2 : 25
+k, s : 3, 735
+	val1 : 13
+	val2 : 13
+k, s : 3, 740
+	val1 : 18
+	val2 : 18
+k, s : 3, 745
+	val1 : 23
+	val2 : 23
+k, s : 3, 750
+	val1 : 11
+	val2 : 11
+k, s : 3, 755
+	val1 : 16
+	val2 : 16
+k, s : 3, 760
+	val1 : 21
+	val2 : 21
+k, s : 3, 765
+	val1 : 26
+	val2 : 26
+k, s : 3, 770
+	val1 : 14
+	val2 : 14
+k, s : 3, 775
+	val1 : 19
+	val2 : 19
+k, s : 3, 780
+	val1 : 24
+	val2 : 24
+k, s : 3, 785
+	val1 : 29
+	val2 : 29
+k, s : 3, 790
+	val1 : 17
+	val2 : 17
+k, s : 3, 795
+	val1 : 22
+	val2 : 22
+k, s : 3, 800
+	val1 : 27
+	val2 : 27
+k, s : 3, 805
+	val1 : 15
+	val2 : 15
+k, s : 3, 810
+	val1 : 20
+	val2 : 20
+k, s : 3, 815
+	val1 : 25
+	val2 : 25
+k, s : 3, 820
+	val1 : 30
+	val2 : 30
+k, s : 3, 825
+	val1 : 18
+	val2 : 18
+k, s : 3, 830
+	val1 : 23
+	val2 : 23
+k, s : 3, 835
+	val1 : 28
+	val2 : 28
+k, s : 3, 840
+	val1 : 16
+	val2 : 16
+k, s : 3, 845
+	val1 : 21
+	val2 : 21
+k, s : 3, 850
+	val1 : 26
+	val2 : 26
+k, s : 3, 855
+	val1 : 31
+	val2 : 31
+k, s : 3, 860
+	val1 : 19
+	val2 : 19
+k, s : 3, 865
+	val1 : 24
+	val2 : 24
+k, s : 3, 870
+	val1 : 29
+	val2 : 29
+k, s : 3, 875
+	val1 : 34
+	val2 : 34
+k, s : 3, 880
+	val1 : 22
+	val2 : 22
+k, s : 3, 885
+	val1 : 6
+	val2 : 6
+k, s : 3, 890
+	val1 : 11
+	val2 : 11
+k, s : 3, 895
+	val1 : 16
+	val2 : 16
+k, s : 3, 900
+	val1 : 4
+	val2 : 4
+k, s : 3, 905
+	val1 : 9
+	val2 : 9
+k, s : 3, 910
+	val1 : 14
+	val2 : 14
+k, s : 3, 915
+	val1 : 19
+	val2 : 19
+k, s : 3, 920
+	val1 : 7
+	val2 : 7
+k, s : 3, 925
+	val1 : 12
+	val2 : 12
+k, s : 3, 930
+	val1 : 17
+	val2 : 17
+k, s : 3, 935
+	val1 : 22
+	val2 : 22
+k, s : 3, 940
+	val1 : 10
+	val2 : 10
+k, s : 3, 945
+	val1 : 15
+	val2 : 15
+k, s : 3, 950
+	val1 : 20
+	val2 : 20
+k, s : 3, 955
+	val1 : 8
+	val2 : 8
+k, s : 3, 960
+	val1 : 13
+	val2 : 13
+k, s : 3, 965
+	val1 : 18
+	val2 : 18
+k, s : 3, 970
+	val1 : 23
+	val2 : 23
+k, s : 3, 975
+	val1 : 11
+	val2 : 11
+k, s : 3, 980
+	val1 : 16
+	val2 : 16
+k, s : 3, 985
+	val1 : 21
+	val2 : 21
+k, s : 3, 990
+	val1 : 9
+	val2 : 9
+k, s : 3, 995
+	val1 : 14
+	val2 : 14
+k, s : 3, 1000
+	val1 : 19
+	val2 : 19
+k, s : 3, 1005
+	val1 : 24
+	val2 : 24
+k, s : 3, 1010
+	val1 : 12
+	val2 : 12
+k, s : 3, 1015
+	val1 : 17
+	val2 : 17
+k, s : 3, 1020
+	val1 : 22
+	val2 : 22
+k, s : 3, 1025
+	val1 : 27
+	val2 : 27
+k, s : 3, 1030
+	val1 : 15
+	val2 : 15
+k, s : 3, 1035
+	val1 : 20
+	val2 : 20
+k, s : 3, 1040
+	val1 : 25
+	val2 : 25
+k, s : 3, 1045
+	val1 : 13
+	val2 : 13
+k, s : 3, 1050
+	val1 : 18
+	val2 : 18
+k, s : 3, 1055
+	val1 : 23
+	val2 : 23
+k, s : 3, 1060
+	val1 : 28
+	val2 : 28
+k, s : 3, 1065
+	val1 : 16
+	val2 : 16
+k, s : 3, 1070
+	val1 : 21
+	val2 : 21
+k, s : 3, 1075
+	val1 : 26
+	val2 : 26
+k, s : 3, 1080
+	val1 : 14
+	val2 : 14
+k, s : 3, 1085
+	val1 : 19
+	val2 : 19
+k, s : 3, 1090
+	val1 : 24
+	val2 : 24
+k, s : 3, 1095
+	val1 : 29
+	val2 : 29
+k, s : 3, 1100
+	val1 : 17
+	val2 : 17
+k, s : 3, 1105
+	val1 : 22
+	val2 : 22
+k, s : 3, 1110
+	val1 : 27
+	val2 : 27
+k, s : 3, 1115
+	val1 : 32
+	val2 : 32
+k, s : 3, 1120
+	val1 : 20
+	val2 : 20
+k, s : 3, 1125
+	val1 : 25
+	val2 : 25
+k, s : 3, 1130
+	val1 : 30
+	val2 : 30
+k, s : 3, 1135
+	val1 : 18
+	val2 : 18
+k, s : 3, 1140
+	val1 : 23
+	val2 : 23
+k, s : 3, 1145
+	val1 : 28
+	val2 : 28
+k, s : 3, 1150
+	val1 : 33
+	val2 : 33
+k, s : 3, 1155
+	val1 : 21
+	val2 : 21
+k, s : 3, 1160
+	val1 : 26
+	val2 : 26
+k, s : 3, 1165
+	val1 : 31
+	val2 : 31
+k, s : 3, 1170
+	val1 : 19
+	val2 : 19
+k, s : 3, 1175
+	val1 : 24
+	val2 : 24
+k, s : 3, 1180
+	val1 : 8
+	val2 : 8
+k, s : 3, 1185
+	val1 : 13
+	val2 : 13
+k, s : 3, 1190
+	val1 : 18
+	val2 : 18
+k, s : 3, 1195
+	val1 : 6
+	val2 : 6
+k, s : 3, 1200
+	val1 : 11
+	val2 : 11
+k, s : 3, 1205
+	val1 : 16
+	val2 : 16
+k, s : 3, 1210
+	val1 : 21
+	val2 : 21
+k, s : 3, 1215
+	val1 : 9
+	val2 : 9
+k, s : 3, 1220
+	val1 : 14
+	val2 : 14
+k, s : 3, 1225
+	val1 : 19
+	val2 : 19
+k, s : 3, 1230
+	val1 : 7
+	val2 : 7
+k, s : 3, 1235
+	val1 : 12
+	val2 : 12
+k, s : 3, 1240
+	val1 : 17
+	val2 : 17
+k, s : 3, 1245
+	val1 : 22
+	val2 : 22
+k, s : 3, 1250
+	val1 : 10
+	val2 : 10
+k, s : 3, 1255
+	val1 : 15
+	val2 : 15
+k, s : 3, 1260
+	val1 : 20
+	val2 : 20
+k, s : 3, 1265
+	val1 : 25
+	val2 : 25
+k, s : 3, 1270
+	val1 : 13
+	val2 : 13
+k, s : 3, 1275
+	val1 : 18
+	val2 : 18
+k, s : 3, 1280
+	val1 : 23
+	val2 : 23
+k, s : 3, 1285
+	val1 : 11
+	val2 : 11
+k, s : 3, 1290
+	val1 : 16
+	val2 : 16
+k, s : 3, 1295
+	val1 : 21
+	val2 : 21
+k, s : 3, 1300
+	val1 : 26
+	val2 : 26
+k, s : 3, 1305
+	val1 : 14
+	val2 : 14
+k, s : 3, 1310
+	val1 : 19
+	val2 : 19
+k, s : 3, 1315
+	val1 : 24
+	val2 : 24
+k, s : 3, 1320
+	val1 : 12
+	val2 : 12
+k, s : 3, 1325
+	val1 : 17
+	val2 : 17
+k, s : 3, 1330
+	val1 : 22
+	val2 : 22
+k, s : 3, 1335
+	val1 : 27
+	val2 : 27
+k, s : 3, 1340
+	val1 : 15
+	val2 : 15
+k, s : 3, 1345
+	val1 : 20
+	val2 : 20
+k, s : 3, 1350
+	val1 : 25
+	val2 : 25
+k, s : 3, 1355
+	val1 : 30
+	val2 : 30
+k, s : 3, 1360
+	val1 : 18
+	val2 : 18
+k, s : 3, 1365
+	val1 : 23
+	val2 : 23
+k, s : 3, 1370
+	val1 : 28
+	val2 : 28
+k, s : 3, 1375
+	val1 : 16
+	val2 : 16
+k, s : 3, 1380
+	val1 : 21
+	val2 : 21
+k, s : 3, 1385
+	val1 : 26
+	val2 : 26
+k, s : 3, 1390
+	val1 : 31
+	val2 : 31
+k, s : 3, 1395
+	val1 : 19
+	val2 : 19
+k, s : 3, 1400
+	val1 : 24
+	val2 : 24
+k, s : 3, 1405
+	val1 : 29
+	val2 : 29
+k, s : 3, 1410
+	val1 : 17
+	val2 : 17
+k, s : 3, 1415
+	val1 : 22
+	val2 : 22
+k, s : 3, 1420
+	val1 : 27
+	val2 : 27
+k, s : 3, 1425
+	val1 : 32
+	val2 : 32
+k, s : 3, 1430
+	val1 : 20
+	val2 : 20
+k, s : 3, 1435
+	val1 : 25
+	val2 : 25
+k, s : 3, 1440
+	val1 : 30
+	val2 : 30
+k, s : 3, 1445
+	val1 : 35
+	val2 : 35
+k, s : 3, 1450
+	val1 : 23
+	val2 : 23
+k, s : 3, 1455
+	val1 : 28
+	val2 : 28
+k, s : 3, 1460
+	val1 : 33
+	val2 : 33
+k, s : 3, 1465
+	val1 : 21
+	val2 : 21
+k, s : 3, 1470
+	val1 : 5
+	val2 : 5
+k, s : 3, 1475
+	val1 : 10
+	val2 : 10
+k, s : 3, 1480
+	val1 : 15
+	val2 : 15
+k, s : 3, 1485
+	val1 : 20
+	val2 : 20
+k, s : 3, 1490
+	val1 : 8
+	val2 : 8
+k, s : 3, 1495
+	val1 : 13
+	val2 : 13
+k, s : 3, 1500
+	val1 : 18
+	val2 : 18
+k, s : 3, 1505
+	val1 : 23
+	val2 : 23
+k, s : 3, 1510
+	val1 : 11
+	val2 : 11
+k, s : 3, 1515
+	val1 : 16
+	val2 : 16
+k, s : 3, 1520
+	val1 : 21
+	val2 : 21
+k, s : 3, 1525
+	val1 : 9
+	val2 : 9
+k, s : 3, 1530
+	val1 : 14
+	val2 : 14
+k, s : 3, 1535
+	val1 : 19
+	val2 : 19
+k, s : 3, 1540
+	val1 : 24
+	val2 : 24
+k, s : 3, 1545
+	val1 : 12
+	val2 : 12
+k, s : 3, 1550
+	val1 : 17
+	val2 : 17
+k, s : 3, 1555
+	val1 : 22
+	val2 : 22
+k, s : 3, 1560
+	val1 : 10
+	val2 : 10
+k, s : 3, 1565
+	val1 : 15
+	val2 : 15
+k, s : 3, 1570
+	val1 : 20
+	val2 : 20
+k, s : 3, 1575
+	val1 : 25
+	val2 : 25
+k, s : 3, 1580
+	val1 : 13
+	val2 : 13
+k, s : 3, 1585
+	val1 : 18
+	val2 : 18
+k, s : 3, 1590
+	val1 : 23
+	val2 : 23
+k, s : 3, 1595
+	val1 : 28
+	val2 : 28
+k, s : 3, 1600
+	val1 : 16
+	val2 : 16
+k, s : 3, 1605
+	val1 : 21
+	val2 : 21
+k, s : 3, 1610
+	val1 : 26
+	val2 : 26
+k, s : 3, 1615
+	val1 : 14
+	val2 : 14
+k, s : 3, 1620
+	val1 : 19
+	val2 : 19
+k, s : 3, 1625
+	val1 : 24
+	val2 : 24
+k, s : 3, 1630
+	val1 : 29
+	val2 : 29
+k, s : 3, 1635
+	val1 : 17
+	val2 : 17
+k, s : 3, 1640
+	val1 : 22
+	val2 : 22
+k, s : 3, 1645
+	val1 : 27
+	val2 : 27
+k, s : 3, 1650
+	val1 : 15
+	val2 : 15
+k, s : 3, 1655
+	val1 : 20
+	val2 : 20
+k, s : 3, 1660
+	val1 : 25
+	val2 : 25
+k, s : 3, 1665
+	val1 : 30
+	val2 : 30
+k, s : 3, 1670
+	val1 : 18
+	val2 : 18
+k, s : 3, 1675
+	val1 : 23
+	val2 : 23
+k, s : 3, 1680
+	val1 : 28
+	val2 : 28
+k, s : 3, 1685
+	val1 : 33
+	val2 : 33
+k, s : 3, 1690
+	val1 : 21
+	val2 : 21
+k, s : 3, 1695
+	val1 : 26
+	val2 : 26
+k, s : 3, 1700
+	val1 : 31
+	val2 : 31
+k, s : 3, 1705
+	val1 : 19
+	val2 : 19
+k, s : 3, 1710
+	val1 : 24
+	val2 : 24
+k, s : 3, 1715
+	val1 : 29
+	val2 : 29
+k, s : 3, 1720
+	val1 : 34
+	val2 : 34
+k, s : 3, 1725
+	val1 : 22
+	val2 : 22
+k, s : 3, 1730
+	val1 : 27
+	val2 : 27
+k, s : 3, 1735
+	val1 : 32
+	val2 : 32
+k, s : 3, 1740
+	val1 : 20
+	val2 : 20
+k, s : 3, 1745
+	val1 : 25
+	val2 : 25
+k, s : 3, 1750
+	val1 : 30
+	val2 : 30
+k, s : 3, 1755
+	val1 : 35
+	val2 : 35
+k, s : 3, 1760
+	val1 : 23
+	val2 : 23
+k, s : 3, 1765
+	val1 : 7
+	val2 : 7
+k, s : 3, 1770
+	val1 : 12
+	val2 : 12
+k, s : 3, 1775
+	val1 : 17
+	val2 : 17
+k, s : 3, 1780
+	val1 : 22
+	val2 : 22
+k, s : 3, 1785
+	val1 : 10
+	val2 : 10
+k, s : 3, 1790
+	val1 : 15
+	val2 : 15
+k, s : 3, 1795
+	val1 : 20
+	val2 : 20
+k, s : 3, 1800
+	val1 : 8
+	val2 : 8
+k, s : 3, 1805
+	val1 : 13
+	val2 : 13
+k, s : 3, 1810
+	val1 : 18
+	val2 : 18
+k, s : 3, 1815
+	val1 : 23
+	val2 : 23
+k, s : 3, 1820
+	val1 : 11
+	val2 : 11
+k, s : 3, 1825
+	val1 : 16
+	val2 : 16
+k, s : 3, 1830
+	val1 : 21
+	val2 : 21
+k, s : 3, 1835
+	val1 : 26
+	val2 : 26
+k, s : 3, 1840
+	val1 : 14
+	val2 : 14
+k, s : 3, 1845
+	val1 : 19
+	val2 : 19
+k, s : 3, 1850
+	val1 : 24
+	val2 : 24
+k, s : 3, 1855
+	val1 : 12
+	val2 : 12
+k, s : 3, 1860
+	val1 : 17
+	val2 : 17
+k, s : 3, 1865
+	val1 : 22
+	val2 : 22
+k, s : 3, 1870
+	val1 : 27
+	val2 : 27
+k, s : 3, 1875
+	val1 : 15
+	val2 : 15
+k, s : 3, 1880
+	val1 : 20
+	val2 : 20
+k, s : 3, 1885
+	val1 : 25
+	val2 : 25
+k, s : 3, 1890
+	val1 : 13
+	val2 : 13
+k, s : 3, 1895
+	val1 : 18
+	val2 : 18
+k, s : 3, 1900
+	val1 : 23
+	val2 : 23
+k, s : 3, 1905
+	val1 : 28
+	val2 : 28
+k, s : 3, 1910
+	val1 : 16
+	val2 : 16
+k, s : 3, 1915
+	val1 : 21
+	val2 : 21
+k, s : 3, 1920
+	val1 : 26
+	val2 : 26
+k, s : 3, 1925
+	val1 : 31
+	val2 : 31
+k, s : 3, 1930
+	val1 : 19
+	val2 : 19
+k, s : 3, 1935
+	val1 : 24
+	val2 : 24
+k, s : 3, 1940
+	val1 : 29
+	val2 : 29
+k, s : 3, 1945
+	val1 : 17
+	val2 : 17
+k, s : 3, 1950
+	val1 : 22
+	val2 : 22
+k, s : 3, 1955
+	val1 : 27
+	val2 : 27
+k, s : 3, 1960
+	val1 : 32
+	val2 : 32
+k, s : 3, 1965
+	val1 : 20
+	val2 : 20
+k, s : 3, 1970
+	val1 : 25
+	val2 : 25
+k, s : 3, 1975
+	val1 : 30
+	val2 : 30
+k, s : 3, 1980
+	val1 : 18
+	val2 : 18
+k, s : 3, 1985
+	val1 : 23
+	val2 : 23
+k, s : 3, 1990
+	val1 : 28
+	val2 : 28
+k, s : 3, 1995
+	val1 : 33
+	val2 : 33
+k, s : 3, 2000
+	val1 : 21
+	val2 : 21
+k, s : 3, 400
+	val1 : 30
+	val2 : 30
+k, s : 3, 405
+	val1 : 4
+	val2 : 35
+k, s : 3, 410
+	val1 : 9
+	val2 : 40
+k, s : 3, 415
+	val1 : 14
+	val2 : 45
+k, s : 3, 420
+	val1 : 19
+	val2 : 50
+k, s : 3, 425
+	val1 : 24
+	val2 : 55
+k, s : 3, 430
+	val1 : 29
+	val2 : 60
+k, s : 3, 435
+	val1 : 34
+	val2 : 65
+k, s : 3, 440
+	val1 : 8
+	val2 : 70
+k, s : 3, 445
+	val1 : 3
+	val2 : 3
+k, s : 3, 450
+	val1 : 8
+	val2 : 8
+k, s : 3, 455
+	val1 : 13
+	val2 : 13
+k, s : 3, 460
+	val1 : 18
+	val2 : 18
+k, s : 3, 465
+	val1 : 23
+	val2 : 23
+k, s : 3, 470
+	val1 : 28
+	val2 : 28
+k, s : 3, 475
+	val1 : 33
+	val2 : 33
+k, s : 3, 480
+	val1 : 7
+	val2 : 38
+k, s : 3, 485
+	val1 : 12
+	val2 : 43
+k, s : 3, 490
+	val1 : 17
+	val2 : 48
+k, s : 3, 495
+	val1 : 22
+	val2 : 53
+k, s : 3, 500
+	val1 : 27
+	val2 : 58
+k, s : 3, 505
+	val1 : 32
+	val2 : 63
+k, s : 3, 510
+	val1 : 37
+	val2 : 68
+k, s : 3, 515
+	val1 : 11
+	val2 : 73
+k, s : 3, 520
+	val1 : 6
+	val2 : 6
+k, s : 3, 525
+	val1 : 11
+	val2 : 11
+k, s : 3, 530
+	val1 : 16
+	val2 : 16
+k, s : 3, 535
+	val1 : 21
+	val2 : 21
+k, s : 3, 540
+	val1 : 26
+	val2 : 26
+k, s : 3, 545
+	val1 : 31
+	val2 : 31
+k, s : 3, 550
+	val1 : 36
+	val2 : 36
+k, s : 3, 555
+	val1 : 10
+	val2 : 41
+k, s : 3, 560
+	val1 : 5
+	val2 : 5
+k, s : 3, 565
+	val1 : 10
+	val2 : 10
+k, s : 3, 570
+	val1 : 15
+	val2 : 15
+k, s : 3, 575
+	val1 : 20
+	val2 : 20
+k, s : 3, 580
+	val1 : 25
+	val2 : 25
+k, s : 3, 585
+	val1 : 9
+	val2 : 30
+k, s : 3, 590
+	val1 : 14
+	val2 : 35
+k, s : 3, 595
+	val1 : 9
+	val2 : 40
+k, s : 3, 600
+	val1 : 14
+	val2 : 45
+k, s : 3, 605
+	val1 : 19
+	val2 : 50
+k, s : 3, 610
+	val1 : 24
+	val2 : 55
+k, s : 3, 615
+	val1 : 29
+	val2 : 60
+k, s : 3, 620
+	val1 : 34
+	val2 : 65
+k, s : 3, 625
+	val1 : 8
+	val2 : 70
+k, s : 3, 630
+	val1 : 13
+	val2 : 75
+k, s : 3, 635
+	val1 : 8
+	val2 : 8
+k, s : 3, 640
+	val1 : 13
+	val2 : 13
+k, s : 3, 645
+	val1 : 18
+	val2 : 18
+k, s : 3, 650
+	val1 : 23
+	val2 : 23
+k, s : 3, 655
+	val1 : 28
+	val2 : 28
+k, s : 3, 660
+	val1 : 12
+	val2 : 33
+k, s : 3, 665
+	val1 : 7
+	val2 : 38
+k, s : 3, 670
+	val1 : 12
+	val2 : 43
+k, s : 3, 675
+	val1 : 17
+	val2 : 48
+k, s : 3, 680
+	val1 : 22
+	val2 : 53
+k, s : 3, 685
+	val1 : 27
+	val2 : 58
+k, s : 3, 690
+	val1 : 32
+	val2 : 63
+k, s : 3, 695
+	val1 : 37
+	val2 : 68
+k, s : 3, 700
+	val1 : 11
+	val2 : 73
+k, s : 3, 705
+	val1 : 6
+	val2 : 6
+k, s : 3, 710
+	val1 : 11
+	val2 : 11
+k, s : 3, 715
+	val1 : 16
+	val2 : 16
+k, s : 3, 720
+	val1 : 21
+	val2 : 21
+k, s : 3, 725
+	val1 : 26
+	val2 : 26
+k, s : 3, 730
+	val1 : 10
+	val2 : 31
+k, s : 3, 735
+	val1 : 15
+	val2 : 36
+k, s : 3, 740
+	val1 : 10
+	val2 : 41
+k, s : 3, 745
+	val1 : 5
+	val2 : 5
+k, s : 3, 750
+	val1 : 10
+	val2 : 10
+k, s : 3, 755
+	val1 : 15
+	val2 : 15
+k, s : 3, 760
+	val1 : 20
+	val2 : 20
+k, s : 3, 765
+	val1 : 25
+	val2 : 25
+k, s : 3, 770
+	val1 : 9
+	val2 : 30
+k, s : 3, 775
+	val1 : 14
+	val2 : 35
+k, s : 3, 780
+	val1 : 9
+	val2 : 40
+k, s : 3, 785
+	val1 : 14
+	val2 : 45
+k, s : 3, 790
+	val1 : 19
+	val2 : 50
+k, s : 3, 795
+	val1 : 24
+	val2 : 55
+k, s : 3, 800
+	val1 : 29
+	val2 : 60
+k, s : 3, 805
+	val1 : 13
+	val2 : 65
+k, s : 3, 810
+	val1 : 8
+	val2 : 70
+k, s : 3, 815
+	val1 : 13
+	val2 : 75
+k, s : 3, 820
+	val1 : 8
+	val2 : 8
+k, s : 3, 825
+	val1 : 13
+	val2 : 13
+k, s : 3, 830
+	val1 : 18
+	val2 : 18
+k, s : 3, 835
+	val1 : 23
+	val2 : 23
+k, s : 3, 840
+	val1 : 28
+	val2 : 28
+k, s : 3, 845
+	val1 : 12
+	val2 : 33
+k, s : 3, 850
+	val1 : 7
+	val2 : 38
+k, s : 3, 855
+	val1 : 12
+	val2 : 43
+k, s : 3, 860
+	val1 : 17
+	val2 : 48
+k, s : 3, 865
+	val1 : 22
+	val2 : 53
+k, s : 3, 870
+	val1 : 27
+	val2 : 58
+k, s : 3, 875
+	val1 : 32
+	val2 : 63
+k, s : 3, 880
+	val1 : 16
+	val2 : 68
+k, s : 3, 885
+	val1 : 11
+	val2 : 73
+k, s : 3, 890
+	val1 : 6
+	val2 : 6
+k, s : 3, 895
+	val1 : 11
+	val2 : 11
+k, s : 3, 900
+	val1 : 16
+	val2 : 16
+k, s : 3, 905
+	val1 : 21
+	val2 : 21
+k, s : 3, 910
+	val1 : 26
+	val2 : 26
+k, s : 3, 915
+	val1 : 31
+	val2 : 31
+k, s : 3, 920
+	val1 : 15
+	val2 : 36
+k, s : 3, 925
+	val1 : 10
+	val2 : 41
+k, s : 3, 930
+	val1 : 5
+	val2 : 5
+k, s : 3, 935
+	val1 : 10
+	val2 : 10
+k, s : 3, 940
+	val1 : 15
+	val2 : 15
+k, s : 3, 945
+	val1 : 20
+	val2 : 20
+k, s : 3, 950
+	val1 : 14
+	val2 : 25
+k, s : 3, 955
+	val1 : 19
+	val2 : 30
+k, s : 3, 960
+	val1 : 14
+	val2 : 35
+k, s : 3, 965
+	val1 : 9
+	val2 : 40
+k, s : 3, 970
+	val1 : 14
+	val2 : 45
+k, s : 3, 975
+	val1 : 19
+	val2 : 50
+k, s : 3, 980
+	val1 : 24
+	val2 : 55
+k, s : 3, 985
+	val1 : 29
+	val2 : 60
+k, s : 3, 990
+	val1 : 13
+	val2 : 65
+k, s : 3, 995
+	val1 : 18
+	val2 : 70
+k, s : 3, 1000
+	val1 : 13
+	val2 : 75
+k, s : 3, 1005
+	val1 : 8
+	val2 : 8
+k, s : 3, 1010
+	val1 : 13
+	val2 : 13
+k, s : 3, 1015
+	val1 : 18
+	val2 : 18
+k, s : 3, 1020
+	val1 : 23
+	val2 : 23
+k, s : 3, 1025
+	val1 : 17
+	val2 : 28
+k, s : 3, 1030
+	val1 : 12
+	val2 : 33
+k, s : 3, 1035
+	val1 : 17
+	val2 : 38
+k, s : 3, 1040
+	val1 : 12
+	val2 : 43
+k, s : 3, 1045
+	val1 : 17
+	val2 : 48
+k, s : 3, 1050
+	val1 : 22
+	val2 : 53
+k, s : 3, 1055
+	val1 : 27
+	val2 : 58
+k, s : 3, 1060
+	val1 : 32
+	val2 : 63
+k, s : 3, 1065
+	val1 : 16
+	val2 : 68
+k, s : 3, 1070
+	val1 : 11
+	val2 : 73
+k, s : 3, 1075
+	val1 : 16
+	val2 : 78
+k, s : 3, 1080
+	val1 : 11
+	val2 : 11
+k, s : 3, 1085
+	val1 : 16
+	val2 : 16
+k, s : 3, 1090
+	val1 : 21
+	val2 : 21
+k, s : 3, 1095
+	val1 : 15
+	val2 : 26
+k, s : 3, 1100
+	val1 : 20
+	val2 : 31
+k, s : 3, 1105
+	val1 : 15
+	val2 : 36
+k, s : 3, 1110
+	val1 : 10
+	val2 : 41
+k, s : 3, 1115
+	val1 : 15
+	val2 : 46
+k, s : 3, 1120
+	val1 : 10
+	val2 : 10
+k, s : 3, 1125
+	val1 : 15
+	val2 : 15
+k, s : 3, 1130
+	val1 : 20
+	val2 : 20
+k, s : 3, 1135
+	val1 : 14
+	val2 : 25
+k, s : 3, 1140
+	val1 : 19
+	val2 : 30
+k, s : 3, 1145
+	val1 : 14
+	val2 : 35
+k, s : 3, 1150
+	val1 : 9
+	val2 : 40
+k, s : 3, 1155
+	val1 : 14
+	val2 : 45
+k, s : 3, 1160
+	val1 : 19
+	val2 : 50
+k, s : 3, 1165
+	val1 : 24
+	val2 : 55
+k, s : 3, 1170
+	val1 : 18
+	val2 : 60
+k, s : 3, 1175
+	val1 : 13
+	val2 : 65
+k, s : 3, 1180
+	val1 : 18
+	val2 : 70
+k, s : 3, 1185
+	val1 : 13
+	val2 : 75
+k, s : 3, 1190
+	val1 : 8
+	val2 : 8
+k, s : 3, 1195
+	val1 : 13
+	val2 : 13
+k, s : 3, 1200
+	val1 : 18
+	val2 : 18
+k, s : 3, 1205
+	val1 : 23
+	val2 : 23
+k, s : 3, 1210
+	val1 : 17
+	val2 : 28
+k, s : 3, 1215
+	val1 : 12
+	val2 : 33
+k, s : 3, 1220
+	val1 : 17
+	val2 : 38
+k, s : 3, 1225
+	val1 : 12
+	val2 : 43
+k, s : 3, 1230
+	val1 : 17
+	val2 : 48
+k, s : 3, 1235
+	val1 : 22
+	val2 : 53
+k, s : 3, 1240
+	val1 : 27
+	val2 : 58
+k, s : 3, 1245
+	val1 : 21
+	val2 : 63
+k, s : 3, 1250
+	val1 : 16
+	val2 : 68
+k, s : 3, 1255
+	val1 : 11
+	val2 : 73
+k, s : 3, 1260
+	val1 : 16
+	val2 : 78
+k, s : 3, 1265
+	val1 : 11
+	val2 : 11
+k, s : 3, 1270
+	val1 : 16
+	val2 : 16
+k, s : 3, 1275
+	val1 : 21
+	val2 : 21
+k, s : 3, 1280
+	val1 : 26
+	val2 : 26
+k, s : 3, 1285
+	val1 : 20
+	val2 : 31
+k, s : 3, 1290
+	val1 : 15
+	val2 : 36
+k, s : 3, 1295
+	val1 : 10
+	val2 : 41
+k, s : 3, 1300
+	val1 : 15
+	val2 : 46
+k, s : 3, 1305
+	val1 : 10
+	val2 : 10
+k, s : 3, 1310
+	val1 : 15
+	val2 : 15
+k, s : 3, 1315
+	val1 : 19
+	val2 : 20
+k, s : 3, 1320
+	val1 : 24
+	val2 : 25
+k, s : 3, 1325
+	val1 : 19
+	val2 : 30
+k, s : 3, 1330
+	val1 : 14
+	val2 : 35
+k, s : 3, 1335
+	val1 : 9
+	val2 : 40
+k, s : 3, 1340
+	val1 : 14
+	val2 : 45
+k, s : 3, 1345
+	val1 : 19
+	val2 : 50
+k, s : 3, 1350
+	val1 : 24
+	val2 : 55
+k, s : 3, 1355
+	val1 : 18
+	val2 : 60
+k, s : 3, 1360
+	val1 : 23
+	val2 : 65
+k, s : 3, 1365
+	val1 : 18
+	val2 : 70
+k, s : 3, 1370
+	val1 : 13
+	val2 : 75
+k, s : 3, 1375
+	val1 : 8
+	val2 : 8
+k, s : 3, 1380
+	val1 : 13
+	val2 : 13
+k, s : 3, 1385
+	val1 : 18
+	val2 : 18
+k, s : 3, 1390
+	val1 : 22
+	val2 : 23
+k, s : 3, 1395
+	val1 : 17
+	val2 : 28
+k, s : 3, 1400
+	val1 : 22
+	val2 : 33
+k, s : 3, 1405
+	val1 : 17
+	val2 : 38
+k, s : 3, 1410
+	val1 : 12
+	val2 : 43
+k, s : 3, 1415
+	val1 : 17
+	val2 : 48
+k, s : 3, 1420
+	val1 : 22
+	val2 : 53
+k, s : 3, 1425
+	val1 : 27
+	val2 : 58
+k, s : 3, 1430
+	val1 : 21
+	val2 : 63
+k, s : 3, 1435
+	val1 : 16
+	val2 : 68
+k, s : 3, 1440
+	val1 : 21
+	val2 : 73
+k, s : 3, 1445
+	val1 : 16
+	val2 : 78
+k, s : 3, 1450
+	val1 : 11
+	val2 : 11
+k, s : 3, 1455
+	val1 : 16
+	val2 : 16
+k, s : 3, 1460
+	val1 : 20
+	val2 : 21
+k, s : 3, 1465
+	val1 : 25
+	val2 : 26
+k, s : 3, 1470
+	val1 : 20
+	val2 : 31
+k, s : 3, 1475
+	val1 : 15
+	val2 : 36
+k, s : 3, 1480
+	val1 : 20
+	val2 : 41
+k, s : 3, 1485
+	val1 : 15
+	val2 : 46
+k, s : 3, 1490
+	val1 : 10
+	val2 : 10
+k, s : 3, 1495
+	val1 : 15
+	val2 : 15
+k, s : 3, 1500
+	val1 : 19
+	val2 : 20
+k, s : 3, 1505
+	val1 : 24
+	val2 : 25
+k, s : 3, 1510
+	val1 : 19
+	val2 : 30
+k, s : 3, 1515
+	val1 : 14
+	val2 : 35
+k, s : 3, 1520
+	val1 : 19
+	val2 : 40
+k, s : 3, 1525
+	val1 : 14
+	val2 : 45
+k, s : 3, 1530
+	val1 : 19
+	val2 : 50
+k, s : 3, 1535
+	val1 : 23
+	val2 : 55
+k, s : 3, 1540
+	val1 : 18
+	val2 : 60
+k, s : 3, 1545
+	val1 : 23
+	val2 : 65
+k, s : 3, 1550
+	val1 : 18
+	val2 : 70
+k, s : 3, 1555
+	val1 : 13
+	val2 : 75
+k, s : 3, 1560
+	val1 : 18
+	val2 : 80
+k, s : 3, 1565
+	val1 : 13
+	val2 : 13
+k, s : 3, 1570
+	val1 : 18
+	val2 : 18
+k, s : 3, 1575
+	val1 : 22
+	val2 : 23
+k, s : 3, 1580
+	val1 : 17
+	val2 : 28
+k, s : 3, 1585
+	val1 : 22
+	val2 : 33
+k, s : 3, 1590
+	val1 : 17
+	val2 : 38
+k, s : 3, 1595
+	val1 : 12
+	val2 : 43
+k, s : 3, 1600
+	val1 : 17
+	val2 : 48
+k, s : 3, 1605
+	val1 : 22
+	val2 : 53
+k, s : 3, 1610
+	val1 : 26
+	val2 : 58
+k, s : 3, 1615
+	val1 : 21
+	val2 : 63
+k, s : 3, 1620
+	val1 : 16
+	val2 : 68
+k, s : 3, 1625
+	val1 : 21
+	val2 : 73
+k, s : 3, 1630
+	val1 : 16
+	val2 : 78
+k, s : 3, 1635
+	val1 : 11
+	val2 : 11
+k, s : 3, 1640
+	val1 : 16
+	val2 : 16
+k, s : 3, 1645
+	val1 : 21
+	val2 : 21
+k, s : 3, 1650
+	val1 : 25
+	val2 : 26
+k, s : 3, 1655
+	val1 : 20
+	val2 : 31
+k, s : 3, 1660
+	val1 : 15
+	val2 : 36
+k, s : 3, 1665
+	val1 : 20
+	val2 : 41
+k, s : 3, 1670
+	val1 : 15
+	val2 : 46
+k, s : 3, 1675
+	val1 : 10
+	val2 : 10
+k, s : 3, 1680
+	val1 : 15
+	val2 : 15
+k, s : 3, 1685
+	val1 : 20
+	val2 : 20
+k, s : 3, 1690
+	val1 : 24
+	val2 : 25
+k, s : 3, 1695
+	val1 : 19
+	val2 : 30
+k, s : 3, 1700
+	val1 : 14
+	val2 : 35
+k, s : 3, 1705
+	val1 : 19
+	val2 : 40
+k, s : 3, 1710
+	val1 : 14
+	val2 : 45
+k, s : 3, 1715
+	val1 : 19
+	val2 : 50
+k, s : 3, 1720
+	val1 : 23
+	val2 : 55
+k, s : 3, 1725
+	val1 : 28
+	val2 : 60
+k, s : 3, 1730
+	val1 : 23
+	val2 : 65
+k, s : 3, 1735
+	val1 : 18
+	val2 : 70
+k, s : 3, 1740
+	val1 : 13
+	val2 : 75
+k, s : 3, 1745
+	val1 : 18
+	val2 : 80
+k, s : 3, 1750
+	val1 : 13
+	val2 : 13
+k, s : 3, 1755
+	val1 : 18
+	val2 : 18
+k, s : 3, 1760
+	val1 : 22
+	val2 : 23
+k, s : 3, 1765
+	val1 : 27
+	val2 : 28
+k, s : 3, 1770
+	val1 : 22
+	val2 : 33
+k, s : 3, 1775
+	val1 : 17
+	val2 : 38
+k, s : 3, 1780
+	val1 : 12
+	val2 : 43
+k, s : 3, 1785
+	val1 : 17
+	val2 : 48
+k, s : 3, 1790
+	val1 : 22
+	val2 : 53
+k, s : 3, 1795
+	val1 : 26
+	val2 : 58
+k, s : 3, 1800
+	val1 : 21
+	val2 : 63
+k, s : 3, 1805
+	val1 : 26
+	val2 : 68
+k, s : 3, 1810
+	val1 : 21
+	val2 : 73
+k, s : 3, 1815
+	val1 : 16
+	val2 : 78
+k, s : 3, 1820
+	val1 : 11
+	val2 : 11
+k, s : 3, 1825
+	val1 : 16
+	val2 : 16
+k, s : 3, 1830
+	val1 : 21
+	val2 : 21
+k, s : 3, 1835
+	val1 : 25
+	val2 : 26
+k, s : 3, 1840
+	val1 : 20
+	val2 : 31
+k, s : 3, 1845
+	val1 : 25
+	val2 : 36
+k, s : 3, 1850
+	val1 : 20
+	val2 : 41
+k, s : 3, 1855
+	val1 : 15
+	val2 : 46
+k, s : 3, 1860
+	val1 : 10
+	val2 : 10
+k, s : 3, 1865
+	val1 : 15
+	val2 : 15
+k, s : 3, 1870
+	val1 : 20
+	val2 : 20
+k, s : 3, 1875
+	val1 : 24
+	val2 : 25
+k, s : 3, 1880
+	val1 : 19
+	val2 : 30
+k, s : 3, 1885
+	val1 : 24
+	val2 : 35
+k, s : 3, 1890
+	val1 : 19
+	val2 : 40
+k, s : 3, 1895
+	val1 : 14
+	val2 : 45
+k, s : 3, 1900
+	val1 : 19
+	val2 : 50
+k, s : 3, 1905
+	val1 : 23
+	val2 : 55
+k, s : 3, 1910
+	val1 : 28
+	val2 : 60
+k, s : 3, 1915
+	val1 : 23
+	val2 : 65
+k, s : 3, 1920
+	val1 : 18
+	val2 : 70
+k, s : 3, 1925
+	val1 : 23
+	val2 : 75
+k, s : 3, 1930
+	val1 : 18
+	val2 : 80
+k, s : 3, 1935
+	val1 : 13
+	val2 : 13
+k, s : 3, 1940
+	val1 : 18
+	val2 : 18
+k, s : 3, 1945
+	val1 : 22
+	val2 : 23
+k, s : 3, 1950
+	val1 : 27
+	val2 : 28
+k, s : 3, 1955
+	val1 : 22
+	val2 : 33
+k, s : 3, 1960
+	val1 : 17
+	val2 : 38
+k, s : 3, 1965
+	val1 : 22
+	val2 : 43
+k, s : 3, 1970
+	val1 : 17
+	val2 : 48
+k, s : 3, 1975
+	val1 : 22
+	val2 : 53
+k, s : 3, 1980
+	val1 : 26
+	val2 : 58
+k, s : 3, 1985
+	val1 : 21
+	val2 : 63
+k, s : 3, 1990
+	val1 : 26
+	val2 : 68
+k, s : 3, 1995
+	val1 : 21
+	val2 : 73
+k, s : 3, 2000
+	val1 : 16
+	val2 : 78
+k, s : 3, 400
+	val1 : 18
+	val2 : 18
+k, s : 3, 405
+	val1 : 23
+	val2 : 23
+k, s : 3, 410
+	val1 : 28
+	val2 : 28
+k, s : 3, 415
+	val1 : 33
+	val2 : 33
+k, s : 3, 420
+	val1 : 38
+	val2 : 38
+k, s : 3, 425
+	val1 : 43
+	val2 : 43
+k, s : 3, 430
+	val1 : 48
+	val2 : 48
+k, s : 3, 435
+	val1 : 53
+	val2 : 53
+k, s : 3, 440
+	val1 : 58
+	val2 : 58
+k, s : 3, 445
+	val1 : 63
+	val2 : 63
+k, s : 3, 450
+	val1 : 68
+	val2 : 68
+k, s : 3, 455
+	val1 : 73
+	val2 : 73
+k, s : 3, 460
+	val1 : 78
+	val2 : 78
+k, s : 3, 465
+	val1 : 83
+	val2 : 83
+k, s : 3, 470
+	val1 : 88
+	val2 : 88
+k, s : 3, 475
+	val1 : 93
+	val2 : 93
+k, s : 3, 480
+	val1 : 98
+	val2 : 98
+k, s : 3, 485
+	val1 : 103
+	val2 : 103
+k, s : 3, 490
+	val1 : 108
+	val2 : 108
+k, s : 3, 495
+	val1 : 113
+	val2 : 113
+k, s : 3, 500
+	val1 : 118
+	val2 : 118
+k, s : 3, 505
+	val1 : 123
+	val2 : 123
+k, s : 3, 510
+	val1 : 128
+	val2 : 128
+k, s : 3, 515
+	val1 : 133
+	val2 : 133
+k, s : 3, 520
+	val1 : 138
+	val2 : 138
+k, s : 3, 525
+	val1 : 143
+	val2 : 143
+k, s : 3, 530
+	val1 : 148
+	val2 : 148
+k, s : 3, 535
+	val1 : 153
+	val2 : 153
+k, s : 3, 540
+	val1 : 158
+	val2 : 158
+k, s : 3, 545
+	val1 : 163
+	val2 : 163
+k, s : 3, 550
+	val1 : 168
+	val2 : 168
+k, s : 3, 555
+	val1 : 173
+	val2 : 173
+k, s : 3, 560
+	val1 : 178
+	val2 : 178
+k, s : 3, 565
+	val1 : 183
+	val2 : 183
+k, s : 3, 570
+	val1 : 188
+	val2 : 188
+k, s : 3, 575
+	val1 : 193
+	val2 : 193
+k, s : 3, 580
+	val1 : 198
+	val2 : 198
+k, s : 3, 585
+	val1 : 203
+	val2 : 203
+k, s : 3, 590
+	val1 : 208
+	val2 : 208
+k, s : 3, 595
+	val1 : 213
+	val2 : 213
+k, s : 3, 600
+	val1 : 218
+	val2 : 218
+k, s : 3, 605
+	val1 : 223
+	val2 : 223
+k, s : 3, 610
+	val1 : 228
+	val2 : 228
+k, s : 3, 615
+	val1 : 233
+	val2 : 233
+k, s : 3, 620
+	val1 : 238
+	val2 : 238
+k, s : 3, 625
+	val1 : 243
+	val2 : 243
+k, s : 3, 630
+	val1 : 248
+	val2 : 248
+k, s : 3, 635
+	val1 : 253
+	val2 : 253
+k, s : 3, 640
+	val1 : 258
+	val2 : 258
+k, s : 3, 645
+	val1 : 4
+	val2 : 4
+k, s : 3, 650
+	val1 : 9
+	val2 : 9
+k, s : 3, 655
+	val1 : 14
+	val2 : 14
+k, s : 3, 660
+	val1 : 19
+	val2 : 19
+k, s : 3, 665
+	val1 : 24
+	val2 : 24
+k, s : 3, 670
+	val1 : 29
+	val2 : 29
+k, s : 3, 675
+	val1 : 34
+	val2 : 34
+k, s : 3, 680
+	val1 : 39
+	val2 : 39
+k, s : 3, 685
+	val1 : 44
+	val2 : 44
+k, s : 3, 690
+	val1 : 49
+	val2 : 49
+k, s : 3, 695
+	val1 : 54
+	val2 : 54
+k, s : 3, 700
+	val1 : 59
+	val2 : 59
+k, s : 3, 705
+	val1 : 64
+	val2 : 64
+k, s : 3, 710
+	val1 : 69
+	val2 : 69
+k, s : 3, 715
+	val1 : 74
+	val2 : 74
+k, s : 3, 720
+	val1 : 79
+	val2 : 79
+k, s : 3, 725
+	val1 : 84
+	val2 : 84
+k, s : 3, 730
+	val1 : 89
+	val2 : 89
+k, s : 3, 735
+	val1 : 94
+	val2 : 94
+k, s : 3, 740
+	val1 : 99
+	val2 : 99
+k, s : 3, 745
+	val1 : 104
+	val2 : 104
+k, s : 3, 750
+	val1 : 109
+	val2 : 109
+k, s : 3, 755
+	val1 : 114
+	val2 : 114
+k, s : 3, 760
+	val1 : 119
+	val2 : 119
+k, s : 3, 765
+	val1 : 124
+	val2 : 124
+k, s : 3, 770
+	val1 : 6
+	val2 : 129
+k, s : 3, 775
+	val1 : 11
+	val2 : 134
+k, s : 3, 780
+	val1 : 16
+	val2 : 139
+k, s : 3, 785
+	val1 : 21
+	val2 : 144
+k, s : 3, 790
+	val1 : 26
+	val2 : 149
+k, s : 3, 795
+	val1 : 31
+	val2 : 154
+k, s : 3, 800
+	val1 : 36
+	val2 : 159
+k, s : 3, 805
+	val1 : 41
+	val2 : 164
+k, s : 3, 810
+	val1 : 46
+	val2 : 169
+k, s : 3, 815
+	val1 : 51
+	val2 : 174
+k, s : 3, 820
+	val1 : 56
+	val2 : 179
+k, s : 3, 825
+	val1 : 61
+	val2 : 184
+k, s : 3, 830
+	val1 : 66
+	val2 : 189
+k, s : 3, 835
+	val1 : 71
+	val2 : 194
+k, s : 3, 840
+	val1 : 76
+	val2 : 199
+k, s : 3, 845
+	val1 : 81
+	val2 : 204
+k, s : 3, 850
+	val1 : 86
+	val2 : 209
+k, s : 3, 855
+	val1 : 91
+	val2 : 214
+k, s : 3, 860
+	val1 : 96
+	val2 : 219
+k, s : 3, 865
+	val1 : 101
+	val2 : 224
+k, s : 3, 870
+	val1 : 106
+	val2 : 229
+k, s : 3, 875
+	val1 : 111
+	val2 : 234
+k, s : 3, 880
+	val1 : 116
+	val2 : 239
+k, s : 3, 885
+	val1 : 121
+	val2 : 244
+k, s : 3, 890
+	val1 : 126
+	val2 : 249
+k, s : 3, 895
+	val1 : 131
+	val2 : 254
+k, s : 3, 900
+	val1 : 136
+	val2 : 259
+k, s : 3, 905
+	val1 : 141
+	val2 : 264
+k, s : 3, 910
+	val1 : 146
+	val2 : 269
+k, s : 3, 915
+	val1 : 151
+	val2 : 274
+k, s : 3, 920
+	val1 : 156
+	val2 : 279
+k, s : 3, 925
+	val1 : 161
+	val2 : 284
+k, s : 3, 930
+	val1 : 166
+	val2 : 289
+k, s : 3, 935
+	val1 : 171
+	val2 : 294
+k, s : 3, 940
+	val1 : 176
+	val2 : 299
+k, s : 3, 945
+	val1 : 181
+	val2 : 304
+k, s : 3, 950
+	val1 : 186
+	val2 : 309
+k, s : 3, 955
+	val1 : 191
+	val2 : 314
+k, s : 3, 960
+	val1 : 196
+	val2 : 319
+k, s : 3, 965
+	val1 : 201
+	val2 : 324
+k, s : 3, 970
+	val1 : 206
+	val2 : 329
+k, s : 3, 975
+	val1 : 211
+	val2 : 334
+k, s : 3, 980
+	val1 : 216
+	val2 : 339
+k, s : 3, 985
+	val1 : 221
+	val2 : 344
+k, s : 3, 990
+	val1 : 226
+	val2 : 349
+k, s : 3, 995
+	val1 : 231
+	val2 : 354
+k, s : 3, 1000
+	val1 : 236
+	val2 : 359
+k, s : 3, 1005
+	val1 : 241
+	val2 : 364
+k, s : 3, 1010
+	val1 : 246
+	val2 : 369
+k, s : 3, 1015
+	val1 : 251
+	val2 : 374
+k, s : 3, 1020
+	val1 : 256
+	val2 : 379
+k, s : 3, 1025
+	val1 : 2
+	val2 : 2
+k, s : 3, 1030
+	val1 : 7
+	val2 : 7
+k, s : 3, 1035
+	val1 : 12
+	val2 : 12
+k, s : 3, 1040
+	val1 : 17
+	val2 : 17
+k, s : 3, 1045
+	val1 : 22
+	val2 : 22
+k, s : 3, 1050
+	val1 : 27
+	val2 : 27
+k, s : 3, 1055
+	val1 : 32
+	val2 : 32
+k, s : 3, 1060
+	val1 : 37
+	val2 : 37
+k, s : 3, 1065
+	val1 : 42
+	val2 : 42
+k, s : 3, 1070
+	val1 : 47
+	val2 : 47
+k, s : 3, 1075
+	val1 : 52
+	val2 : 52
+k, s : 3, 1080
+	val1 : 57
+	val2 : 57
+k, s : 3, 1085
+	val1 : 62
+	val2 : 62
+k, s : 3, 1090
+	val1 : 67
+	val2 : 67
+k, s : 3, 1095
+	val1 : 72
+	val2 : 72
+k, s : 3, 1100
+	val1 : 77
+	val2 : 77
+k, s : 3, 1105
+	val1 : 82
+	val2 : 82
+k, s : 3, 1110
+	val1 : 87
+	val2 : 87
+k, s : 3, 1115
+	val1 : 92
+	val2 : 92
+k, s : 3, 1120
+	val1 : 97
+	val2 : 97
+k, s : 3, 1125
+	val1 : 102
+	val2 : 102
+k, s : 3, 1130
+	val1 : 107
+	val2 : 107
+k, s : 3, 1135
+	val1 : 112
+	val2 : 112
+k, s : 3, 1140
+	val1 : 117
+	val2 : 117
+k, s : 3, 1145
+	val1 : 122
+	val2 : 122
+k, s : 3, 1150
+	val1 : 4
+	val2 : 127
+k, s : 3, 1155
+	val1 : 9
+	val2 : 132
+k, s : 3, 1160
+	val1 : 14
+	val2 : 137
+k, s : 3, 1165
+	val1 : 19
+	val2 : 142
+k, s : 3, 1170
+	val1 : 24
+	val2 : 147
+k, s : 3, 1175
+	val1 : 29
+	val2 : 152
+k, s : 3, 1180
+	val1 : 34
+	val2 : 157
+k, s : 3, 1185
+	val1 : 39
+	val2 : 162
+k, s : 3, 1190
+	val1 : 44
+	val2 : 167
+k, s : 3, 1195
+	val1 : 49
+	val2 : 172
+k, s : 3, 1200
+	val1 : 54
+	val2 : 177
+k, s : 3, 1205
+	val1 : 59
+	val2 : 182
+k, s : 3, 1210
+	val1 : 64
+	val2 : 187
+k, s : 3, 1215
+	val1 : 69
+	val2 : 192
+k, s : 3, 1220
+	val1 : 74
+	val2 : 197
+k, s : 3, 1225
+	val1 : 79
+	val2 : 202
+k, s : 3, 1230
+	val1 : 84
+	val2 : 207
+k, s : 3, 1235
+	val1 : 89
+	val2 : 212
+k, s : 3, 1240
+	val1 : 94
+	val2 : 217
+k, s : 3, 1245
+	val1 : 99
+	val2 : 222
+k, s : 3, 1250
+	val1 : 104
+	val2 : 227
+k, s : 3, 1255
+	val1 : 109
+	val2 : 232
+k, s : 3, 1260
+	val1 : 114
+	val2 : 237
+k, s : 3, 1265
+	val1 : 119
+	val2 : 242
+k, s : 3, 1270
+	val1 : 124
+	val2 : 247
+k, s : 3, 1275
+	val1 : 129
+	val2 : 252
+k, s : 3, 1280
+	val1 : 134
+	val2 : 257
+k, s : 3, 1285
+	val1 : 3
+	val2 : 3
+k, s : 3, 1290
+	val1 : 8
+	val2 : 8
+k, s : 3, 1295
+	val1 : 13
+	val2 : 13
+k, s : 3, 1300
+	val1 : 18
+	val2 : 18
+k, s : 3, 1305
+	val1 : 23
+	val2 : 23
+k, s : 3, 1310
+	val1 : 28
+	val2 : 28
+k, s : 3, 1315
+	val1 : 33
+	val2 : 33
+k, s : 3, 1320
+	val1 : 38
+	val2 : 38
+k, s : 3, 1325
+	val1 : 43
+	val2 : 43
+k, s : 3, 1330
+	val1 : 48
+	val2 : 48
+k, s : 3, 1335
+	val1 : 53
+	val2 : 53
+k, s : 3, 1340
+	val1 : 58
+	val2 : 58
+k, s : 3, 1345
+	val1 : 63
+	val2 : 63
+k, s : 3, 1350
+	val1 : 68
+	val2 : 68
+k, s : 3, 1355
+	val1 : 73
+	val2 : 73
+k, s : 3, 1360
+	val1 : 78
+	val2 : 78
+k, s : 3, 1365
+	val1 : 83
+	val2 : 83
+k, s : 3, 1370
+	val1 : 88
+	val2 : 88
+k, s : 3, 1375
+	val1 : 93
+	val2 : 93
+k, s : 3, 1380
+	val1 : 98
+	val2 : 98
+k, s : 3, 1385
+	val1 : 103
+	val2 : 103
+k, s : 3, 1390
+	val1 : 108
+	val2 : 108
+k, s : 3, 1395
+	val1 : 113
+	val2 : 113
+k, s : 3, 1400
+	val1 : 118
+	val2 : 118
+k, s : 3, 1405
+	val1 : 123
+	val2 : 123
+k, s : 3, 1410
+	val1 : 5
+	val2 : 128
+k, s : 3, 1415
+	val1 : 10
+	val2 : 133
+k, s : 3, 1420
+	val1 : 15
+	val2 : 138
+k, s : 3, 1425
+	val1 : 20
+	val2 : 143
+k, s : 3, 1430
+	val1 : 25
+	val2 : 148
+k, s : 3, 1435
+	val1 : 30
+	val2 : 153
+k, s : 3, 1440
+	val1 : 35
+	val2 : 158
+k, s : 3, 1445
+	val1 : 40
+	val2 : 163
+k, s : 3, 1450
+	val1 : 45
+	val2 : 168
+k, s : 3, 1455
+	val1 : 50
+	val2 : 173
+k, s : 3, 1460
+	val1 : 55
+	val2 : 178
+k, s : 3, 1465
+	val1 : 60
+	val2 : 183
+k, s : 3, 1470
+	val1 : 65
+	val2 : 188
+k, s : 3, 1475
+	val1 : 70
+	val2 : 193
+k, s : 3, 1480
+	val1 : 75
+	val2 : 198
+k, s : 3, 1485
+	val1 : 80
+	val2 : 203
+k, s : 3, 1490
+	val1 : 85
+	val2 : 208
+k, s : 3, 1495
+	val1 : 90
+	val2 : 213
+k, s : 3, 1500
+	val1 : 95
+	val2 : 218
+k, s : 3, 1505
+	val1 : 100
+	val2 : 223
+k, s : 3, 1510
+	val1 : 105
+	val2 : 228
+k, s : 3, 1515
+	val1 : 110
+	val2 : 233
+k, s : 3, 1520
+	val1 : 115
+	val2 : 238
+k, s : 3, 1525
+	val1 : 120
+	val2 : 243
+k, s : 3, 1530
+	val1 : 125
+	val2 : 248
+k, s : 3, 1535
+	val1 : 7
+	val2 : 253
+k, s : 3, 1540
+	val1 : 12
+	val2 : 258
+k, s : 3, 1545
+	val1 : 17
+	val2 : 263
+k, s : 3, 1550
+	val1 : 22
+	val2 : 268
+k, s : 3, 1555
+	val1 : 27
+	val2 : 273
+k, s : 3, 1560
+	val1 : 32
+	val2 : 278
+k, s : 3, 1565
+	val1 : 37
+	val2 : 283
+k, s : 3, 1570
+	val1 : 42
+	val2 : 288
+k, s : 3, 1575
+	val1 : 47
+	val2 : 293
+k, s : 3, 1580
+	val1 : 52
+	val2 : 298
+k, s : 3, 1585
+	val1 : 57
+	val2 : 303
+k, s : 3, 1590
+	val1 : 62
+	val2 : 308
+k, s : 3, 1595
+	val1 : 67
+	val2 : 313
+k, s : 3, 1600
+	val1 : 72
+	val2 : 318
+k, s : 3, 1605
+	val1 : 77
+	val2 : 323
+k, s : 3, 1610
+	val1 : 82
+	val2 : 328
+k, s : 3, 1615
+	val1 : 87
+	val2 : 333
+k, s : 3, 1620
+	val1 : 92
+	val2 : 338
+k, s : 3, 1625
+	val1 : 97
+	val2 : 343
+k, s : 3, 1630
+	val1 : 102
+	val2 : 348
+k, s : 3, 1635
+	val1 : 107
+	val2 : 353
+k, s : 3, 1640
+	val1 : 112
+	val2 : 358
+k, s : 3, 1645
+	val1 : 117
+	val2 : 363
+k, s : 3, 1650
+	val1 : 122
+	val2 : 368
+k, s : 3, 1655
+	val1 : 127
+	val2 : 373
+k, s : 3, 1660
+	val1 : 132
+	val2 : 378
+k, s : 3, 1665
+	val1 : 137
+	val2 : 383
+k, s : 3, 1670
+	val1 : 6
+	val2 : 6
+k, s : 3, 1675
+	val1 : 11
+	val2 : 11
+k, s : 3, 1680
+	val1 : 16
+	val2 : 16
+k, s : 3, 1685
+	val1 : 21
+	val2 : 21
+k, s : 3, 1690
+	val1 : 26
+	val2 : 26
+k, s : 3, 1695
+	val1 : 31
+	val2 : 31
+k, s : 3, 1700
+	val1 : 36
+	val2 : 36
+k, s : 3, 1705
+	val1 : 41
+	val2 : 41
+k, s : 3, 1710
+	val1 : 46
+	val2 : 46
+k, s : 3, 1715
+	val1 : 51
+	val2 : 51
+k, s : 3, 1720
+	val1 : 56
+	val2 : 56
+k, s : 3, 1725
+	val1 : 61
+	val2 : 61
+k, s : 3, 1730
+	val1 : 66
+	val2 : 66
+k, s : 3, 1735
+	val1 : 71
+	val2 : 71
+k, s : 3, 1740
+	val1 : 76
+	val2 : 76
+k, s : 3, 1745
+	val1 : 81
+	val2 : 81
+k, s : 3, 1750
+	val1 : 86
+	val2 : 86
+k, s : 3, 1755
+	val1 : 91
+	val2 : 91
+k, s : 3, 1760
+	val1 : 96
+	val2 : 96
+k, s : 3, 1765
+	val1 : 101
+	val2 : 101
+k, s : 3, 1770
+	val1 : 106
+	val2 : 106
+k, s : 3, 1775
+	val1 : 111
+	val2 : 111
+k, s : 3, 1780
+	val1 : 116
+	val2 : 116
+k, s : 3, 1785
+	val1 : 121
+	val2 : 121
+k, s : 3, 1790
+	val1 : 126
+	val2 : 126
+k, s : 3, 1795
+	val1 : 8
+	val2 : 131
+k, s : 3, 1800
+	val1 : 13
+	val2 : 136
+k, s : 3, 1805
+	val1 : 18
+	val2 : 141
+k, s : 3, 1810
+	val1 : 23
+	val2 : 146
+k, s : 3, 1815
+	val1 : 28
+	val2 : 151
+k, s : 3, 1820
+	val1 : 33
+	val2 : 156
+k, s : 3, 1825
+	val1 : 38
+	val2 : 161
+k, s : 3, 1830
+	val1 : 43
+	val2 : 166
+k, s : 3, 1835
+	val1 : 48
+	val2 : 171
+k, s : 3, 1840
+	val1 : 53
+	val2 : 176
+k, s : 3, 1845
+	val1 : 58
+	val2 : 181
+k, s : 3, 1850
+	val1 : 63
+	val2 : 186
+k, s : 3, 1855
+	val1 : 68
+	val2 : 191
+k, s : 3, 1860
+	val1 : 73
+	val2 : 196
+k, s : 3, 1865
+	val1 : 78
+	val2 : 201
+k, s : 3, 1870
+	val1 : 83
+	val2 : 206
+k, s : 3, 1875
+	val1 : 88
+	val2 : 211
+k, s : 3, 1880
+	val1 : 93
+	val2 : 216
+k, s : 3, 1885
+	val1 : 98
+	val2 : 221
+k, s : 3, 1890
+	val1 : 103
+	val2 : 226
+k, s : 3, 1895
+	val1 : 108
+	val2 : 231
+k, s : 3, 1900
+	val1 : 113
+	val2 : 236
+k, s : 3, 1905
+	val1 : 118
+	val2 : 241
+k, s : 3, 1910
+	val1 : 123
+	val2 : 246
+k, s : 3, 1915
+	val1 : 5
+	val2 : 251
+k, s : 3, 1920
+	val1 : 10
+	val2 : 256
+k, s : 3, 1925
+	val1 : 15
+	val2 : 261
+k, s : 3, 1930
+	val1 : 7
+	val2 : 7
+k, s : 3, 1935
+	val1 : 12
+	val2 : 12
+k, s : 3, 1940
+	val1 : 17
+	val2 : 17
+k, s : 3, 1945
+	val1 : 22
+	val2 : 22
+k, s : 3, 1950
+	val1 : 27
+	val2 : 27
+k, s : 3, 1955
+	val1 : 32
+	val2 : 32
+k, s : 3, 1960
+	val1 : 37
+	val2 : 37
+k, s : 3, 1965
+	val1 : 42
+	val2 : 42
+k, s : 3, 1970
+	val1 : 47
+	val2 : 47
+k, s : 3, 1975
+	val1 : 52
+	val2 : 52
+k, s : 3, 1980
+	val1 : 57
+	val2 : 57
+k, s : 3, 1985
+	val1 : 62
+	val2 : 62
+k, s : 3, 1990
+	val1 : 67
+	val2 : 67
+k, s : 3, 1995
+	val1 : 72
+	val2 : 72
+k, s : 3, 2000
+	val1 : 77
+	val2 : 77
+k, s : 9, 400
+	val1 : 3
+	val2 : 3
+k, s : 9, 405
+	val1 : 8
+	val2 : 8
+k, s : 9, 410
+	val1 : 13
+	val2 : 13
+k, s : 9, 415
+	val1 : 3
+	val2 : 18
+k, s : 9, 420
+	val1 : 6
+	val2 : 23
+k, s : 9, 425
+	val1 : 2
+	val2 : 4
+k, s : 9, 430
+	val1 : 7
+	val2 : 9
+k, s : 9, 435
+	val1 : 12
+	val2 : 14
+k, s : 9, 440
+	val1 : 4
+	val2 : 19
+k, s : 9, 445
+	val1 : 7
+	val2 : 24
+k, s : 9, 450
+	val1 : 3
+	val2 : 5
+k, s : 9, 455
+	val1 : 8
+	val2 : 10
+k, s : 9, 460
+	val1 : 13
+	val2 : 15
+k, s : 9, 465
+	val1 : 5
+	val2 : 20
+k, s : 9, 470
+	val1 : 8
+	val2 : 25
+k, s : 9, 475
+	val1 : 4
+	val2 : 6
+k, s : 9, 480
+	val1 : 9
+	val2 : 11
+k, s : 9, 485
+	val1 : 14
+	val2 : 16
+k, s : 9, 490
+	val1 : 6
+	val2 : 21
+k, s : 9, 495
+	val1 : 9
+	val2 : 26
+k, s : 9, 500
+	val1 : 5
+	val2 : 7
+k, s : 9, 505
+	val1 : 3
+	val2 : 12
+k, s : 9, 510
+	val1 : 8
+	val2 : 17
+k, s : 9, 515
+	val1 : 2
+	val2 : 22
+k, s : 9, 520
+	val1 : 7
+	val2 : 27
+k, s : 9, 525
+	val1 : 6
+	val2 : 8
+k, s : 9, 530
+	val1 : 3
+	val2 : 13
+k, s : 9, 535
+	val1 : 8
+	val2 : 18
+k, s : 9, 540
+	val1 : 3
+	val2 : 23
+k, s : 9, 545
+	val1 : 8
+	val2 : 28
+k, s : 9, 550
+	val1 : 7
+	val2 : 9
+k, s : 9, 555
+	val1 : 4
+	val2 : 14
+k, s : 9, 560
+	val1 : 2
+	val2 : 2
+k, s : 9, 565
+	val1 : 4
+	val2 : 7
+k, s : 9, 570
+	val1 : 9
+	val2 : 12
+k, s : 9, 575
+	val1 : 8
+	val2 : 17
+k, s : 9, 580
+	val1 : 5
+	val2 : 22
+k, s : 9, 585
+	val1 : 3
+	val2 : 3
+k, s : 9, 590
+	val1 : 5
+	val2 : 8
+k, s : 9, 595
+	val1 : 10
+	val2 : 13
+k, s : 9, 600
+	val1 : 9
+	val2 : 18
+k, s : 9, 605
+	val1 : 6
+	val2 : 23
+k, s : 9, 610
+	val1 : 4
+	val2 : 4
+k, s : 9, 615
+	val1 : 6
+	val2 : 9
+k, s : 9, 620
+	val1 : 3
+	val2 : 14
+k, s : 9, 625
+	val1 : 8
+	val2 : 19
+k, s : 9, 630
+	val1 : 2
+	val2 : 2
+k, s : 9, 635
+	val1 : 5
+	val2 : 7
+k, s : 9, 640
+	val1 : 7
+	val2 : 12
+k, s : 9, 645
+	val1 : 4
+	val2 : 17
+k, s : 9, 650
+	val1 : 2
+	val2 : 22
+k, s : 9, 655
+	val1 : 3
+	val2 : 3
+k, s : 9, 660
+	val1 : 6
+	val2 : 8
+k, s : 9, 665
+	val1 : 6
+	val2 : 13
+k, s : 9, 670
+	val1 : 1
+	val2 : 1
+k, s : 9, 675
+	val1 : 3
+	val2 : 6
+k, s : 9, 680
+	val1 : 4
+	val2 : 11
+k, s : 9, 685
+	val1 : 7
+	val2 : 16
+k, s : 9, 690
+	val1 : 5
+	val2 : 21
+k, s : 9, 695
+	val1 : 2
+	val2 : 2
+k, s : 9, 700
+	val1 : 4
+	val2 : 7
+k, s : 9, 705
+	val1 : 5
+	val2 : 12
+k, s : 9, 710
+	val1 : 8
+	val2 : 17
+k, s : 9, 715
+	val1 : 6
+	val2 : 22
+k, s : 9, 720
+	val1 : 3
+	val2 : 3
+k, s : 9, 725
+	val1 : 5
+	val2 : 8
+k, s : 9, 730
+	val1 : 6
+	val2 : 13
+k, s : 9, 735
+	val1 : 3
+	val2 : 18
+k, s : 9, 740
+	val1 : 6
+	val2 : 23
+k, s : 9, 745
+	val1 : 4
+	val2 : 4
+k, s : 9, 750
+	val1 : 5
+	val2 : 9
+k, s : 9, 755
+	val1 : 7
+	val2 : 14
+k, s : 9, 760
+	val1 : 4
+	val2 : 19
+k, s : 9, 765
+	val1 : 2
+	val2 : 24
+k, s : 9, 770
+	val1 : 5
+	val2 : 5
+k, s : 9, 775
+	val1 : 6
+	val2 : 10
+k, s : 9, 780
+	val1 : 5
+	val2 : 15
+k, s : 9, 785
+	val1 : 5
+	val2 : 20
+k, s : 9, 790
+	val1 : 3
+	val2 : 25
+k, s : 9, 795
+	val1 : 6
+	val2 : 6
+k, s : 9, 800
+	val1 : 6
+	val2 : 11
+k, s : 9, 805
+	val1 : 6
+	val2 : 16
+k, s : 9, 810
+	val1 : 5
+	val2 : 21
+k, s : 9, 815
+	val1 : 4
+	val2 : 26
+k, s : 9, 820
+	val1 : 7
+	val2 : 7
+k, s : 9, 825
+	val1 : 5
+	val2 : 12
+k, s : 9, 830
+	val1 : 6
+	val2 : 17
+k, s : 9, 835
+	val1 : 5
+	val2 : 5
+k, s : 9, 840
+	val1 : 5
+	val2 : 10
+k, s : 9, 845
+	val1 : 8
+	val2 : 15
+k, s : 9, 850
+	val1 : 4
+	val2 : 20
+k, s : 9, 855
+	val1 : 6
+	val2 : 25
+k, s : 9, 860
+	val1 : 6
+	val2 : 6
+k, s : 9, 865
+	val1 : 6
+	val2 : 11
+k, s : 9, 870
+	val1 : 9
+	val2 : 16
+k, s : 9, 875
+	val1 : 5
+	val2 : 21
+k, s : 9, 880
+	val1 : 7
+	val2 : 26
+k, s : 9, 885
+	val1 : 5
+	val2 : 7
+k, s : 9, 890
+	val1 : 7
+	val2 : 12
+k, s : 9, 895
+	val1 : 5
+	val2 : 17
+k, s : 9, 900
+	val1 : 5
+	val2 : 22
+k, s : 9, 905
+	val1 : 6
+	val2 : 27
+k, s : 9, 910
+	val1 : 6
+	val2 : 8
+k, s : 9, 915
+	val1 : 5
+	val2 : 13
+k, s : 9, 920
+	val1 : 6
+	val2 : 18
+k, s : 9, 925
+	val1 : 4
+	val2 : 5
+k, s : 9, 930
+	val1 : 5
+	val2 : 10
+k, s : 9, 935
+	val1 : 4
+	val2 : 4
+k, s : 9, 940
+	val1 : 4
+	val2 : 9
+k, s : 9, 945
+	val1 : 6
+	val2 : 14
+k, s : 9, 950
+	val1 : 5
+	val2 : 19
+k, s : 9, 955
+	val1 : 5
+	val2 : 24
+k, s : 9, 960
+	val1 : 5
+	val2 : 5
+k, s : 9, 965
+	val1 : 5
+	val2 : 10
+k, s : 9, 970
+	val1 : 7
+	val2 : 15
+k, s : 9, 975
+	val1 : 5
+	val2 : 20
+k, s : 9, 980
+	val1 : 6
+	val2 : 25
+k, s : 9, 985
+	val1 : 4
+	val2 : 6
+k, s : 9, 990
+	val1 : 5
+	val2 : 11
+k, s : 9, 995
+	val1 : 4
+	val2 : 16
+k, s : 9, 1000
+	val1 : 6
+	val2 : 21
+k, s : 9, 1005
+	val1 : 7
+	val2 : 26
+k, s : 9, 1010
+	val1 : 5
+	val2 : 7
+k, s : 9, 1015
+	val1 : 5
+	val2 : 12
+k, s : 9, 1020
+	val1 : 5
+	val2 : 17
+k, s : 9, 1025
+	val1 : 7
+	val2 : 22
+k, s : 9, 1030
+	val1 : 4
+	val2 : 27
+k, s : 9, 1035
+	val1 : 6
+	val2 : 8
+k, s : 9, 1040
+	val1 : 5
+	val2 : 5
+k, s : 9, 1045
+	val1 : 5
+	val2 : 10
+k, s : 9, 1050
+	val1 : 5
+	val2 : 15
+k, s : 9, 1055
+	val1 : 4
+	val2 : 20
+k, s : 9, 1060
+	val1 : 4
+	val2 : 25
+k, s : 9, 1065
+	val1 : 5
+	val2 : 6
+k, s : 9, 1070
+	val1 : 4
+	val2 : 4
+k, s : 9, 1075
+	val1 : 4
+	val2 : 9
+k, s : 9, 1080
+	val1 : 5
+	val2 : 14
+k, s : 9, 1085
+	val1 : 4
+	val2 : 19
+k, s : 9, 1090
+	val1 : 5
+	val2 : 24
+k, s : 9, 1095
+	val1 : 3
+	val2 : 5
+k, s : 9, 1100
+	val1 : 5
+	val2 : 10
+k, s : 9, 1105
+	val1 : 5
+	val2 : 15
+k, s : 9, 1110
+	val1 : 5
+	val2 : 20
+k, s : 9, 1115
+	val1 : 4
+	val2 : 25
+k, s : 9, 1120
+	val1 : 4
+	val2 : 6
+k, s : 9, 1125
+	val1 : 6
+	val2 : 11
+k, s : 9, 1130
+	val1 : 6
+	val2 : 16
+k, s : 9, 1135
+	val1 : 5
+	val2 : 21
+k, s : 9, 1140
+	val1 : 5
+	val2 : 26
+k, s : 9, 1145
+	val1 : 4
+	val2 : 7
+k, s : 9, 1150
+	val1 : 6
+	val2 : 12
+k, s : 9, 1155
+	val1 : 3
+	val2 : 17
+k, s : 9, 1160
+	val1 : 5
+	val2 : 22
+k, s : 9, 1165
+	val1 : 4
+	val2 : 27
+k, s : 9, 1170
+	val1 : 5
+	val2 : 8
+k, s : 9, 1175
+	val1 : 4
+	val2 : 13
+k, s : 9, 1180
+	val1 : 4
+	val2 : 18
+k, s : 9, 1185
+	val1 : 3
+	val2 : 23
+k, s : 9, 1190
+	val1 : 4
+	val2 : 28
+k, s : 9, 1195
+	val1 : 4
+	val2 : 9
+k, s : 9, 1200
+	val1 : 4
+	val2 : 14
+k, s : 9, 1205
+	val1 : 4
+	val2 : 19
+k, s : 9, 1210
+	val1 : 4
+	val2 : 24
+k, s : 9, 1215
+	val1 : 5
+	val2 : 29
+k, s : 9, 1220
+	val1 : 5
+	val2 : 10
+k, s : 9, 1225
+	val1 : 5
+	val2 : 15
+k, s : 9, 1230
+	val1 : 3
+	val2 : 3
+k, s : 9, 1235
+	val1 : 5
+	val2 : 8
+k, s : 9, 1240
+	val1 : 6
+	val2 : 13
+k, s : 9, 1245
+	val1 : 6
+	val2 : 18
+k, s : 9, 1250
+	val1 : 5
+	val2 : 23
+k, s : 9, 1255
+	val1 : 4
+	val2 : 4
+k, s : 9, 1260
+	val1 : 4
+	val2 : 9
+k, s : 9, 1265
+	val1 : 6
+	val2 : 14
+k, s : 9, 1270
+	val1 : 5
+	val2 : 19
+k, s : 9, 1275
+	val1 : 6
+	val2 : 24
+k, s : 9, 1280
+	val1 : 4
+	val2 : 5
+k, s : 9, 1285
+	val1 : 5
+	val2 : 10
+k, s : 9, 1290
+	val1 : 3
+	val2 : 15
+k, s : 9, 1295
+	val1 : 4
+	val2 : 20
+k, s : 9, 1300
+	val1 : 3
+	val2 : 3
+k, s : 9, 1305
+	val1 : 5
+	val2 : 8
+k, s : 9, 1310
+	val1 : 5
+	val2 : 13
+k, s : 9, 1315
+	val1 : 4
+	val2 : 18
+k, s : 9, 1320
+	val1 : 3
+	val2 : 23
+k, s : 9, 1325
+	val1 : 4
+	val2 : 4
+k, s : 9, 1330
+	val1 : 6
+	val2 : 9
+k, s : 9, 1335
+	val1 : 6
+	val2 : 14
+k, s : 9, 1340
+	val1 : 2
+	val2 : 2
+k, s : 9, 1345
+	val1 : 4
+	val2 : 7
+k, s : 9, 1350
+	val1 : 5
+	val2 : 12
+k, s : 9, 1355
+	val1 : 6
+	val2 : 17
+k, s : 9, 1360
+	val1 : 6
+	val2 : 22
+k, s : 9, 1365
+	val1 : 3
+	val2 : 3
+k, s : 9, 1370
+	val1 : 5
+	val2 : 8
+k, s : 9, 1375
+	val1 : 5
+	val2 : 13
+k, s : 9, 1380
+	val1 : 7
+	val2 : 18
+k, s : 9, 1385
+	val1 : 4
+	val2 : 23
+k, s : 9, 1390
+	val1 : 4
+	val2 : 4
+k, s : 9, 1395
+	val1 : 4
+	val2 : 9
+k, s : 9, 1400
+	val1 : 5
+	val2 : 14
+k, s : 9, 1405
+	val1 : 4
+	val2 : 19
+k, s : 9, 1410
+	val1 : 4
+	val2 : 24
+k, s : 9, 1415
+	val1 : 4
+	val2 : 5
+k, s : 9, 1420
+	val1 : 3
+	val2 : 10
+k, s : 9, 1425
+	val1 : 3
+	val2 : 15
+k, s : 9, 1430
+	val1 : 5
+	val2 : 20
+k, s : 9, 1435
+	val1 : 3
+	val2 : 25
+k, s : 9, 1440
+	val1 : 5
+	val2 : 6
+k, s : 9, 1445
+	val1 : 4
+	val2 : 11
+k, s : 9, 1450
+	val1 : 4
+	val2 : 16
+k, s : 9, 1455
+	val1 : 6
+	val2 : 21
+k, s : 9, 1460
+	val1 : 4
+	val2 : 26
+k, s : 9, 1465
+	val1 : 6
+	val2 : 7
+k, s : 9, 1470
+	val1 : 5
+	val2 : 12
+k, s : 9, 1475
+	val1 : 5
+	val2 : 17
+k, s : 9, 1480
+	val1 : 6
+	val2 : 22
+k, s : 9, 1485
+	val1 : 5
+	val2 : 27
+k, s : 9, 1490
+	val1 : 5
+	val2 : 8
+k, s : 9, 1495
+	val1 : 6
+	val2 : 13
+k, s : 9, 1500
+	val1 : 4
+	val2 : 18
+k, s : 9, 1505
+	val1 : 6
+	val2 : 6
+k, s : 9, 1510
+	val1 : 3
+	val2 : 11
+k, s : 9, 1515
+	val1 : 5
+	val2 : 16
+k, s : 9, 1520
+	val1 : 5
+	val2 : 21
+k, s : 9, 1525
+	val1 : 4
+	val2 : 26
+k, s : 9, 1530
+	val1 : 4
+	val2 : 7
+k, s : 9, 1535
+	val1 : 4
+	val2 : 12
+k, s : 9, 1540
+	val1 : 6
+	val2 : 17
+k, s : 9, 1545
+	val1 : 6
+	val2 : 22
+k, s : 9, 1550
+	val1 : 5
+	val2 : 27
+k, s : 9, 1555
+	val1 : 5
+	val2 : 8
+k, s : 9, 1560
+	val1 : 5
+	val2 : 13
+k, s : 9, 1565
+	val1 : 6
+	val2 : 18
+k, s : 9, 1570
+	val1 : 6
+	val2 : 23
+k, s : 9, 1575
+	val1 : 6
+	val2 : 28
+k, s : 9, 1580
+	val1 : 5
+	val2 : 9
+k, s : 9, 1585
+	val1 : 5
+	val2 : 14
+k, s : 9, 1590
+	val1 : 6
+	val2 : 19
+k, s : 9, 1595
+	val1 : 5
+	val2 : 6
+k, s : 9, 1600
+	val1 : 6
+	val2 : 11
+k, s : 9, 1605
+	val1 : 5
+	val2 : 5
+k, s : 9, 1610
+	val1 : 5
+	val2 : 10
+k, s : 9, 1615
+	val1 : 4
+	val2 : 15
+k, s : 9, 1620
+	val1 : 6
+	val2 : 20
+k, s : 9, 1625
+	val1 : 3
+	val2 : 25
+k, s : 9, 1630
+	val1 : 5
+	val2 : 6
+k, s : 9, 1635
+	val1 : 6
+	val2 : 11
+k, s : 9, 1640
+	val1 : 5
+	val2 : 16
+k, s : 9, 1645
+	val1 : 6
+	val2 : 21
+k, s : 9, 1650
+	val1 : 4
+	val2 : 26
+k, s : 9, 1655
+	val1 : 5
+	val2 : 7
+k, s : 9, 1660
+	val1 : 6
+	val2 : 12
+k, s : 9, 1665
+	val1 : 5
+	val2 : 17
+k, s : 9, 1670
+	val1 : 5
+	val2 : 22
+k, s : 9, 1675
+	val1 : 5
+	val2 : 27
+k, s : 9, 1680
+	val1 : 6
+	val2 : 8
+k, s : 9, 1685
+	val1 : 6
+	val2 : 13
+k, s : 9, 1690
+	val1 : 6
+	val2 : 18
+k, s : 9, 1695
+	val1 : 6
+	val2 : 23
+k, s : 9, 1700
+	val1 : 5
+	val2 : 28
+k, s : 9, 1705
+	val1 : 6
+	val2 : 9
+k, s : 9, 1710
+	val1 : 6
+	val2 : 6
+k, s : 9, 1715
+	val1 : 5
+	val2 : 11
+k, s : 9, 1720
+	val1 : 5
+	val2 : 16
+k, s : 9, 1725
+	val1 : 5
+	val2 : 21
+k, s : 9, 1730
+	val1 : 4
+	val2 : 26
+k, s : 9, 1735
+	val1 : 6
+	val2 : 7
+k, s : 9, 1740
+	val1 : 5
+	val2 : 5
+k, s : 9, 1745
+	val1 : 5
+	val2 : 10
+k, s : 9, 1750
+	val1 : 6
+	val2 : 15
+k, s : 9, 1755
+	val1 : 5
+	val2 : 20
+k, s : 9, 1760
+	val1 : 6
+	val2 : 25
+k, s : 9, 1765
+	val1 : 4
+	val2 : 6
+k, s : 9, 1770
+	val1 : 6
+	val2 : 11
+k, s : 9, 1775
+	val1 : 6
+	val2 : 16
+k, s : 9, 1780
+	val1 : 6
+	val2 : 21
+k, s : 9, 1785
+	val1 : 5
+	val2 : 26
+k, s : 9, 1790
+	val1 : 5
+	val2 : 7
+k, s : 9, 1795
+	val1 : 6
+	val2 : 12
+k, s : 9, 1800
+	val1 : 7
+	val2 : 17
+k, s : 9, 1805
+	val1 : 5
+	val2 : 22
+k, s : 9, 1810
+	val1 : 6
+	val2 : 27
+k, s : 9, 1815
+	val1 : 5
+	val2 : 8
+k, s : 9, 1820
+	val1 : 6
+	val2 : 13
+k, s : 9, 1825
+	val1 : 4
+	val2 : 18
+k, s : 9, 1830
+	val1 : 6
+	val2 : 23
+k, s : 9, 1835
+	val1 : 5
+	val2 : 28
+k, s : 9, 1840
+	val1 : 6
+	val2 : 9
+k, s : 9, 1845
+	val1 : 5
+	val2 : 14
+k, s : 9, 1850
+	val1 : 5
+	val2 : 19
+k, s : 9, 1855
+	val1 : 4
+	val2 : 24
+k, s : 9, 1860
+	val1 : 5
+	val2 : 29
+k, s : 9, 1865
+	val1 : 5
+	val2 : 10
+k, s : 9, 1870
+	val1 : 5
+	val2 : 15
+k, s : 9, 1875
+	val1 : 5
+	val2 : 20
+k, s : 9, 1880
+	val1 : 5
+	val2 : 25
+k, s : 9, 1885
+	val1 : 6
+	val2 : 30
+k, s : 9, 1890
+	val1 : 6
+	val2 : 11
+k, s : 9, 1895
+	val1 : 6
+	val2 : 16
+k, s : 9, 1900
+	val1 : 4
+	val2 : 4
+k, s : 9, 1905
+	val1 : 6
+	val2 : 9
+k, s : 9, 1910
+	val1 : 6
+	val2 : 14
+k, s : 9, 1915
+	val1 : 7
+	val2 : 19
+k, s : 9, 1920
+	val1 : 5
+	val2 : 24
+k, s : 9, 1925
+	val1 : 5
+	val2 : 5
+k, s : 9, 1930
+	val1 : 5
+	val2 : 10
+k, s : 9, 1935
+	val1 : 5
+	val2 : 15
+k, s : 9, 1940
+	val1 : 5
+	val2 : 20
+k, s : 9, 1945
+	val1 : 6
+	val2 : 25
+k, s : 9, 1950
+	val1 : 5
+	val2 : 6
+k, s : 9, 1955
+	val1 : 6
+	val2 : 11
+k, s : 9, 1960
+	val1 : 4
+	val2 : 16
+k, s : 9, 1965
+	val1 : 5
+	val2 : 21
+k, s : 9, 1970
+	val1 : 4
+	val2 : 4
+k, s : 9, 1975
+	val1 : 6
+	val2 : 9
+k, s : 9, 1980
+	val1 : 5
+	val2 : 14
+k, s : 9, 1985
+	val1 : 5
+	val2 : 19
+k, s : 9, 1990
+	val1 : 4
+	val2 : 24
+k, s : 9, 1995
+	val1 : 5
+	val2 : 5
+k, s : 9, 2000
+	val1 : 7
+	val2 : 10
+k, s : 9, 400
+	val1 : 10
+	val2 : 10
+k, s : 9, 405
+	val1 : 13
+	val2 : 15
+k, s : 9, 410
+	val1 : 18
+	val2 : 20
+k, s : 9, 415
+	val1 : 6
+	val2 : 25
+k, s : 9, 420
+	val1 : 5
+	val2 : 5
+k, s : 9, 425
+	val1 : 5
+	val2 : 5
+k, s : 9, 430
+	val1 : 10
+	val2 : 10
+k, s : 9, 435
+	val1 : 15
+	val2 : 15
+k, s : 9, 440
+	val1 : 6
+	val2 : 20
+k, s : 9, 445
+	val1 : 5
+	val2 : 25
+k, s : 9, 450
+	val1 : 5
+	val2 : 5
+k, s : 9, 455
+	val1 : 10
+	val2 : 10
+k, s : 9, 460
+	val1 : 15
+	val2 : 15
+k, s : 9, 465
+	val1 : 20
+	val2 : 20
+k, s : 9, 470
+	val1 : 5
+	val2 : 25
+k, s : 9, 475
+	val1 : 5
+	val2 : 5
+k, s : 9, 480
+	val1 : 10
+	val2 : 10
+k, s : 9, 485
+	val1 : 5
+	val2 : 5
+k, s : 9, 490
+	val1 : 10
+	val2 : 10
+k, s : 9, 495
+	val1 : 5
+	val2 : 15
+k, s : 9, 500
+	val1 : 5
+	val2 : 20
+k, s : 9, 505
+	val1 : 4
+	val2 : 25
+k, s : 9, 510
+	val1 : 5
+	val2 : 5
+k, s : 9, 515
+	val1 : 10
+	val2 : 10
+k, s : 9, 520
+	val1 : 11
+	val2 : 15
+k, s : 9, 525
+	val1 : 5
+	val2 : 20
+k, s : 9, 530
+	val1 : 4
+	val2 : 25
+k, s : 9, 535
+	val1 : 3
+	val2 : 3
+k, s : 9, 540
+	val1 : 8
+	val2 : 8
+k, s : 9, 545
+	val1 : 11
+	val2 : 13
+k, s : 9, 550
+	val1 : 10
+	val2 : 18
+k, s : 9, 555
+	val1 : 10
+	val2 : 23
+k, s : 9, 560
+	val1 : 3
+	val2 : 3
+k, s : 9, 565
+	val1 : 8
+	val2 : 8
+k, s : 9, 570
+	val1 : 11
+	val2 : 13
+k, s : 9, 575
+	val1 : 10
+	val2 : 18
+k, s : 9, 580
+	val1 : 10
+	val2 : 23
+k, s : 9, 585
+	val1 : 3
+	val2 : 3
+k, s : 9, 590
+	val1 : 3
+	val2 : 3
+k, s : 9, 595
+	val1 : 8
+	val2 : 8
+k, s : 9, 600
+	val1 : 10
+	val2 : 13
+k, s : 9, 605
+	val1 : 10
+	val2 : 18
+k, s : 9, 610
+	val1 : 9
+	val2 : 23
+k, s : 9, 615
+	val1 : 3
+	val2 : 3
+k, s : 9, 620
+	val1 : 8
+	val2 : 8
+k, s : 9, 625
+	val1 : 10
+	val2 : 13
+k, s : 9, 630
+	val1 : 10
+	val2 : 18
+k, s : 9, 635
+	val1 : 9
+	val2 : 23
+k, s : 9, 640
+	val1 : 1
+	val2 : 1
+k, s : 9, 645
+	val1 : 6
+	val2 : 6
+k, s : 9, 650
+	val1 : 3
+	val2 : 11
+k, s : 9, 655
+	val1 : 8
+	val2 : 16
+k, s : 9, 660
+	val1 : 9
+	val2 : 21
+k, s : 9, 665
+	val1 : 8
+	val2 : 26
+k, s : 9, 670
+	val1 : 6
+	val2 : 6
+k, s : 9, 675
+	val1 : 3
+	val2 : 11
+k, s : 9, 680
+	val1 : 8
+	val2 : 16
+k, s : 9, 685
+	val1 : 13
+	val2 : 21
+k, s : 9, 690
+	val1 : 8
+	val2 : 26
+k, s : 9, 695
+	val1 : 6
+	val2 : 6
+k, s : 9, 700
+	val1 : 7
+	val2 : 11
+k, s : 9, 705
+	val1 : 6
+	val2 : 16
+k, s : 9, 710
+	val1 : 11
+	val2 : 21
+k, s : 9, 715
+	val1 : 8
+	val2 : 26
+k, s : 9, 720
+	val1 : 6
+	val2 : 6
+k, s : 9, 725
+	val1 : 7
+	val2 : 11
+k, s : 9, 730
+	val1 : 6
+	val2 : 16
+k, s : 9, 735
+	val1 : 11
+	val2 : 21
+k, s : 9, 740
+	val1 : 14
+	val2 : 26
+k, s : 9, 745
+	val1 : 6
+	val2 : 6
+k, s : 9, 750
+	val1 : 7
+	val2 : 11
+k, s : 9, 755
+	val1 : 6
+	val2 : 16
+k, s : 9, 760
+	val1 : 6
+	val2 : 21
+k, s : 9, 765
+	val1 : 11
+	val2 : 26
+k, s : 9, 770
+	val1 : 6
+	val2 : 6
+k, s : 9, 775
+	val1 : 11
+	val2 : 11
+k, s : 9, 780
+	val1 : 6
+	val2 : 16
+k, s : 9, 785
+	val1 : 5
+	val2 : 21
+k, s : 9, 790
+	val1 : 10
+	val2 : 26
+k, s : 9, 795
+	val1 : 13
+	val2 : 31
+k, s : 9, 800
+	val1 : 11
+	val2 : 11
+k, s : 9, 805
+	val1 : 6
+	val2 : 16
+k, s : 9, 810
+	val1 : 4
+	val2 : 4
+k, s : 9, 815
+	val1 : 5
+	val2 : 9
+k, s : 9, 820
+	val1 : 6
+	val2 : 14
+k, s : 9, 825
+	val1 : 11
+	val2 : 19
+k, s : 9, 830
+	val1 : 12
+	val2 : 24
+k, s : 9, 835
+	val1 : 4
+	val2 : 4
+k, s : 9, 840
+	val1 : 5
+	val2 : 9
+k, s : 9, 845
+	val1 : 5
+	val2 : 14
+k, s : 9, 850
+	val1 : 10
+	val2 : 19
+k, s : 9, 855
+	val1 : 12
+	val2 : 24
+k, s : 9, 860
+	val1 : 4
+	val2 : 4
+k, s : 9, 865
+	val1 : 5
+	val2 : 9
+k, s : 9, 870
+	val1 : 4
+	val2 : 14
+k, s : 9, 875
+	val1 : 5
+	val2 : 19
+k, s : 9, 880
+	val1 : 10
+	val2 : 24
+k, s : 9, 885
+	val1 : 11
+	val2 : 29
+k, s : 9, 890
+	val1 : 5
+	val2 : 9
+k, s : 9, 895
+	val1 : 4
+	val2 : 14
+k, s : 9, 900
+	val1 : 5
+	val2 : 19
+k, s : 9, 905
+	val1 : 5
+	val2 : 24
+k, s : 9, 910
+	val1 : 10
+	val2 : 29
+k, s : 9, 915
+	val1 : 9
+	val2 : 9
+k, s : 9, 920
+	val1 : 5
+	val2 : 14
+k, s : 9, 925
+	val1 : 3
+	val2 : 19
+k, s : 9, 930
+	val1 : 5
+	val2 : 24
+k, s : 9, 935
+	val1 : 10
+	val2 : 29
+k, s : 9, 940
+	val1 : 9
+	val2 : 9
+k, s : 9, 945
+	val1 : 10
+	val2 : 14
+k, s : 9, 950
+	val1 : 3
+	val2 : 19
+k, s : 9, 955
+	val1 : 3
+	val2 : 24
+k, s : 9, 960
+	val1 : 8
+	val2 : 29
+k, s : 9, 965
+	val1 : 5
+	val2 : 9
+k, s : 9, 970
+	val1 : 10
+	val2 : 14
+k, s : 9, 975
+	val1 : 9
+	val2 : 19
+k, s : 9, 980
+	val1 : 3
+	val2 : 7
+k, s : 9, 985
+	val1 : 4
+	val2 : 12
+k, s : 9, 990
+	val1 : 5
+	val2 : 17
+k, s : 9, 995
+	val1 : 10
+	val2 : 22
+k, s : 9, 1000
+	val1 : 9
+	val2 : 27
+k, s : 9, 1005
+	val1 : 3
+	val2 : 7
+k, s : 9, 1010
+	val1 : 3
+	val2 : 12
+k, s : 9, 1015
+	val1 : 3
+	val2 : 17
+k, s : 9, 1020
+	val1 : 8
+	val2 : 22
+k, s : 9, 1025
+	val1 : 9
+	val2 : 27
+k, s : 9, 1030
+	val1 : 7
+	val2 : 7
+k, s : 9, 1035
+	val1 : 3
+	val2 : 6
+k, s : 9, 1040
+	val1 : 3
+	val2 : 11
+k, s : 9, 1045
+	val1 : 8
+	val2 : 16
+k, s : 9, 1050
+	val1 : 10
+	val2 : 21
+k, s : 9, 1055
+	val1 : 7
+	val2 : 26
+k, s : 9, 1060
+	val1 : 6
+	val2 : 6
+k, s : 9, 1065
+	val1 : 6
+	val2 : 6
+k, s : 9, 1070
+	val1 : 3
+	val2 : 11
+k, s : 9, 1075
+	val1 : 8
+	val2 : 16
+k, s : 9, 1080
+	val1 : 7
+	val2 : 21
+k, s : 9, 1085
+	val1 : 6
+	val2 : 26
+k, s : 9, 1090
+	val1 : 6
+	val2 : 6
+k, s : 9, 1095
+	val1 : 3
+	val2 : 11
+k, s : 9, 1100
+	val1 : 8
+	val2 : 16
+k, s : 9, 1105
+	val1 : 13
+	val2 : 21
+k, s : 9, 1110
+	val1 : 6
+	val2 : 26
+k, s : 9, 1115
+	val1 : 6
+	val2 : 6
+k, s : 9, 1120
+	val1 : 6
+	val2 : 11
+k, s : 9, 1125
+	val1 : 6
+	val2 : 6
+k, s : 9, 1130
+	val1 : 3
+	val2 : 11
+k, s : 9, 1135
+	val1 : 6
+	val2 : 16
+k, s : 9, 1140
+	val1 : 6
+	val2 : 21
+k, s : 9, 1145
+	val1 : 5
+	val2 : 26
+k, s : 9, 1150
+	val1 : 6
+	val2 : 6
+k, s : 9, 1155
+	val1 : 7
+	val2 : 11
+k, s : 9, 1160
+	val1 : 8
+	val2 : 16
+k, s : 9, 1165
+	val1 : 6
+	val2 : 21
+k, s : 9, 1170
+	val1 : 5
+	val2 : 26
+k, s : 9, 1175
+	val1 : 4
+	val2 : 4
+k, s : 9, 1180
+	val1 : 6
+	val2 : 9
+k, s : 9, 1185
+	val1 : 6
+	val2 : 14
+k, s : 9, 1190
+	val1 : 11
+	val2 : 19
+k, s : 9, 1195
+	val1 : 11
+	val2 : 24
+k, s : 9, 1200
+	val1 : 4
+	val2 : 4
+k, s : 9, 1205
+	val1 : 5
+	val2 : 9
+k, s : 9, 1210
+	val1 : 6
+	val2 : 14
+k, s : 9, 1215
+	val1 : 11
+	val2 : 19
+k, s : 9, 1220
+	val1 : 11
+	val2 : 24
+k, s : 9, 1225
+	val1 : 4
+	val2 : 4
+k, s : 9, 1230
+	val1 : 4
+	val2 : 4
+k, s : 9, 1235
+	val1 : 4
+	val2 : 9
+k, s : 9, 1240
+	val1 : 6
+	val2 : 14
+k, s : 9, 1245
+	val1 : 11
+	val2 : 19
+k, s : 9, 1250
+	val1 : 10
+	val2 : 24
+k, s : 9, 1255
+	val1 : 4
+	val2 : 4
+k, s : 9, 1260
+	val1 : 4
+	val2 : 9
+k, s : 9, 1265
+	val1 : 5
+	val2 : 14
+k, s : 9, 1270
+	val1 : 10
+	val2 : 19
+k, s : 9, 1275
+	val1 : 10
+	val2 : 24
+k, s : 9, 1280
+	val1 : 2
+	val2 : 2
+k, s : 9, 1285
+	val1 : 5
+	val2 : 7
+k, s : 9, 1290
+	val1 : 4
+	val2 : 12
+k, s : 9, 1295
+	val1 : 5
+	val2 : 17
+k, s : 9, 1300
+	val1 : 6
+	val2 : 22
+k, s : 9, 1305
+	val1 : 9
+	val2 : 27
+k, s : 9, 1310
+	val1 : 7
+	val2 : 7
+k, s : 9, 1315
+	val1 : 3
+	val2 : 12
+k, s : 9, 1320
+	val1 : 5
+	val2 : 17
+k, s : 9, 1325
+	val1 : 5
+	val2 : 22
+k, s : 9, 1330
+	val1 : 9
+	val2 : 27
+k, s : 9, 1335
+	val1 : 7
+	val2 : 7
+k, s : 9, 1340
+	val1 : 8
+	val2 : 12
+k, s : 9, 1345
+	val1 : 3
+	val2 : 17
+k, s : 9, 1350
+	val1 : 4
+	val2 : 22
+k, s : 9, 1355
+	val1 : 5
+	val2 : 27
+k, s : 9, 1360
+	val1 : 7
+	val2 : 7
+k, s : 9, 1365
+	val1 : 8
+	val2 : 12
+k, s : 9, 1370
+	val1 : 3
+	val2 : 17
+k, s : 9, 1375
+	val1 : 3
+	val2 : 22
+k, s : 9, 1380
+	val1 : 5
+	val2 : 27
+k, s : 9, 1385
+	val1 : 5
+	val2 : 7
+k, s : 9, 1390
+	val1 : 8
+	val2 : 12
+k, s : 9, 1395
+	val1 : 7
+	val2 : 17
+k, s : 9, 1400
+	val1 : 3
+	val2 : 22
+k, s : 9, 1405
+	val1 : 3
+	val2 : 27
+k, s : 9, 1410
+	val1 : 5
+	val2 : 7
+k, s : 9, 1415
+	val1 : 10
+	val2 : 12
+k, s : 9, 1420
+	val1 : 7
+	val2 : 17
+k, s : 9, 1425
+	val1 : 6
+	val2 : 22
+k, s : 9, 1430
+	val1 : 3
+	val2 : 27
+k, s : 9, 1435
+	val1 : 3
+	val2 : 32
+k, s : 9, 1440
+	val1 : 8
+	val2 : 12
+k, s : 9, 1445
+	val1 : 5
+	val2 : 17
+k, s : 9, 1450
+	val1 : 5
+	val2 : 5
+k, s : 9, 1455
+	val1 : 6
+	val2 : 10
+k, s : 9, 1460
+	val1 : 3
+	val2 : 15
+k, s : 9, 1465
+	val1 : 8
+	val2 : 20
+k, s : 9, 1470
+	val1 : 5
+	val2 : 25
+k, s : 9, 1475
+	val1 : 5
+	val2 : 5
+k, s : 9, 1480
+	val1 : 6
+	val2 : 10
+k, s : 9, 1485
+	val1 : 6
+	val2 : 15
+k, s : 9, 1490
+	val1 : 3
+	val2 : 20
+k, s : 9, 1495
+	val1 : 3
+	val2 : 25
+k, s : 9, 1500
+	val1 : 5
+	val2 : 5
+k, s : 9, 1505
+	val1 : 6
+	val2 : 10
+k, s : 9, 1510
+	val1 : 5
+	val2 : 15
+k, s : 9, 1515
+	val1 : 6
+	val2 : 20
+k, s : 9, 1520
+	val1 : 7
+	val2 : 25
+k, s : 9, 1525
+	val1 : 8
+	val2 : 30
+k, s : 9, 1530
+	val1 : 6
+	val2 : 10
+k, s : 9, 1535
+	val1 : 5
+	val2 : 15
+k, s : 9, 1540
+	val1 : 6
+	val2 : 20
+k, s : 9, 1545
+	val1 : 6
+	val2 : 25
+k, s : 9, 1550
+	val1 : 3
+	val2 : 30
+k, s : 9, 1555
+	val1 : 8
+	val2 : 10
+k, s : 9, 1560
+	val1 : 6
+	val2 : 15
+k, s : 9, 1565
+	val1 : 4
+	val2 : 20
+k, s : 9, 1570
+	val1 : 5
+	val2 : 25
+k, s : 9, 1575
+	val1 : 6
+	val2 : 30
+k, s : 9, 1580
+	val1 : 8
+	val2 : 10
+k, s : 9, 1585
+	val1 : 11
+	val2 : 15
+k, s : 9, 1590
+	val1 : 4
+	val2 : 20
+k, s : 9, 1595
+	val1 : 4
+	val2 : 25
+k, s : 9, 1600
+	val1 : 4
+	val2 : 30
+k, s : 9, 1605
+	val1 : 6
+	val2 : 10
+k, s : 9, 1610
+	val1 : 11
+	val2 : 15
+k, s : 9, 1615
+	val1 : 8
+	val2 : 20
+k, s : 9, 1620
+	val1 : 4
+	val2 : 8
+k, s : 9, 1625
+	val1 : 4
+	val2 : 13
+k, s : 9, 1630
+	val1 : 6
+	val2 : 18
+k, s : 9, 1635
+	val1 : 7
+	val2 : 23
+k, s : 9, 1640
+	val1 : 8
+	val2 : 28
+k, s : 9, 1645
+	val1 : 4
+	val2 : 8
+k, s : 9, 1650
+	val1 : 4
+	val2 : 13
+k, s : 9, 1655
+	val1 : 4
+	val2 : 18
+k, s : 9, 1660
+	val1 : 6
+	val2 : 23
+k, s : 9, 1665
+	val1 : 6
+	val2 : 28
+k, s : 9, 1670
+	val1 : 8
+	val2 : 8
+k, s : 9, 1675
+	val1 : 4
+	val2 : 7
+k, s : 9, 1680
+	val1 : 4
+	val2 : 12
+k, s : 9, 1685
+	val1 : 5
+	val2 : 17
+k, s : 9, 1690
+	val1 : 6
+	val2 : 22
+k, s : 9, 1695
+	val1 : 8
+	val2 : 27
+k, s : 9, 1700
+	val1 : 7
+	val2 : 7
+k, s : 9, 1705
+	val1 : 7
+	val2 : 7
+k, s : 9, 1710
+	val1 : 4
+	val2 : 12
+k, s : 9, 1715
+	val1 : 4
+	val2 : 17
+k, s : 9, 1720
+	val1 : 6
+	val2 : 22
+k, s : 9, 1725
+	val1 : 7
+	val2 : 27
+k, s : 9, 1730
+	val1 : 7
+	val2 : 7
+k, s : 9, 1735
+	val1 : 4
+	val2 : 12
+k, s : 9, 1740
+	val1 : 5
+	val2 : 17
+k, s : 9, 1745
+	val1 : 5
+	val2 : 22
+k, s : 9, 1750
+	val1 : 7
+	val2 : 27
+k, s : 9, 1755
+	val1 : 7
+	val2 : 7
+k, s : 9, 1760
+	val1 : 7
+	val2 : 12
+k, s : 9, 1765
+	val1 : 4
+	val2 : 7
+k, s : 9, 1770
+	val1 : 4
+	val2 : 12
+k, s : 9, 1775
+	val1 : 5
+	val2 : 17
+k, s : 9, 1780
+	val1 : 6
+	val2 : 22
+k, s : 9, 1785
+	val1 : 6
+	val2 : 27
+k, s : 9, 1790
+	val1 : 4
+	val2 : 7
+k, s : 9, 1795
+	val1 : 7
+	val2 : 12
+k, s : 9, 1800
+	val1 : 5
+	val2 : 17
+k, s : 9, 1805
+	val1 : 5
+	val2 : 22
+k, s : 9, 1810
+	val1 : 6
+	val2 : 27
+k, s : 9, 1815
+	val1 : 5
+	val2 : 5
+k, s : 9, 1820
+	val1 : 7
+	val2 : 10
+k, s : 9, 1825
+	val1 : 4
+	val2 : 15
+k, s : 9, 1830
+	val1 : 5
+	val2 : 20
+k, s : 9, 1835
+	val1 : 5
+	val2 : 25
+k, s : 9, 1840
+	val1 : 5
+	val2 : 5
+k, s : 9, 1845
+	val1 : 6
+	val2 : 10
+k, s : 9, 1850
+	val1 : 6
+	val2 : 15
+k, s : 9, 1855
+	val1 : 8
+	val2 : 20
+k, s : 9, 1860
+	val1 : 5
+	val2 : 25
+k, s : 9, 1865
+	val1 : 5
+	val2 : 5
+k, s : 9, 1870
+	val1 : 5
+	val2 : 5
+k, s : 9, 1875
+	val1 : 5
+	val2 : 10
+k, s : 9, 1880
+	val1 : 6
+	val2 : 15
+k, s : 9, 1885
+	val1 : 7
+	val2 : 20
+k, s : 9, 1890
+	val1 : 5
+	val2 : 25
+k, s : 9, 1895
+	val1 : 5
+	val2 : 5
+k, s : 9, 1900
+	val1 : 5
+	val2 : 10
+k, s : 9, 1905
+	val1 : 6
+	val2 : 15
+k, s : 9, 1910
+	val1 : 6
+	val2 : 20
+k, s : 9, 1915
+	val1 : 8
+	val2 : 25
+k, s : 9, 1920
+	val1 : 3
+	val2 : 3
+k, s : 9, 1925
+	val1 : 5
+	val2 : 8
+k, s : 9, 1930
+	val1 : 5
+	val2 : 13
+k, s : 9, 1935
+	val1 : 5
+	val2 : 18
+k, s : 9, 1940
+	val1 : 6
+	val2 : 23
+k, s : 9, 1945
+	val1 : 8
+	val2 : 28
+k, s : 9, 1950
+	val1 : 5
+	val2 : 8
+k, s : 9, 1955
+	val1 : 4
+	val2 : 13
+k, s : 9, 1960
+	val1 : 6
+	val2 : 18
+k, s : 9, 1965
+	val1 : 6
+	val2 : 23
+k, s : 9, 1970
+	val1 : 6
+	val2 : 28
+k, s : 9, 1975
+	val1 : 8
+	val2 : 8
+k, s : 9, 1980
+	val1 : 8
+	val2 : 13
+k, s : 9, 1985
+	val1 : 4
+	val2 : 18
+k, s : 9, 1990
+	val1 : 4
+	val2 : 23
+k, s : 9, 1995
+	val1 : 6
+	val2 : 28
+k, s : 9, 2000
+	val1 : 7
+	val2 : 8
+k, s : 9, 400
+	val1 : 22
+	val2 : 22
+k, s : 9, 405
+	val1 : 27
+	val2 : 27
+k, s : 9, 410
+	val1 : 32
+	val2 : 32
+k, s : 9, 415
+	val1 : 4
+	val2 : 37
+k, s : 9, 420
+	val1 : 9
+	val2 : 42
+k, s : 9, 425
+	val1 : 14
+	val2 : 47
+k, s : 9, 430
+	val1 : 19
+	val2 : 52
+k, s : 9, 435
+	val1 : 4
+	val2 : 57
+k, s : 9, 440
+	val1 : 9
+	val2 : 62
+k, s : 9, 445
+	val1 : 14
+	val2 : 67
+k, s : 9, 450
+	val1 : 5
+	val2 : 72
+k, s : 9, 455
+	val1 : 2
+	val2 : 2
+k, s : 9, 460
+	val1 : 7
+	val2 : 7
+k, s : 9, 465
+	val1 : 12
+	val2 : 12
+k, s : 9, 470
+	val1 : 2
+	val2 : 17
+k, s : 9, 475
+	val1 : 7
+	val2 : 22
+k, s : 9, 480
+	val1 : 12
+	val2 : 27
+k, s : 9, 485
+	val1 : 17
+	val2 : 32
+k, s : 9, 490
+	val1 : 2
+	val2 : 37
+k, s : 9, 495
+	val1 : 7
+	val2 : 42
+k, s : 9, 500
+	val1 : 12
+	val2 : 47
+k, s : 9, 505
+	val1 : 3
+	val2 : 52
+k, s : 9, 510
+	val1 : 2
+	val2 : 57
+k, s : 9, 515
+	val1 : 7
+	val2 : 62
+k, s : 9, 520
+	val1 : 12
+	val2 : 67
+k, s : 9, 525
+	val1 : 3
+	val2 : 72
+k, s : 9, 530
+	val1 : 8
+	val2 : 77
+k, s : 9, 535
+	val1 : 4
+	val2 : 82
+k, s : 9, 540
+	val1 : 4
+	val2 : 87
+k, s : 9, 545
+	val1 : 9
+	val2 : 92
+k, s : 9, 550
+	val1 : 14
+	val2 : 97
+k, s : 9, 555
+	val1 : 19
+	val2 : 102
+k, s : 9, 560
+	val1 : 5
+	val2 : 107
+k, s : 9, 565
+	val1 : 10
+	val2 : 112
+k, s : 9, 570
+	val1 : 15
+	val2 : 117
+k, s : 9, 575
+	val1 : 20
+	val2 : 122
+k, s : 9, 580
+	val1 : 25
+	val2 : 127
+k, s : 9, 585
+	val1 : 30
+	val2 : 132
+k, s : 9, 590
+	val1 : 35
+	val2 : 137
+k, s : 9, 595
+	val1 : 7
+	val2 : 142
+k, s : 9, 600
+	val1 : 12
+	val2 : 147
+k, s : 9, 605
+	val1 : 17
+	val2 : 152
+k, s : 9, 610
+	val1 : 22
+	val2 : 157
+k, s : 9, 615
+	val1 : 3
+	val2 : 162
+k, s : 9, 620
+	val1 : 4
+	val2 : 4
+k, s : 9, 625
+	val1 : 3
+	val2 : 9
+k, s : 9, 630
+	val1 : 8
+	val2 : 14
+k, s : 9, 635
+	val1 : 3
+	val2 : 19
+k, s : 9, 640
+	val1 : 8
+	val2 : 24
+k, s : 9, 645
+	val1 : 13
+	val2 : 29
+k, s : 9, 650
+	val1 : 2
+	val2 : 2
+k, s : 9, 655
+	val1 : 7
+	val2 : 7
+k, s : 9, 660
+	val1 : 12
+	val2 : 12
+k, s : 9, 665
+	val1 : 17
+	val2 : 17
+k, s : 9, 670
+	val1 : 5
+	val2 : 22
+k, s : 9, 675
+	val1 : 10
+	val2 : 27
+k, s : 9, 680
+	val1 : 15
+	val2 : 32
+k, s : 9, 685
+	val1 : 6
+	val2 : 37
+k, s : 9, 690
+	val1 : 3
+	val2 : 42
+k, s : 9, 695
+	val1 : 8
+	val2 : 47
+k, s : 9, 700
+	val1 : 13
+	val2 : 52
+k, s : 9, 705
+	val1 : 3
+	val2 : 57
+k, s : 9, 710
+	val1 : 3
+	val2 : 62
+k, s : 9, 715
+	val1 : 7
+	val2 : 67
+k, s : 9, 720
+	val1 : 7
+	val2 : 72
+k, s : 9, 725
+	val1 : 3
+	val2 : 77
+k, s : 9, 730
+	val1 : 8
+	val2 : 82
+k, s : 9, 735
+	val1 : 3
+	val2 : 87
+k, s : 9, 740
+	val1 : 4
+	val2 : 92
+k, s : 9, 745
+	val1 : 3
+	val2 : 97
+k, s : 9, 750
+	val1 : 8
+	val2 : 102
+k, s : 9, 755
+	val1 : 13
+	val2 : 107
+k, s : 9, 760
+	val1 : 4
+	val2 : 112
+k, s : 9, 765
+	val1 : 3
+	val2 : 117
+k, s : 9, 770
+	val1 : 5
+	val2 : 122
+k, s : 9, 775
+	val1 : 5
+	val2 : 127
+k, s : 9, 780
+	val1 : 4
+	val2 : 132
+k, s : 9, 785
+	val1 : 9
+	val2 : 137
+k, s : 9, 790
+	val1 : 5
+	val2 : 142
+k, s : 9, 795
+	val1 : 2
+	val2 : 147
+k, s : 9, 800
+	val1 : 7
+	val2 : 152
+k, s : 9, 805
+	val1 : 6
+	val2 : 157
+k, s : 9, 810
+	val1 : 3
+	val2 : 162
+k, s : 9, 815
+	val1 : 6
+	val2 : 167
+k, s : 9, 820
+	val1 : 11
+	val2 : 172
+k, s : 9, 825
+	val1 : 16
+	val2 : 177
+k, s : 9, 830
+	val1 : 5
+	val2 : 5
+k, s : 9, 835
+	val1 : 4
+	val2 : 10
+k, s : 9, 840
+	val1 : 9
+	val2 : 15
+k, s : 9, 845
+	val1 : 14
+	val2 : 20
+k, s : 9, 850
+	val1 : 4
+	val2 : 25
+k, s : 9, 855
+	val1 : 5
+	val2 : 30
+k, s : 9, 860
+	val1 : 4
+	val2 : 35
+k, s : 9, 865
+	val1 : 9
+	val2 : 40
+k, s : 9, 870
+	val1 : 4
+	val2 : 45
+k, s : 9, 875
+	val1 : 5
+	val2 : 50
+k, s : 9, 880
+	val1 : 4
+	val2 : 55
+k, s : 9, 885
+	val1 : 3
+	val2 : 3
+k, s : 9, 890
+	val1 : 4
+	val2 : 8
+k, s : 9, 895
+	val1 : 5
+	val2 : 13
+k, s : 9, 900
+	val1 : 10
+	val2 : 18
+k, s : 9, 905
+	val1 : 3
+	val2 : 3
+k, s : 9, 910
+	val1 : 4
+	val2 : 8
+k, s : 9, 915
+	val1 : 6
+	val2 : 13
+k, s : 9, 920
+	val1 : 4
+	val2 : 4
+k, s : 9, 925
+	val1 : 4
+	val2 : 9
+k, s : 9, 930
+	val1 : 9
+	val2 : 14
+k, s : 9, 935
+	val1 : 14
+	val2 : 19
+k, s : 9, 940
+	val1 : 4
+	val2 : 24
+k, s : 9, 945
+	val1 : 4
+	val2 : 29
+k, s : 9, 950
+	val1 : 8
+	val2 : 34
+k, s : 9, 955
+	val1 : 8
+	val2 : 39
+k, s : 9, 960
+	val1 : 4
+	val2 : 44
+k, s : 9, 965
+	val1 : 4
+	val2 : 49
+k, s : 9, 970
+	val1 : 4
+	val2 : 54
+k, s : 9, 975
+	val1 : 5
+	val2 : 59
+k, s : 9, 980
+	val1 : 4
+	val2 : 64
+k, s : 9, 985
+	val1 : 4
+	val2 : 69
+k, s : 9, 990
+	val1 : 4
+	val2 : 74
+k, s : 9, 995
+	val1 : 5
+	val2 : 79
+k, s : 9, 1000
+	val1 : 4
+	val2 : 84
+k, s : 9, 1005
+	val1 : 3
+	val2 : 89
+k, s : 9, 1010
+	val1 : 6
+	val2 : 94
+k, s : 9, 1015
+	val1 : 5
+	val2 : 99
+k, s : 9, 1020
+	val1 : 4
+	val2 : 104
+k, s : 9, 1025
+	val1 : 6
+	val2 : 109
+k, s : 9, 1030
+	val1 : 3
+	val2 : 4
+k, s : 9, 1035
+	val1 : 5
+	val2 : 9
+k, s : 9, 1040
+	val1 : 7
+	val2 : 14
+k, s : 9, 1045
+	val1 : 4
+	val2 : 19
+k, s : 9, 1050
+	val1 : 3
+	val2 : 24
+k, s : 9, 1055
+	val1 : 8
+	val2 : 29
+k, s : 9, 1060
+	val1 : 7
+	val2 : 34
+k, s : 9, 1065
+	val1 : 4
+	val2 : 39
+k, s : 9, 1070
+	val1 : 5
+	val2 : 44
+k, s : 9, 1075
+	val1 : 6
+	val2 : 49
+k, s : 9, 1080
+	val1 : 5
+	val2 : 54
+k, s : 9, 1085
+	val1 : 5
+	val2 : 59
+k, s : 9, 1090
+	val1 : 5
+	val2 : 64
+k, s : 9, 1095
+	val1 : 4
+	val2 : 69
+k, s : 9, 1100
+	val1 : 7
+	val2 : 74
+k, s : 9, 1105
+	val1 : 4
+	val2 : 4
+k, s : 9, 1110
+	val1 : 6
+	val2 : 9
+k, s : 9, 1115
+	val1 : 5
+	val2 : 14
+k, s : 9, 1120
+	val1 : 4
+	val2 : 19
+k, s : 9, 1125
+	val1 : 5
+	val2 : 24
+k, s : 9, 1130
+	val1 : 6
+	val2 : 29
+k, s : 9, 1135
+	val1 : 5
+	val2 : 34
+k, s : 9, 1140
+	val1 : 4
+	val2 : 39
+k, s : 9, 1145
+	val1 : 5
+	val2 : 44
+k, s : 9, 1150
+	val1 : 6
+	val2 : 49
+k, s : 9, 1155
+	val1 : 3
+	val2 : 54
+k, s : 9, 1160
+	val1 : 4
+	val2 : 59
+k, s : 9, 1165
+	val1 : 5
+	val2 : 64
+k, s : 9, 1170
+	val1 : 4
+	val2 : 69
+k, s : 9, 1175
+	val1 : 4
+	val2 : 74
+k, s : 9, 1180
+	val1 : 5
+	val2 : 79
+k, s : 9, 1185
+	val1 : 6
+	val2 : 84
+k, s : 9, 1190
+	val1 : 5
+	val2 : 89
+k, s : 9, 1195
+	val1 : 5
+	val2 : 94
+k, s : 9, 1200
+	val1 : 5
+	val2 : 99
+k, s : 9, 1205
+	val1 : 4
+	val2 : 104
+k, s : 9, 1210
+	val1 : 6
+	val2 : 109
+k, s : 9, 1215
+	val1 : 5
+	val2 : 114
+k, s : 9, 1220
+	val1 : 5
+	val2 : 119
+k, s : 9, 1225
+	val1 : 5
+	val2 : 124
+k, s : 9, 1230
+	val1 : 6
+	val2 : 129
+k, s : 9, 1235
+	val1 : 3
+	val2 : 134
+k, s : 9, 1240
+	val1 : 4
+	val2 : 139
+k, s : 9, 1245
+	val1 : 5
+	val2 : 144
+k, s : 9, 1250
+	val1 : 4
+	val2 : 149
+k, s : 9, 1255
+	val1 : 5
+	val2 : 154
+k, s : 9, 1260
+	val1 : 4
+	val2 : 159
+k, s : 9, 1265
+	val1 : 3
+	val2 : 164
+k, s : 9, 1270
+	val1 : 6
+	val2 : 6
+k, s : 9, 1275
+	val1 : 5
+	val2 : 11
+k, s : 9, 1280
+	val1 : 4
+	val2 : 16
+k, s : 9, 1285
+	val1 : 4
+	val2 : 21
+k, s : 9, 1290
+	val1 : 6
+	val2 : 26
+k, s : 9, 1295
+	val1 : 8
+	val2 : 31
+k, s : 9, 1300
+	val1 : 4
+	val2 : 4
+k, s : 9, 1305
+	val1 : 4
+	val2 : 9
+k, s : 9, 1310
+	val1 : 7
+	val2 : 14
+k, s : 9, 1315
+	val1 : 4
+	val2 : 19
+k, s : 9, 1320
+	val1 : 5
+	val2 : 24
+k, s : 9, 1325
+	val1 : 6
+	val2 : 29
+k, s : 9, 1330
+	val1 : 5
+	val2 : 34
+k, s : 9, 1335
+	val1 : 6
+	val2 : 39
+k, s : 9, 1340
+	val1 : 3
+	val2 : 44
+k, s : 9, 1345
+	val1 : 5
+	val2 : 49
+k, s : 9, 1350
+	val1 : 5
+	val2 : 54
+k, s : 9, 1355
+	val1 : 4
+	val2 : 59
+k, s : 9, 1360
+	val1 : 5
+	val2 : 64
+k, s : 9, 1365
+	val1 : 4
+	val2 : 69
+k, s : 9, 1370
+	val1 : 6
+	val2 : 74
+k, s : 9, 1375
+	val1 : 3
+	val2 : 79
+k, s : 9, 1380
+	val1 : 6
+	val2 : 84
+k, s : 9, 1385
+	val1 : 5
+	val2 : 89
+k, s : 9, 1390
+	val1 : 4
+	val2 : 94
+k, s : 9, 1395
+	val1 : 5
+	val2 : 99
+k, s : 9, 1400
+	val1 : 6
+	val2 : 104
+k, s : 9, 1405
+	val1 : 5
+	val2 : 109
+k, s : 9, 1410
+	val1 : 4
+	val2 : 114
+k, s : 9, 1415
+	val1 : 5
+	val2 : 119
+k, s : 9, 1420
+	val1 : 5
+	val2 : 124
+k, s : 9, 1425
+	val1 : 5
+	val2 : 129
+k, s : 9, 1430
+	val1 : 5
+	val2 : 134
+k, s : 9, 1435
+	val1 : 6
+	val2 : 139
+k, s : 9, 1440
+	val1 : 5
+	val2 : 144
+k, s : 9, 1445
+	val1 : 4
+	val2 : 149
+k, s : 9, 1450
+	val1 : 3
+	val2 : 154
+k, s : 9, 1455
+	val1 : 5
+	val2 : 159
+k, s : 9, 1460
+	val1 : 5
+	val2 : 164
+k, s : 9, 1465
+	val1 : 4
+	val2 : 169
+k, s : 9, 1470
+	val1 : 4
+	val2 : 174
+k, s : 9, 1475
+	val1 : 4
+	val2 : 179
+k, s : 9, 1480
+	val1 : 6
+	val2 : 7
+k, s : 9, 1485
+	val1 : 5
+	val2 : 12
+k, s : 9, 1490
+	val1 : 4
+	val2 : 17
+k, s : 9, 1495
+	val1 : 5
+	val2 : 22
+k, s : 9, 1500
+	val1 : 4
+	val2 : 27
+k, s : 9, 1505
+	val1 : 5
+	val2 : 32
+k, s : 9, 1510
+	val1 : 6
+	val2 : 37
+k, s : 9, 1515
+	val1 : 5
+	val2 : 42
+k, s : 9, 1520
+	val1 : 4
+	val2 : 47
+k, s : 9, 1525
+	val1 : 3
+	val2 : 52
+k, s : 9, 1530
+	val1 : 5
+	val2 : 57
+k, s : 9, 1535
+	val1 : 3
+	val2 : 5
+k, s : 9, 1540
+	val1 : 4
+	val2 : 10
+k, s : 9, 1545
+	val1 : 6
+	val2 : 15
+k, s : 9, 1550
+	val1 : 4
+	val2 : 20
+k, s : 9, 1555
+	val1 : 5
+	val2 : 5
+k, s : 9, 1560
+	val1 : 5
+	val2 : 10
+k, s : 9, 1565
+	val1 : 5
+	val2 : 15
+k, s : 9, 1570
+	val1 : 5
+	val2 : 6
+k, s : 9, 1575
+	val1 : 4
+	val2 : 11
+k, s : 9, 1580
+	val1 : 6
+	val2 : 16
+k, s : 9, 1585
+	val1 : 4
+	val2 : 21
+k, s : 9, 1590
+	val1 : 4
+	val2 : 26
+k, s : 9, 1595
+	val1 : 4
+	val2 : 31
+k, s : 9, 1600
+	val1 : 5
+	val2 : 36
+k, s : 9, 1605
+	val1 : 5
+	val2 : 41
+k, s : 9, 1610
+	val1 : 4
+	val2 : 46
+k, s : 9, 1615
+	val1 : 5
+	val2 : 51
+k, s : 9, 1620
+	val1 : 5
+	val2 : 56
+k, s : 9, 1625
+	val1 : 5
+	val2 : 61
+k, s : 9, 1630
+	val1 : 4
+	val2 : 66
+k, s : 9, 1635
+	val1 : 6
+	val2 : 71
+k, s : 9, 1640
+	val1 : 5
+	val2 : 76
+k, s : 9, 1645
+	val1 : 3
+	val2 : 81
+k, s : 9, 1650
+	val1 : 6
+	val2 : 86
+k, s : 9, 1655
+	val1 : 5
+	val2 : 91
+k, s : 9, 1660
+	val1 : 4
+	val2 : 96
+k, s : 9, 1665
+	val1 : 5
+	val2 : 101
+k, s : 9, 1670
+	val1 : 6
+	val2 : 106
+k, s : 9, 1675
+	val1 : 5
+	val2 : 111
+k, s : 9, 1680
+	val1 : 5
+	val2 : 6
+k, s : 9, 1685
+	val1 : 4
+	val2 : 11
+k, s : 9, 1690
+	val1 : 5
+	val2 : 16
+k, s : 9, 1695
+	val1 : 6
+	val2 : 21
+k, s : 9, 1700
+	val1 : 5
+	val2 : 26
+k, s : 9, 1705
+	val1 : 4
+	val2 : 31
+k, s : 9, 1710
+	val1 : 5
+	val2 : 36
+k, s : 9, 1715
+	val1 : 5
+	val2 : 41
+k, s : 9, 1720
+	val1 : 3
+	val2 : 46
+k, s : 9, 1725
+	val1 : 5
+	val2 : 51
+k, s : 9, 1730
+	val1 : 5
+	val2 : 56
+k, s : 9, 1735
+	val1 : 4
+	val2 : 61
+k, s : 9, 1740
+	val1 : 6
+	val2 : 66
+k, s : 9, 1745
+	val1 : 4
+	val2 : 71
+k, s : 9, 1750
+	val1 : 5
+	val2 : 76
+k, s : 9, 1755
+	val1 : 5
+	val2 : 6
+k, s : 9, 1760
+	val1 : 4
+	val2 : 11
+k, s : 9, 1765
+	val1 : 6
+	val2 : 16
+k, s : 9, 1770
+	val1 : 4
+	val2 : 21
+k, s : 9, 1775
+	val1 : 5
+	val2 : 26
+k, s : 9, 1780
+	val1 : 4
+	val2 : 31
+k, s : 9, 1785
+	val1 : 5
+	val2 : 36
+k, s : 9, 1790
+	val1 : 4
+	val2 : 41
+k, s : 9, 1795
+	val1 : 5
+	val2 : 46
+k, s : 9, 1800
+	val1 : 5
+	val2 : 51
+k, s : 9, 1805
+	val1 : 5
+	val2 : 56
+k, s : 9, 1810
+	val1 : 5
+	val2 : 61
+k, s : 9, 1815
+	val1 : 6
+	val2 : 66
+k, s : 9, 1820
+	val1 : 5
+	val2 : 71
+k, s : 9, 1825
+	val1 : 5
+	val2 : 76
+k, s : 9, 1830
+	val1 : 5
+	val2 : 81
+k, s : 9, 1835
+	val1 : 5
+	val2 : 86
+k, s : 9, 1840
+	val1 : 5
+	val2 : 91
+k, s : 9, 1845
+	val1 : 5
+	val2 : 96
+k, s : 9, 1850
+	val1 : 5
+	val2 : 101
+k, s : 9, 1855
+	val1 : 4
+	val2 : 106
+k, s : 9, 1860
+	val1 : 5
+	val2 : 111
+k, s : 9, 1865
+	val1 : 5
+	val2 : 116
+k, s : 9, 1870
+	val1 : 6
+	val2 : 121
+k, s : 9, 1875
+	val1 : 6
+	val2 : 126
+k, s : 9, 1880
+	val1 : 4
+	val2 : 131
+k, s : 9, 1885
+	val1 : 5
+	val2 : 136
+k, s : 9, 1890
+	val1 : 6
+	val2 : 141
+k, s : 9, 1895
+	val1 : 5
+	val2 : 146
+k, s : 9, 1900
+	val1 : 4
+	val2 : 151
+k, s : 9, 1905
+	val1 : 5
+	val2 : 156
+k, s : 9, 1910
+	val1 : 5
+	val2 : 161
+k, s : 9, 1915
+	val1 : 3
+	val2 : 3
+k, s : 9, 1920
+	val1 : 5
+	val2 : 8
+k, s : 9, 1925
+	val1 : 6
+	val2 : 13
+k, s : 9, 1930
+	val1 : 4
+	val2 : 18
+k, s : 9, 1935
+	val1 : 5
+	val2 : 23
+k, s : 9, 1940
+	val1 : 5
+	val2 : 28
+k, s : 9, 1945
+	val1 : 5
+	val2 : 33
+k, s : 9, 1950
+	val1 : 5
+	val2 : 6
+k, s : 9, 1955
+	val1 : 4
+	val2 : 11
+k, s : 9, 1960
+	val1 : 5
+	val2 : 16
+k, s : 9, 1965
+	val1 : 6
+	val2 : 21
+k, s : 9, 1970
+	val1 : 5
+	val2 : 26
+k, s : 9, 1975
+	val1 : 4
+	val2 : 31
+k, s : 9, 1980
+	val1 : 5
+	val2 : 36
+k, s : 9, 1985
+	val1 : 6
+	val2 : 41
+k, s : 9, 1990
+	val1 : 5
+	val2 : 46
+k, s : 9, 1995
+	val1 : 5
+	val2 : 51
+k, s : 9, 2000
+	val1 : 5
+	val2 : 56
+k, s : 9, 400
+	val1 : 33
+	val2 : 33
+k, s : 9, 405
+	val1 : 5
+	val2 : 5
+k, s : 9, 410
+	val1 : 10
+	val2 : 10
+k, s : 9, 415
+	val1 : 15
+	val2 : 15
+k, s : 9, 420
+	val1 : 20
+	val2 : 20
+k, s : 9, 425
+	val1 : 2
+	val2 : 2
+k, s : 9, 430
+	val1 : 7
+	val2 : 7
+k, s : 9, 435
+	val1 : 12
+	val2 : 12
+k, s : 9, 440
+	val1 : 17
+	val2 : 17
+k, s : 9, 445
+	val1 : 22
+	val2 : 22
+k, s : 9, 450
+	val1 : 27
+	val2 : 27
+k, s : 9, 455
+	val1 : 32
+	val2 : 32
+k, s : 9, 460
+	val1 : 37
+	val2 : 37
+k, s : 9, 465
+	val1 : 6
+	val2 : 42
+k, s : 9, 470
+	val1 : 11
+	val2 : 47
+k, s : 9, 475
+	val1 : 3
+	val2 : 3
+k, s : 9, 480
+	val1 : 7
+	val2 : 8
+k, s : 9, 485
+	val1 : 12
+	val2 : 13
+k, s : 9, 490
+	val1 : 3
+	val2 : 18
+k, s : 9, 495
+	val1 : 8
+	val2 : 23
+k, s : 9, 500
+	val1 : 13
+	val2 : 28
+k, s : 9, 505
+	val1 : 4
+	val2 : 33
+k, s : 9, 510
+	val1 : 4
+	val2 : 38
+k, s : 9, 515
+	val1 : 9
+	val2 : 43
+k, s : 9, 520
+	val1 : 14
+	val2 : 48
+k, s : 9, 525
+	val1 : 5
+	val2 : 5
+k, s : 9, 530
+	val1 : 10
+	val2 : 10
+k, s : 9, 535
+	val1 : 15
+	val2 : 15
+k, s : 9, 540
+	val1 : 6
+	val2 : 20
+k, s : 9, 545
+	val1 : 5
+	val2 : 5
+k, s : 9, 550
+	val1 : 10
+	val2 : 10
+k, s : 9, 555
+	val1 : 15
+	val2 : 15
+k, s : 9, 560
+	val1 : 7
+	val2 : 20
+k, s : 9, 565
+	val1 : 12
+	val2 : 25
+k, s : 9, 570
+	val1 : 3
+	val2 : 30
+k, s : 9, 575
+	val1 : 8
+	val2 : 35
+k, s : 9, 580
+	val1 : 4
+	val2 : 40
+k, s : 9, 585
+	val1 : 9
+	val2 : 45
+k, s : 9, 590
+	val1 : 14
+	val2 : 50
+k, s : 9, 595
+	val1 : 4
+	val2 : 4
+k, s : 9, 600
+	val1 : 9
+	val2 : 9
+k, s : 9, 605
+	val1 : 5
+	val2 : 14
+k, s : 9, 610
+	val1 : 10
+	val2 : 19
+k, s : 9, 615
+	val1 : 15
+	val2 : 24
+k, s : 9, 620
+	val1 : 8
+	val2 : 29
+k, s : 9, 625
+	val1 : 2
+	val2 : 34
+k, s : 9, 630
+	val1 : 4
+	val2 : 39
+k, s : 9, 635
+	val1 : 9
+	val2 : 44
+k, s : 9, 640
+	val1 : 14
+	val2 : 49
+k, s : 9, 645
+	val1 : 5
+	val2 : 54
+k, s : 9, 650
+	val1 : 10
+	val2 : 59
+k, s : 9, 655
+	val1 : 15
+	val2 : 64
+k, s : 9, 660
+	val1 : 6
+	val2 : 69
+k, s : 9, 665
+	val1 : 6
+	val2 : 74
+k, s : 9, 670
+	val1 : 11
+	val2 : 79
+k, s : 9, 675
+	val1 : 2
+	val2 : 84
+k, s : 9, 680
+	val1 : 7
+	val2 : 89
+k, s : 9, 685
+	val1 : 12
+	val2 : 94
+k, s : 9, 690
+	val1 : 3
+	val2 : 99
+k, s : 9, 695
+	val1 : 2
+	val2 : 104
+k, s : 9, 700
+	val1 : 7
+	val2 : 109
+k, s : 9, 705
+	val1 : 4
+	val2 : 114
+k, s : 9, 710
+	val1 : 3
+	val2 : 119
+k, s : 9, 715
+	val1 : 8
+	val2 : 124
+k, s : 9, 720
+	val1 : 13
+	val2 : 129
+k, s : 9, 725
+	val1 : 5
+	val2 : 134
+k, s : 9, 730
+	val1 : 10
+	val2 : 139
+k, s : 9, 735
+	val1 : 6
+	val2 : 144
+k, s : 9, 740
+	val1 : 6
+	val2 : 149
+k, s : 9, 745
+	val1 : 5
+	val2 : 154
+k, s : 9, 750
+	val1 : 6
+	val2 : 6
+k, s : 9, 755
+	val1 : 11
+	val2 : 11
+k, s : 9, 760
+	val1 : 2
+	val2 : 2
+k, s : 9, 765
+	val1 : 7
+	val2 : 7
+k, s : 9, 770
+	val1 : 5
+	val2 : 12
+k, s : 9, 775
+	val1 : 8
+	val2 : 17
+k, s : 9, 780
+	val1 : 4
+	val2 : 22
+k, s : 9, 785
+	val1 : 6
+	val2 : 27
+k, s : 9, 790
+	val1 : 11
+	val2 : 32
+k, s : 9, 795
+	val1 : 3
+	val2 : 4
+k, s : 9, 800
+	val1 : 7
+	val2 : 9
+k, s : 9, 805
+	val1 : 5
+	val2 : 14
+k, s : 9, 810
+	val1 : 4
+	val2 : 19
+k, s : 9, 815
+	val1 : 8
+	val2 : 24
+k, s : 9, 820
+	val1 : 8
+	val2 : 29
+k, s : 9, 825
+	val1 : 13
+	val2 : 34
+k, s : 9, 830
+	val1 : 4
+	val2 : 39
+k, s : 9, 835
+	val1 : 9
+	val2 : 44
+k, s : 9, 840
+	val1 : 5
+	val2 : 49
+k, s : 9, 845
+	val1 : 5
+	val2 : 54
+k, s : 9, 850
+	val1 : 4
+	val2 : 59
+k, s : 9, 855
+	val1 : 9
+	val2 : 64
+k, s : 9, 860
+	val1 : 6
+	val2 : 69
+k, s : 9, 865
+	val1 : 5
+	val2 : 74
+k, s : 9, 870
+	val1 : 10
+	val2 : 79
+k, s : 9, 875
+	val1 : 3
+	val2 : 84
+k, s : 9, 880
+	val1 : 6
+	val2 : 89
+k, s : 9, 885
+	val1 : 11
+	val2 : 94
+k, s : 9, 890
+	val1 : 3
+	val2 : 99
+k, s : 9, 895
+	val1 : 8
+	val2 : 104
+k, s : 9, 900
+	val1 : 3
+	val2 : 109
+k, s : 9, 905
+	val1 : 8
+	val2 : 114
+k, s : 9, 910
+	val1 : 3
+	val2 : 119
+k, s : 9, 915
+	val1 : 4
+	val2 : 124
+k, s : 9, 920
+	val1 : 9
+	val2 : 129
+k, s : 9, 925
+	val1 : 5
+	val2 : 134
+k, s : 9, 930
+	val1 : 5
+	val2 : 139
+k, s : 9, 935
+	val1 : 4
+	val2 : 144
+k, s : 9, 940
+	val1 : 6
+	val2 : 149
+k, s : 9, 945
+	val1 : 2
+	val2 : 154
+k, s : 9, 950
+	val1 : 5
+	val2 : 6
+k, s : 9, 955
+	val1 : 9
+	val2 : 11
+k, s : 9, 960
+	val1 : 7
+	val2 : 16
+k, s : 9, 965
+	val1 : 2
+	val2 : 7
+k, s : 9, 970
+	val1 : 7
+	val2 : 12
+k, s : 9, 975
+	val1 : 8
+	val2 : 17
+k, s : 9, 980
+	val1 : 4
+	val2 : 22
+k, s : 9, 985
+	val1 : 6
+	val2 : 27
+k, s : 9, 990
+	val1 : 11
+	val2 : 32
+k, s : 9, 995
+	val1 : 3
+	val2 : 4
+k, s : 9, 1000
+	val1 : 7
+	val2 : 9
+k, s : 9, 1005
+	val1 : 5
+	val2 : 14
+k, s : 9, 1010
+	val1 : 4
+	val2 : 19
+k, s : 9, 1015
+	val1 : 3
+	val2 : 24
+k, s : 9, 1020
+	val1 : 6
+	val2 : 6
+k, s : 9, 1025
+	val1 : 4
+	val2 : 11
+k, s : 9, 1030
+	val1 : 4
+	val2 : 16
+k, s : 9, 1035
+	val1 : 8
+	val2 : 21
+k, s : 9, 1040
+	val1 : 5
+	val2 : 26
+k, s : 9, 1045
+	val1 : 4
+	val2 : 31
+k, s : 9, 1050
+	val1 : 4
+	val2 : 36
+k, s : 9, 1055
+	val1 : 5
+	val2 : 41
+k, s : 9, 1060
+	val1 : 6
+	val2 : 46
+k, s : 9, 1065
+	val1 : 2
+	val2 : 2
+k, s : 9, 1070
+	val1 : 6
+	val2 : 7
+k, s : 9, 1075
+	val1 : 7
+	val2 : 12
+k, s : 9, 1080
+	val1 : 6
+	val2 : 17
+k, s : 9, 1085
+	val1 : 5
+	val2 : 22
+k, s : 9, 1090
+	val1 : 6
+	val2 : 27
+k, s : 9, 1095
+	val1 : 8
+	val2 : 32
+k, s : 9, 1100
+	val1 : 3
+	val2 : 37
+k, s : 9, 1105
+	val1 : 7
+	val2 : 42
+k, s : 9, 1110
+	val1 : 9
+	val2 : 47
+k, s : 9, 1115
+	val1 : 4
+	val2 : 4
+k, s : 9, 1120
+	val1 : 4
+	val2 : 9
+k, s : 9, 1125
+	val1 : 5
+	val2 : 14
+k, s : 9, 1130
+	val1 : 5
+	val2 : 19
+k, s : 9, 1135
+	val1 : 4
+	val2 : 4
+k, s : 9, 1140
+	val1 : 6
+	val2 : 9
+k, s : 9, 1145
+	val1 : 5
+	val2 : 14
+k, s : 9, 1150
+	val1 : 5
+	val2 : 19
+k, s : 9, 1155
+	val1 : 9
+	val2 : 24
+k, s : 9, 1160
+	val1 : 7
+	val2 : 29
+k, s : 9, 1165
+	val1 : 5
+	val2 : 34
+k, s : 9, 1170
+	val1 : 3
+	val2 : 39
+k, s : 9, 1175
+	val1 : 8
+	val2 : 44
+k, s : 9, 1180
+	val1 : 6
+	val2 : 49
+k, s : 9, 1185
+	val1 : 3
+	val2 : 3
+k, s : 9, 1190
+	val1 : 8
+	val2 : 8
+k, s : 9, 1195
+	val1 : 3
+	val2 : 13
+k, s : 9, 1200
+	val1 : 6
+	val2 : 18
+k, s : 9, 1205
+	val1 : 4
+	val2 : 23
+k, s : 9, 1210
+	val1 : 3
+	val2 : 28
+k, s : 9, 1215
+	val1 : 3
+	val2 : 33
+k, s : 9, 1220
+	val1 : 4
+	val2 : 38
+k, s : 9, 1225
+	val1 : 8
+	val2 : 43
+k, s : 9, 1230
+	val1 : 3
+	val2 : 48
+k, s : 9, 1235
+	val1 : 5
+	val2 : 53
+k, s : 9, 1240
+	val1 : 7
+	val2 : 58
+k, s : 9, 1245
+	val1 : 5
+	val2 : 63
+k, s : 9, 1250
+	val1 : 3
+	val2 : 68
+k, s : 9, 1255
+	val1 : 5
+	val2 : 73
+k, s : 9, 1260
+	val1 : 6
+	val2 : 78
+k, s : 9, 1265
+	val1 : 5
+	val2 : 83
+k, s : 9, 1270
+	val1 : 6
+	val2 : 88
+k, s : 9, 1275
+	val1 : 6
+	val2 : 93
+k, s : 9, 1280
+	val1 : 6
+	val2 : 98
+k, s : 9, 1285
+	val1 : 5
+	val2 : 103
+k, s : 9, 1290
+	val1 : 6
+	val2 : 108
+k, s : 9, 1295
+	val1 : 8
+	val2 : 113
+k, s : 9, 1300
+	val1 : 4
+	val2 : 118
+k, s : 9, 1305
+	val1 : 6
+	val2 : 123
+k, s : 9, 1310
+	val1 : 5
+	val2 : 128
+k, s : 9, 1315
+	val1 : 4
+	val2 : 133
+k, s : 9, 1320
+	val1 : 4
+	val2 : 138
+k, s : 9, 1325
+	val1 : 5
+	val2 : 143
+k, s : 9, 1330
+	val1 : 4
+	val2 : 148
+k, s : 9, 1335
+	val1 : 4
+	val2 : 153
+k, s : 9, 1340
+	val1 : 5
+	val2 : 5
+k, s : 9, 1345
+	val1 : 5
+	val2 : 10
+k, s : 9, 1350
+	val1 : 4
+	val2 : 15
+k, s : 9, 1355
+	val1 : 6
+	val2 : 6
+k, s : 9, 1360
+	val1 : 6
+	val2 : 11
+k, s : 9, 1365
+	val1 : 5
+	val2 : 16
+k, s : 9, 1370
+	val1 : 3
+	val2 : 21
+k, s : 9, 1375
+	val1 : 6
+	val2 : 26
+k, s : 9, 1380
+	val1 : 6
+	val2 : 31
+k, s : 9, 1385
+	val1 : 3
+	val2 : 3
+k, s : 9, 1390
+	val1 : 4
+	val2 : 8
+k, s : 9, 1395
+	val1 : 7
+	val2 : 13
+k, s : 9, 1400
+	val1 : 6
+	val2 : 18
+k, s : 9, 1405
+	val1 : 5
+	val2 : 23
+k, s : 9, 1410
+	val1 : 7
+	val2 : 28
+k, s : 9, 1415
+	val1 : 7
+	val2 : 33
+k, s : 9, 1420
+	val1 : 4
+	val2 : 38
+k, s : 9, 1425
+	val1 : 7
+	val2 : 43
+k, s : 9, 1430
+	val1 : 7
+	val2 : 48
+k, s : 9, 1435
+	val1 : 4
+	val2 : 53
+k, s : 9, 1440
+	val1 : 3
+	val2 : 58
+k, s : 9, 1445
+	val1 : 5
+	val2 : 63
+k, s : 9, 1450
+	val1 : 5
+	val2 : 68
+k, s : 9, 1455
+	val1 : 4
+	val2 : 73
+k, s : 9, 1460
+	val1 : 6
+	val2 : 78
+k, s : 9, 1465
+	val1 : 5
+	val2 : 83
+k, s : 9, 1470
+	val1 : 5
+	val2 : 88
+k, s : 9, 1475
+	val1 : 4
+	val2 : 93
+k, s : 9, 1480
+	val1 : 6
+	val2 : 98
+k, s : 9, 1485
+	val1 : 5
+	val2 : 103
+k, s : 9, 1490
+	val1 : 4
+	val2 : 108
+k, s : 9, 1495
+	val1 : 7
+	val2 : 113
+k, s : 9, 1500
+	val1 : 5
+	val2 : 118
+k, s : 9, 1505
+	val1 : 6
+	val2 : 123
+k, s : 9, 1510
+	val1 : 7
+	val2 : 128
+k, s : 9, 1515
+	val1 : 3
+	val2 : 133
+k, s : 9, 1520
+	val1 : 4
+	val2 : 138
+k, s : 9, 1525
+	val1 : 5
+	val2 : 143
+k, s : 9, 1530
+	val1 : 7
+	val2 : 148
+k, s : 9, 1535
+	val1 : 3
+	val2 : 153
+k, s : 9, 1540
+	val1 : 5
+	val2 : 5
+k, s : 9, 1545
+	val1 : 6
+	val2 : 10
+k, s : 9, 1550
+	val1 : 5
+	val2 : 15
+k, s : 9, 1555
+	val1 : 3
+	val2 : 6
+k, s : 9, 1560
+	val1 : 6
+	val2 : 11
+k, s : 9, 1565
+	val1 : 5
+	val2 : 16
+k, s : 9, 1570
+	val1 : 4
+	val2 : 21
+k, s : 9, 1575
+	val1 : 5
+	val2 : 26
+k, s : 9, 1580
+	val1 : 5
+	val2 : 31
+k, s : 9, 1585
+	val1 : 5
+	val2 : 36
+k, s : 9, 1590
+	val1 : 4
+	val2 : 8
+k, s : 9, 1595
+	val1 : 5
+	val2 : 13
+k, s : 9, 1600
+	val1 : 6
+	val2 : 18
+k, s : 9, 1605
+	val1 : 5
+	val2 : 23
+k, s : 9, 1610
+	val1 : 5
+	val2 : 5
+k, s : 9, 1615
+	val1 : 7
+	val2 : 10
+k, s : 9, 1620
+	val1 : 4
+	val2 : 15
+k, s : 9, 1625
+	val1 : 5
+	val2 : 20
+k, s : 9, 1630
+	val1 : 6
+	val2 : 25
+k, s : 9, 1635
+	val1 : 4
+	val2 : 30
+k, s : 9, 1640
+	val1 : 4
+	val2 : 35
+k, s : 9, 1645
+	val1 : 5
+	val2 : 40
+k, s : 9, 1650
+	val1 : 5
+	val2 : 45
+k, s : 9, 1655
+	val1 : 4
+	val2 : 50
+k, s : 9, 1660
+	val1 : 4
+	val2 : 6
+k, s : 9, 1665
+	val1 : 5
+	val2 : 11
+k, s : 9, 1670
+	val1 : 5
+	val2 : 16
+k, s : 9, 1675
+	val1 : 4
+	val2 : 21
+k, s : 9, 1680
+	val1 : 7
+	val2 : 26
+k, s : 9, 1685
+	val1 : 5
+	val2 : 31
+k, s : 9, 1690
+	val1 : 4
+	val2 : 36
+k, s : 9, 1695
+	val1 : 6
+	val2 : 41
+k, s : 9, 1700
+	val1 : 6
+	val2 : 46
+k, s : 9, 1705
+	val1 : 3
+	val2 : 3
+k, s : 9, 1710
+	val1 : 5
+	val2 : 8
+k, s : 9, 1715
+	val1 : 7
+	val2 : 13
+k, s : 9, 1720
+	val1 : 6
+	val2 : 18
+k, s : 9, 1725
+	val1 : 3
+	val2 : 3
+k, s : 9, 1730
+	val1 : 7
+	val2 : 8
+k, s : 9, 1735
+	val1 : 7
+	val2 : 13
+k, s : 9, 1740
+	val1 : 4
+	val2 : 18
+k, s : 9, 1745
+	val1 : 4
+	val2 : 23
+k, s : 9, 1750
+	val1 : 6
+	val2 : 28
+k, s : 9, 1755
+	val1 : 5
+	val2 : 33
+k, s : 9, 1760
+	val1 : 4
+	val2 : 38
+k, s : 9, 1765
+	val1 : 5
+	val2 : 43
+k, s : 9, 1770
+	val1 : 6
+	val2 : 48
+k, s : 9, 1775
+	val1 : 5
+	val2 : 53
+k, s : 9, 1780
+	val1 : 6
+	val2 : 7
+k, s : 9, 1785
+	val1 : 5
+	val2 : 12
+k, s : 9, 1790
+	val1 : 6
+	val2 : 17
+k, s : 9, 1795
+	val1 : 5
+	val2 : 22
+k, s : 9, 1800
+	val1 : 6
+	val2 : 27
+k, s : 9, 1805
+	val1 : 5
+	val2 : 32
+k, s : 9, 1810
+	val1 : 5
+	val2 : 37
+k, s : 9, 1815
+	val1 : 6
+	val2 : 42
+k, s : 9, 1820
+	val1 : 5
+	val2 : 47
+k, s : 9, 1825
+	val1 : 4
+	val2 : 52
+k, s : 9, 1830
+	val1 : 6
+	val2 : 57
+k, s : 9, 1835
+	val1 : 4
+	val2 : 62
+k, s : 9, 1840
+	val1 : 5
+	val2 : 67
+k, s : 9, 1845
+	val1 : 5
+	val2 : 72
+k, s : 9, 1850
+	val1 : 5
+	val2 : 77
+k, s : 9, 1855
+	val1 : 4
+	val2 : 82
+k, s : 9, 1860
+	val1 : 5
+	val2 : 87
+k, s : 9, 1865
+	val1 : 5
+	val2 : 92
+k, s : 9, 1870
+	val1 : 5
+	val2 : 97
+k, s : 9, 1875
+	val1 : 4
+	val2 : 102
+k, s : 9, 1880
+	val1 : 5
+	val2 : 107
+k, s : 9, 1885
+	val1 : 5
+	val2 : 112
+k, s : 9, 1890
+	val1 : 4
+	val2 : 117
+k, s : 9, 1895
+	val1 : 6
+	val2 : 122
+k, s : 9, 1900
+	val1 : 6
+	val2 : 127
+k, s : 9, 1905
+	val1 : 5
+	val2 : 132
+k, s : 9, 1910
+	val1 : 4
+	val2 : 137
+k, s : 9, 1915
+	val1 : 6
+	val2 : 142
+k, s : 9, 1920
+	val1 : 6
+	val2 : 147
+k, s : 9, 1925
+	val1 : 5
+	val2 : 152
+k, s : 9, 1930
+	val1 : 4
+	val2 : 4
+k, s : 9, 1935
+	val1 : 7
+	val2 : 9
+k, s : 9, 1940
+	val1 : 4
+	val2 : 14
+k, s : 9, 1945
+	val1 : 5
+	val2 : 5
+k, s : 9, 1950
+	val1 : 7
+	val2 : 10
+k, s : 9, 1955
+	val1 : 5
+	val2 : 15
+k, s : 9, 1960
+	val1 : 4
+	val2 : 20
+k, s : 9, 1965
+	val1 : 5
+	val2 : 25
+k, s : 9, 1970
+	val1 : 5
+	val2 : 30
+k, s : 9, 1975
+	val1 : 5
+	val2 : 35
+k, s : 9, 1980
+	val1 : 5
+	val2 : 7
+k, s : 9, 1985
+	val1 : 5
+	val2 : 12
+k, s : 9, 1990
+	val1 : 5
+	val2 : 17
+k, s : 9, 1995
+	val1 : 5
+	val2 : 22
+k, s : 9, 2000
+	val1 : 6
+	val2 : 27
+k, s : 9, 400
+	val1 : 6
+	val2 : 12
+k, s : 9, 405
+	val1 : 4
+	val2 : 17
+k, s : 9, 410
+	val1 : 9
+	val2 : 22
+k, s : 9, 415
+	val1 : 9
+	val2 : 27
+k, s : 9, 420
+	val1 : 4
+	val2 : 4
+k, s : 9, 425
+	val1 : 4
+	val2 : 9
+k, s : 9, 430
+	val1 : 8
+	val2 : 14
+k, s : 9, 435
+	val1 : 6
+	val2 : 19
+k, s : 9, 440
+	val1 : 4
+	val2 : 24
+k, s : 9, 445
+	val1 : 9
+	val2 : 29
+k, s : 9, 450
+	val1 : 6
+	val2 : 6
+k, s : 9, 455
+	val1 : 5
+	val2 : 11
+k, s : 9, 460
+	val1 : 4
+	val2 : 16
+k, s : 9, 465
+	val1 : 8
+	val2 : 21
+k, s : 9, 470
+	val1 : 6
+	val2 : 26
+k, s : 9, 475
+	val1 : 11
+	val2 : 31
+k, s : 9, 480
+	val1 : 8
+	val2 : 8
+k, s : 9, 485
+	val1 : 7
+	val2 : 13
+k, s : 9, 490
+	val1 : 5
+	val2 : 18
+k, s : 9, 495
+	val1 : 10
+	val2 : 23
+k, s : 9, 500
+	val1 : 8
+	val2 : 28
+k, s : 9, 505
+	val1 : 5
+	val2 : 5
+k, s : 9, 510
+	val1 : 10
+	val2 : 10
+k, s : 9, 515
+	val1 : 5
+	val2 : 5
+k, s : 9, 520
+	val1 : 7
+	val2 : 10
+k, s : 9, 525
+	val1 : 5
+	val2 : 15
+k, s : 9, 530
+	val1 : 10
+	val2 : 20
+k, s : 9, 535
+	val1 : 7
+	val2 : 25
+k, s : 9, 540
+	val1 : 2
+	val2 : 2
+k, s : 9, 545
+	val1 : 7
+	val2 : 7
+k, s : 9, 550
+	val1 : 3
+	val2 : 5
+k, s : 9, 555
+	val1 : 6
+	val2 : 10
+k, s : 9, 560
+	val1 : 5
+	val2 : 15
+k, s : 9, 565
+	val1 : 9
+	val2 : 20
+k, s : 9, 570
+	val1 : 4
+	val2 : 25
+k, s : 9, 575
+	val1 : 2
+	val2 : 2
+k, s : 9, 580
+	val1 : 4
+	val2 : 7
+k, s : 9, 585
+	val1 : 3
+	val2 : 12
+k, s : 9, 590
+	val1 : 6
+	val2 : 17
+k, s : 9, 595
+	val1 : 5
+	val2 : 22
+k, s : 9, 600
+	val1 : 6
+	val2 : 27
+k, s : 9, 605
+	val1 : 4
+	val2 : 4
+k, s : 9, 610
+	val1 : 4
+	val2 : 9
+k, s : 9, 615
+	val1 : 4
+	val2 : 14
+k, s : 9, 620
+	val1 : 8
+	val2 : 19
+k, s : 9, 625
+	val1 : 6
+	val2 : 24
+k, s : 9, 630
+	val1 : 4
+	val2 : 29
+k, s : 9, 635
+	val1 : 6
+	val2 : 6
+k, s : 9, 640
+	val1 : 6
+	val2 : 11
+k, s : 9, 645
+	val1 : 5
+	val2 : 16
+k, s : 9, 650
+	val1 : 4
+	val2 : 21
+k, s : 9, 655
+	val1 : 8
+	val2 : 26
+k, s : 9, 660
+	val1 : 5
+	val2 : 31
+k, s : 9, 665
+	val1 : 7
+	val2 : 8
+k, s : 9, 670
+	val1 : 8
+	val2 : 13
+k, s : 9, 675
+	val1 : 7
+	val2 : 18
+k, s : 9, 680
+	val1 : 5
+	val2 : 23
+k, s : 9, 685
+	val1 : 7
+	val2 : 28
+k, s : 9, 690
+	val1 : 7
+	val2 : 33
+k, s : 9, 695
+	val1 : 2
+	val2 : 10
+k, s : 9, 700
+	val1 : 7
+	val2 : 15
+k, s : 9, 705
+	val1 : 9
+	val2 : 20
+k, s : 9, 710
+	val1 : 7
+	val2 : 25
+k, s : 9, 715
+	val1 : 5
+	val2 : 30
+k, s : 9, 720
+	val1 : 7
+	val2 : 7
+k, s : 9, 725
+	val1 : 4
+	val2 : 12
+k, s : 9, 730
+	val1 : 2
+	val2 : 2
+k, s : 9, 735
+	val1 : 4
+	val2 : 7
+k, s : 9, 740
+	val1 : 3
+	val2 : 12
+k, s : 9, 745
+	val1 : 7
+	val2 : 17
+k, s : 9, 750
+	val1 : 6
+	val2 : 22
+k, s : 9, 755
+	val1 : 3
+	val2 : 27
+k, s : 9, 760
+	val1 : 4
+	val2 : 4
+k, s : 9, 765
+	val1 : 2
+	val2 : 2
+k, s : 9, 770
+	val1 : 4
+	val2 : 7
+k, s : 9, 775
+	val1 : 3
+	val2 : 12
+k, s : 9, 780
+	val1 : 4
+	val2 : 17
+k, s : 9, 785
+	val1 : 4
+	val2 : 22
+k, s : 9, 790
+	val1 : 6
+	val2 : 27
+k, s : 9, 795
+	val1 : 4
+	val2 : 4
+k, s : 9, 800
+	val1 : 5
+	val2 : 9
+k, s : 9, 805
+	val1 : 4
+	val2 : 14
+k, s : 9, 810
+	val1 : 6
+	val2 : 19
+k, s : 9, 815
+	val1 : 5
+	val2 : 24
+k, s : 9, 820
+	val1 : 4
+	val2 : 29
+k, s : 9, 825
+	val1 : 6
+	val2 : 6
+k, s : 9, 830
+	val1 : 6
+	val2 : 11
+k, s : 9, 835
+	val1 : 5
+	val2 : 16
+k, s : 9, 840
+	val1 : 4
+	val2 : 21
+k, s : 9, 845
+	val1 : 6
+	val2 : 26
+k, s : 9, 850
+	val1 : 5
+	val2 : 31
+k, s : 9, 855
+	val1 : 7
+	val2 : 8
+k, s : 9, 860
+	val1 : 8
+	val2 : 13
+k, s : 9, 865
+	val1 : 5
+	val2 : 18
+k, s : 9, 870
+	val1 : 5
+	val2 : 23
+k, s : 9, 875
+	val1 : 7
+	val2 : 28
+k, s : 9, 880
+	val1 : 4
+	val2 : 33
+k, s : 9, 885
+	val1 : 3
+	val2 : 10
+k, s : 9, 890
+	val1 : 8
+	val2 : 15
+k, s : 9, 895
+	val1 : 7
+	val2 : 20
+k, s : 9, 900
+	val1 : 2
+	val2 : 25
+k, s : 9, 905
+	val1 : 5
+	val2 : 30
+k, s : 9, 910
+	val1 : 6
+	val2 : 7
+k, s : 9, 915
+	val1 : 4
+	val2 : 12
+k, s : 9, 920
+	val1 : 3
+	val2 : 3
+k, s : 9, 925
+	val1 : 4
+	val2 : 8
+k, s : 9, 930
+	val1 : 3
+	val2 : 13
+k, s : 9, 935
+	val1 : 2
+	val2 : 2
+k, s : 9, 940
+	val1 : 4
+	val2 : 7
+k, s : 9, 945
+	val1 : 3
+	val2 : 12
+k, s : 9, 950
+	val1 : 4
+	val2 : 17
+k, s : 9, 955
+	val1 : 5
+	val2 : 22
+k, s : 9, 960
+	val1 : 4
+	val2 : 27
+k, s : 9, 965
+	val1 : 3
+	val2 : 4
+k, s : 9, 970
+	val1 : 5
+	val2 : 9
+k, s : 9, 975
+	val1 : 4
+	val2 : 14
+k, s : 9, 980
+	val1 : 6
+	val2 : 19
+k, s : 9, 985
+	val1 : 4
+	val2 : 24
+k, s : 9, 990
+	val1 : 4
+	val2 : 29
+k, s : 9, 995
+	val1 : 4
+	val2 : 6
+k, s : 9, 1000
+	val1 : 6
+	val2 : 11
+k, s : 9, 1005
+	val1 : 5
+	val2 : 16
+k, s : 9, 1010
+	val1 : 4
+	val2 : 21
+k, s : 9, 1015
+	val1 : 6
+	val2 : 26
+k, s : 9, 1020
+	val1 : 5
+	val2 : 31
+k, s : 9, 1025
+	val1 : 5
+	val2 : 8
+k, s : 9, 1030
+	val1 : 4
+	val2 : 13
+k, s : 9, 1035
+	val1 : 6
+	val2 : 18
+k, s : 9, 1040
+	val1 : 5
+	val2 : 23
+k, s : 9, 1045
+	val1 : 7
+	val2 : 28
+k, s : 9, 1050
+	val1 : 7
+	val2 : 33
+k, s : 9, 1055
+	val1 : 5
+	val2 : 10
+k, s : 9, 1060
+	val1 : 4
+	val2 : 5
+k, s : 9, 1065
+	val1 : 6
+	val2 : 10
+k, s : 9, 1070
+	val1 : 5
+	val2 : 15
+k, s : 9, 1075
+	val1 : 5
+	val2 : 20
+k, s : 9, 1080
+	val1 : 4
+	val2 : 25
+k, s : 9, 1085
+	val1 : 4
+	val2 : 30
+k, s : 9, 1090
+	val1 : 5
+	val2 : 7
+k, s : 9, 1095
+	val1 : 4
+	val2 : 5
+k, s : 9, 1100
+	val1 : 6
+	val2 : 10
+k, s : 9, 1105
+	val1 : 5
+	val2 : 15
+k, s : 9, 1110
+	val1 : 6
+	val2 : 20
+k, s : 9, 1115
+	val1 : 4
+	val2 : 25
+k, s : 9, 1120
+	val1 : 4
+	val2 : 30
+k, s : 9, 1125
+	val1 : 5
+	val2 : 7
+k, s : 9, 1130
+	val1 : 4
+	val2 : 12
+k, s : 9, 1135
+	val1 : 3
+	val2 : 17
+k, s : 9, 1140
+	val1 : 5
+	val2 : 22
+k, s : 9, 1145
+	val1 : 4
+	val2 : 27
+k, s : 9, 1150
+	val1 : 4
+	val2 : 4
+k, s : 9, 1155
+	val1 : 4
+	val2 : 9
+k, s : 9, 1160
+	val1 : 5
+	val2 : 14
+k, s : 9, 1165
+	val1 : 4
+	val2 : 19
+k, s : 9, 1170
+	val1 : 6
+	val2 : 24
+k, s : 9, 1175
+	val1 : 5
+	val2 : 29
+k, s : 9, 1180
+	val1 : 4
+	val2 : 6
+k, s : 9, 1185
+	val1 : 5
+	val2 : 11
+k, s : 9, 1190
+	val1 : 6
+	val2 : 16
+k, s : 9, 1195
+	val1 : 5
+	val2 : 21
+k, s : 9, 1200
+	val1 : 4
+	val2 : 26
+k, s : 9, 1205
+	val1 : 3
+	val2 : 31
+k, s : 9, 1210
+	val1 : 5
+	val2 : 8
+k, s : 9, 1215
+	val1 : 6
+	val2 : 13
+k, s : 9, 1220
+	val1 : 7
+	val2 : 18
+k, s : 9, 1225
+	val1 : 5
+	val2 : 23
+k, s : 9, 1230
+	val1 : 5
+	val2 : 28
+k, s : 9, 1235
+	val1 : 4
+	val2 : 33
+k, s : 9, 1240
+	val1 : 3
+	val2 : 10
+k, s : 9, 1245
+	val1 : 5
+	val2 : 15
+k, s : 9, 1250
+	val1 : 4
+	val2 : 20
+k, s : 9, 1255
+	val1 : 7
+	val2 : 25
+k, s : 9, 1260
+	val1 : 6
+	val2 : 30
+k, s : 9, 1265
+	val1 : 5
+	val2 : 35
+k, s : 9, 1270
+	val1 : 4
+	val2 : 12
+k, s : 9, 1275
+	val1 : 3
+	val2 : 3
+k, s : 9, 1280
+	val1 : 5
+	val2 : 7
+k, s : 9, 1285
+	val1 : 4
+	val2 : 12
+k, s : 9, 1290
+	val1 : 4
+	val2 : 17
+k, s : 9, 1295
+	val1 : 5
+	val2 : 22
+k, s : 9, 1300
+	val1 : 6
+	val2 : 27
+k, s : 9, 1305
+	val1 : 4
+	val2 : 4
+k, s : 9, 1310
+	val1 : 5
+	val2 : 9
+k, s : 9, 1315
+	val1 : 5
+	val2 : 7
+k, s : 9, 1320
+	val1 : 5
+	val2 : 12
+k, s : 9, 1325
+	val1 : 4
+	val2 : 17
+k, s : 9, 1330
+	val1 : 5
+	val2 : 22
+k, s : 9, 1335
+	val1 : 4
+	val2 : 27
+k, s : 9, 1340
+	val1 : 4
+	val2 : 4
+k, s : 9, 1345
+	val1 : 6
+	val2 : 9
+k, s : 9, 1350
+	val1 : 4
+	val2 : 14
+k, s : 9, 1355
+	val1 : 5
+	val2 : 19
+k, s : 9, 1360
+	val1 : 6
+	val2 : 24
+k, s : 9, 1365
+	val1 : 5
+	val2 : 29
+k, s : 9, 1370
+	val1 : 4
+	val2 : 6
+k, s : 9, 1375
+	val1 : 6
+	val2 : 11
+k, s : 9, 1380
+	val1 : 5
+	val2 : 16
+k, s : 9, 1385
+	val1 : 6
+	val2 : 21
+k, s : 9, 1390
+	val1 : 4
+	val2 : 26
+k, s : 9, 1395
+	val1 : 3
+	val2 : 31
+k, s : 9, 1400
+	val1 : 5
+	val2 : 8
+k, s : 9, 1405
+	val1 : 7
+	val2 : 13
+k, s : 9, 1410
+	val1 : 7
+	val2 : 18
+k, s : 9, 1415
+	val1 : 5
+	val2 : 23
+k, s : 9, 1420
+	val1 : 6
+	val2 : 28
+k, s : 9, 1425
+	val1 : 4
+	val2 : 33
+k, s : 9, 1430
+	val1 : 3
+	val2 : 10
+k, s : 9, 1435
+	val1 : 5
+	val2 : 15
+k, s : 9, 1440
+	val1 : 4
+	val2 : 20
+k, s : 9, 1445
+	val1 : 7
+	val2 : 25
+k, s : 9, 1450
+	val1 : 5
+	val2 : 30
+k, s : 9, 1455
+	val1 : 6
+	val2 : 35
+k, s : 9, 1460
+	val1 : 4
+	val2 : 12
+k, s : 9, 1465
+	val1 : 3
+	val2 : 3
+k, s : 9, 1470
+	val1 : 5
+	val2 : 8
+k, s : 9, 1475
+	val1 : 4
+	val2 : 13
+k, s : 9, 1480
+	val1 : 6
+	val2 : 18
+k, s : 9, 1485
+	val1 : 5
+	val2 : 7
+k, s : 9, 1490
+	val1 : 6
+	val2 : 12
+k, s : 9, 1495
+	val1 : 4
+	val2 : 17
+k, s : 9, 1500
+	val1 : 6
+	val2 : 22
+k, s : 9, 1505
+	val1 : 5
+	val2 : 27
+k, s : 9, 1510
+	val1 : 4
+	val2 : 4
+k, s : 9, 1515
+	val1 : 6
+	val2 : 9
+k, s : 9, 1520
+	val1 : 5
+	val2 : 14
+k, s : 9, 1525
+	val1 : 5
+	val2 : 19
+k, s : 9, 1530
+	val1 : 4
+	val2 : 24
+k, s : 9, 1535
+	val1 : 5
+	val2 : 29
+k, s : 9, 1540
+	val1 : 4
+	val2 : 6
+k, s : 9, 1545
+	val1 : 6
+	val2 : 11
+k, s : 9, 1550
+	val1 : 6
+	val2 : 16
+k, s : 9, 1555
+	val1 : 6
+	val2 : 21
+k, s : 9, 1560
+	val1 : 6
+	val2 : 26
+k, s : 9, 1565
+	val1 : 6
+	val2 : 31
+k, s : 9, 1570
+	val1 : 5
+	val2 : 8
+k, s : 9, 1575
+	val1 : 6
+	val2 : 13
+k, s : 9, 1580
+	val1 : 5
+	val2 : 18
+k, s : 9, 1585
+	val1 : 5
+	val2 : 23
+k, s : 9, 1590
+	val1 : 6
+	val2 : 28
+k, s : 9, 1595
+	val1 : 4
+	val2 : 33
+k, s : 9, 1600
+	val1 : 6
+	val2 : 10
+k, s : 9, 1605
+	val1 : 5
+	val2 : 5
+k, s : 9, 1610
+	val1 : 6
+	val2 : 10
+k, s : 9, 1615
+	val1 : 5
+	val2 : 15
+k, s : 9, 1620
+	val1 : 6
+	val2 : 20
+k, s : 9, 1625
+	val1 : 5
+	val2 : 25
+k, s : 9, 1630
+	val1 : 4
+	val2 : 30
+k, s : 9, 1635
+	val1 : 6
+	val2 : 7
+k, s : 9, 1640
+	val1 : 5
+	val2 : 5
+k, s : 9, 1645
+	val1 : 6
+	val2 : 10
+k, s : 9, 1650
+	val1 : 5
+	val2 : 15
+k, s : 9, 1655
+	val1 : 5
+	val2 : 20
+k, s : 9, 1660
+	val1 : 5
+	val2 : 25
+k, s : 9, 1665
+	val1 : 4
+	val2 : 30
+k, s : 9, 1670
+	val1 : 6
+	val2 : 7
+k, s : 9, 1675
+	val1 : 5
+	val2 : 12
+k, s : 9, 1680
+	val1 : 6
+	val2 : 17
+k, s : 9, 1685
+	val1 : 5
+	val2 : 22
+k, s : 9, 1690
+	val1 : 5
+	val2 : 27
+k, s : 9, 1695
+	val1 : 5
+	val2 : 32
+k, s : 9, 1700
+	val1 : 4
+	val2 : 9
+k, s : 9, 1705
+	val1 : 6
+	val2 : 14
+k, s : 9, 1710
+	val1 : 5
+	val2 : 19
+k, s : 9, 1715
+	val1 : 6
+	val2 : 24
+k, s : 9, 1720
+	val1 : 6
+	val2 : 29
+k, s : 9, 1725
+	val1 : 6
+	val2 : 6
+k, s : 9, 1730
+	val1 : 5
+	val2 : 11
+k, s : 9, 1735
+	val1 : 7
+	val2 : 16
+k, s : 9, 1740
+	val1 : 5
+	val2 : 21
+k, s : 9, 1745
+	val1 : 5
+	val2 : 26
+k, s : 9, 1750
+	val1 : 6
+	val2 : 31
+k, s : 9, 1755
+	val1 : 6
+	val2 : 8
+k, s : 9, 1760
+	val1 : 6
+	val2 : 13
+k, s : 9, 1765
+	val1 : 7
+	val2 : 18
+k, s : 9, 1770
+	val1 : 6
+	val2 : 23
+k, s : 9, 1775
+	val1 : 5
+	val2 : 28
+k, s : 9, 1780
+	val1 : 5
+	val2 : 33
+k, s : 9, 1785
+	val1 : 5
+	val2 : 10
+k, s : 9, 1790
+	val1 : 6
+	val2 : 15
+k, s : 9, 1795
+	val1 : 6
+	val2 : 20
+k, s : 9, 1800
+	val1 : 4
+	val2 : 25
+k, s : 9, 1805
+	val1 : 6
+	val2 : 30
+k, s : 9, 1810
+	val1 : 6
+	val2 : 35
+k, s : 9, 1815
+	val1 : 5
+	val2 : 12
+k, s : 9, 1820
+	val1 : 5
+	val2 : 17
+k, s : 9, 1825
+	val1 : 6
+	val2 : 7
+k, s : 9, 1830
+	val1 : 5
+	val2 : 12
+k, s : 9, 1835
+	val1 : 4
+	val2 : 17
+k, s : 9, 1840
+	val1 : 6
+	val2 : 22
+k, s : 9, 1845
+	val1 : 5
+	val2 : 27
+k, s : 9, 1850
+	val1 : 5
+	val2 : 32
+k, s : 9, 1855
+	val1 : 5
+	val2 : 9
+k, s : 9, 1860
+	val1 : 6
+	val2 : 7
+k, s : 9, 1865
+	val1 : 5
+	val2 : 12
+k, s : 9, 1870
+	val1 : 4
+	val2 : 17
+k, s : 9, 1875
+	val1 : 6
+	val2 : 22
+k, s : 9, 1880
+	val1 : 5
+	val2 : 27
+k, s : 9, 1885
+	val1 : 6
+	val2 : 32
+k, s : 9, 1890
+	val1 : 6
+	val2 : 9
+k, s : 9, 1895
+	val1 : 6
+	val2 : 14
+k, s : 9, 1900
+	val1 : 5
+	val2 : 19
+k, s : 9, 1905
+	val1 : 7
+	val2 : 24
+k, s : 9, 1910
+	val1 : 6
+	val2 : 29
+k, s : 9, 1915
+	val1 : 6
+	val2 : 6
+k, s : 9, 1920
+	val1 : 6
+	val2 : 11
+k, s : 9, 1925
+	val1 : 6
+	val2 : 16
+k, s : 9, 1930
+	val1 : 6
+	val2 : 21
+k, s : 9, 1935
+	val1 : 5
+	val2 : 26
+k, s : 9, 1940
+	val1 : 7
+	val2 : 31
+k, s : 9, 1945
+	val1 : 5
+	val2 : 8
+k, s : 9, 1950
+	val1 : 7
+	val2 : 13
+k, s : 9, 1955
+	val1 : 7
+	val2 : 18
+k, s : 9, 1960
+	val1 : 6
+	val2 : 23
+k, s : 9, 1965
+	val1 : 6
+	val2 : 28
+k, s : 9, 1970
+	val1 : 5
+	val2 : 33
+k, s : 9, 1975
+	val1 : 7
+	val2 : 10
+k, s : 9, 1980
+	val1 : 6
+	val2 : 15
+k, s : 9, 1985
+	val1 : 6
+	val2 : 20
+k, s : 9, 1990
+	val1 : 7
+	val2 : 25
+k, s : 9, 1995
+	val1 : 6
+	val2 : 30
+k, s : 9, 2000
+	val1 : 6
+	val2 : 35
+k, s : 50, 400
+	val1 : 2
+	val2 : 6
+k, s : 50, 405
+	val1 : 3
+	val2 : 8
+k, s : 50, 410
+	val1 : 2
+	val2 : 3
+k, s : 50, 415
+	val1 : 3
+	val2 : 6
+k, s : 50, 420
+	val1 : 3
+	val2 : 4
+k, s : 50, 425
+	val1 : 1
+	val2 : 1
+k, s : 50, 430
+	val1 : 2
+	val2 : 4
+k, s : 50, 435
+	val1 : 2
+	val2 : 6
+k, s : 50, 440
+	val1 : 2
+	val2 : 2
+k, s : 50, 445
+	val1 : 3
+	val2 : 4
+k, s : 50, 450
+	val1 : 2
+	val2 : 7
+k, s : 50, 455
+	val1 : 2
+	val2 : 3
+k, s : 50, 460
+	val1 : 3
+	val2 : 6
+k, s : 50, 465
+	val1 : 2
+	val2 : 8
+k, s : 50, 470
+	val1 : 2
+	val2 : 3
+k, s : 50, 475
+	val1 : 3
+	val2 : 3
+k, s : 50, 480
+	val1 : 2
+	val2 : 5
+k, s : 50, 485
+	val1 : 2
+	val2 : 2
+k, s : 50, 490
+	val1 : 2
+	val2 : 4
+k, s : 50, 495
+	val1 : 3
+	val2 : 7
+k, s : 50, 500
+	val1 : 2
+	val2 : 3
+k, s : 50, 505
+	val1 : 2
+	val2 : 6
+k, s : 50, 510
+	val1 : 2
+	val2 : 8
+k, s : 50, 515
+	val1 : 2
+	val2 : 3
+k, s : 50, 520
+	val1 : 2
+	val2 : 6
+k, s : 50, 525
+	val1 : 3
+	val2 : 4
+k, s : 50, 530
+	val1 : 2
+	val2 : 4
+k, s : 50, 535
+	val1 : 3
+	val2 : 6
+k, s : 50, 540
+	val1 : 3
+	val2 : 9
+k, s : 50, 545
+	val1 : 2
+	val2 : 3
+k, s : 50, 550
+	val1 : 1
+	val2 : 1
+k, s : 50, 555
+	val1 : 2
+	val2 : 4
+k, s : 50, 560
+	val1 : 1
+	val2 : 1
+k, s : 50, 565
+	val1 : 2
+	val2 : 2
+k, s : 50, 570
+	val1 : 2
+	val2 : 2
+k, s : 50, 575
+	val1 : 2
+	val2 : 4
+k, s : 50, 580
+	val1 : 2
+	val2 : 7
+k, s : 50, 585
+	val1 : 2
+	val2 : 2
+k, s : 50, 590
+	val1 : 2
+	val2 : 4
+k, s : 50, 595
+	val1 : 3
+	val2 : 3
+k, s : 50, 600
+	val1 : 2
+	val2 : 2
+k, s : 50, 605
+	val1 : 2
+	val2 : 5
+k, s : 50, 610
+	val1 : 2
+	val2 : 7
+k, s : 50, 615
+	val1 : 2
+	val2 : 10
+k, s : 50, 620
+	val1 : 3
+	val2 : 4
+k, s : 50, 625
+	val1 : 2
+	val2 : 6
+k, s : 50, 630
+	val1 : 2
+	val2 : 3
+k, s : 50, 635
+	val1 : 2
+	val2 : 6
+k, s : 50, 640
+	val1 : 3
+	val2 : 8
+k, s : 50, 645
+	val1 : 2
+	val2 : 2
+k, s : 50, 650
+	val1 : 2
+	val2 : 4
+k, s : 50, 655
+	val1 : 2
+	val2 : 7
+k, s : 50, 660
+	val1 : 2
+	val2 : 2
+k, s : 50, 665
+	val1 : 2
+	val2 : 4
+k, s : 50, 670
+	val1 : 1
+	val2 : 1
+k, s : 50, 675
+	val1 : 2
+	val2 : 2
+k, s : 50, 680
+	val1 : 2
+	val2 : 5
+k, s : 50, 685
+	val1 : 2
+	val2 : 7
+k, s : 50, 690
+	val1 : 2
+	val2 : 2
+k, s : 50, 695
+	val1 : 1
+	val2 : 1
+k, s : 50, 700
+	val1 : 2
+	val2 : 4
+k, s : 50, 705
+	val1 : 2
+	val2 : 6
+k, s : 50, 710
+	val1 : 3
+	val2 : 9
+k, s : 50, 715
+	val1 : 2
+	val2 : 4
+k, s : 50, 720
+	val1 : 2
+	val2 : 2
+k, s : 50, 725
+	val1 : 3
+	val2 : 5
+k, s : 50, 730
+	val1 : 2
+	val2 : 4
+k, s : 50, 735
+	val1 : 2
+	val2 : 7
+k, s : 50, 740
+	val1 : 2
+	val2 : 9
+k, s : 50, 745
+	val1 : 2
+	val2 : 3
+k, s : 50, 750
+	val1 : 2
+	val2 : 6
+k, s : 50, 755
+	val1 : 2
+	val2 : 3
+k, s : 50, 760
+	val1 : 2
+	val2 : 5
+k, s : 50, 765
+	val1 : 2
+	val2 : 8
+k, s : 50, 770
+	val1 : 2
+	val2 : 3
+k, s : 50, 775
+	val1 : 3
+	val2 : 5
+k, s : 50, 780
+	val1 : 2
+	val2 : 4
+k, s : 50, 785
+	val1 : 3
+	val2 : 4
+k, s : 50, 790
+	val1 : 2
+	val2 : 4
+k, s : 50, 795
+	val1 : 2
+	val2 : 4
+k, s : 50, 800
+	val1 : 3
+	val2 : 6
+k, s : 50, 805
+	val1 : 2
+	val2 : 9
+k, s : 50, 810
+	val1 : 2
+	val2 : 4
+k, s : 50, 815
+	val1 : 2
+	val2 : 6
+k, s : 50, 820
+	val1 : 2
+	val2 : 2
+k, s : 50, 825
+	val1 : 2
+	val2 : 3
+k, s : 50, 830
+	val1 : 2
+	val2 : 6
+k, s : 50, 835
+	val1 : 2
+	val2 : 8
+k, s : 50, 840
+	val1 : 2
+	val2 : 3
+k, s : 50, 845
+	val1 : 3
+	val2 : 4
+k, s : 50, 850
+	val1 : 2
+	val2 : 7
+k, s : 50, 855
+	val1 : 2
+	val2 : 9
+k, s : 50, 860
+	val1 : 2
+	val2 : 4
+k, s : 50, 865
+	val1 : 2
+	val2 : 7
+k, s : 50, 870
+	val1 : 2
+	val2 : 4
+k, s : 50, 875
+	val1 : 2
+	val2 : 7
+k, s : 50, 880
+	val1 : 2
+	val2 : 9
+k, s : 50, 885
+	val1 : 2
+	val2 : 3
+k, s : 50, 890
+	val1 : 2
+	val2 : 6
+k, s : 50, 895
+	val1 : 3
+	val2 : 8
+k, s : 50, 900
+	val1 : 2
+	val2 : 3
+k, s : 50, 905
+	val1 : 3
+	val2 : 6
+k, s : 50, 910
+	val1 : 2
+	val2 : 4
+k, s : 50, 915
+	val1 : 2
+	val2 : 4
+k, s : 50, 920
+	val1 : 3
+	val2 : 4
+k, s : 50, 925
+	val1 : 2
+	val2 : 7
+k, s : 50, 930
+	val1 : 3
+	val2 : 9
+k, s : 50, 935
+	val1 : 2
+	val2 : 4
+k, s : 50, 940
+	val1 : 3
+	val2 : 3
+k, s : 50, 945
+	val1 : 2
+	val2 : 6
+k, s : 50, 950
+	val1 : 2
+	val2 : 8
+k, s : 50, 955
+	val1 : 2
+	val2 : 3
+k, s : 50, 960
+	val1 : 2
+	val2 : 6
+k, s : 50, 965
+	val1 : 3
+	val2 : 4
+k, s : 50, 970
+	val1 : 2
+	val2 : 2
+k, s : 50, 975
+	val1 : 2
+	val2 : 5
+k, s : 50, 980
+	val1 : 2
+	val2 : 7
+k, s : 50, 985
+	val1 : 2
+	val2 : 10
+k, s : 50, 990
+	val1 : 3
+	val2 : 5
+k, s : 50, 995
+	val1 : 2
+	val2 : 3
+k, s : 50, 1000
+	val1 : 2
+	val2 : 6
+k, s : 50, 1005
+	val1 : 2
+	val2 : 4
+k, s : 50, 1010
+	val1 : 2
+	val2 : 4
+k, s : 50, 1015
+	val1 : 3
+	val2 : 7
+k, s : 50, 1020
+	val1 : 2
+	val2 : 9
+k, s : 50, 1025
+	val1 : 3
+	val2 : 4
+k, s : 50, 1030
+	val1 : 2
+	val2 : 4
+k, s : 50, 1035
+	val1 : 2
+	val2 : 2
+k, s : 50, 1040
+	val1 : 3
+	val2 : 3
+k, s : 50, 1045
+	val1 : 2
+	val2 : 5
+k, s : 50, 1050
+	val1 : 3
+	val2 : 8
+k, s : 50, 1055
+	val1 : 2
+	val2 : 3
+k, s : 50, 1060
+	val1 : 3
+	val2 : 4
+k, s : 50, 1065
+	val1 : 2
+	val2 : 6
+k, s : 50, 1070
+	val1 : 3
+	val2 : 9
+k, s : 50, 1075
+	val1 : 3
+	val2 : 4
+k, s : 50, 1080
+	val1 : 2
+	val2 : 3
+k, s : 50, 1085
+	val1 : 3
+	val2 : 6
+k, s : 50, 1090
+	val1 : 3
+	val2 : 4
+k, s : 50, 1095
+	val1 : 2
+	val2 : 7
+k, s : 50, 1100
+	val1 : 2
+	val2 : 9
+k, s : 50, 1105
+	val1 : 3
+	val2 : 4
+k, s : 50, 1110
+	val1 : 2
+	val2 : 7
+k, s : 50, 1115
+	val1 : 2
+	val2 : 5
+k, s : 50, 1120
+	val1 : 2
+	val2 : 2
+k, s : 50, 1125
+	val1 : 2
+	val2 : 5
+k, s : 50, 1130
+	val1 : 3
+	val2 : 7
+k, s : 50, 1135
+	val1 : 3
+	val2 : 3
+k, s : 50, 1140
+	val1 : 2
+	val2 : 5
+k, s : 50, 1145
+	val1 : 2
+	val2 : 8
+k, s : 50, 1150
+	val1 : 3
+	val2 : 4
+k, s : 50, 1155
+	val1 : 3
+	val2 : 7
+k, s : 50, 1160
+	val1 : 3
+	val2 : 9
+k, s : 50, 1165
+	val1 : 3
+	val2 : 4
+k, s : 50, 1170
+	val1 : 2
+	val2 : 4
+k, s : 50, 1175
+	val1 : 3
+	val2 : 6
+k, s : 50, 1180
+	val1 : 3
+	val2 : 3
+k, s : 50, 1185
+	val1 : 2
+	val2 : 5
+k, s : 50, 1190
+	val1 : 3
+	val2 : 8
+k, s : 50, 1195
+	val1 : 3
+	val2 : 4
+k, s : 50, 1200
+	val1 : 3
+	val2 : 7
+k, s : 50, 1205
+	val1 : 3
+	val2 : 9
+k, s : 50, 1210
+	val1 : 3
+	val2 : 4
+k, s : 50, 1215
+	val1 : 3
+	val2 : 7
+k, s : 50, 1220
+	val1 : 2
+	val2 : 5
+k, s : 50, 1225
+	val1 : 3
+	val2 : 5
+k, s : 50, 1230
+	val1 : 2
+	val2 : 7
+k, s : 50, 1235
+	val1 : 3
+	val2 : 10
+k, s : 50, 1240
+	val1 : 3
+	val2 : 4
+k, s : 50, 1245
+	val1 : 2
+	val2 : 2
+k, s : 50, 1250
+	val1 : 3
+	val2 : 5
+k, s : 50, 1255
+	val1 : 2
+	val2 : 2
+k, s : 50, 1260
+	val1 : 3
+	val2 : 3
+k, s : 50, 1265
+	val1 : 3
+	val2 : 3
+k, s : 50, 1270
+	val1 : 3
+	val2 : 5
+k, s : 50, 1275
+	val1 : 3
+	val2 : 8
+k, s : 50, 1280
+	val1 : 3
+	val2 : 3
+k, s : 50, 1285
+	val1 : 3
+	val2 : 5
+k, s : 50, 1290
+	val1 : 3
+	val2 : 4
+k, s : 50, 1295
+	val1 : 3
+	val2 : 3
+k, s : 50, 1300
+	val1 : 3
+	val2 : 6
+k, s : 50, 1305
+	val1 : 3
+	val2 : 8
+k, s : 50, 1310
+	val1 : 3
+	val2 : 11
+k, s : 50, 1315
+	val1 : 3
+	val2 : 5
+k, s : 50, 1320
+	val1 : 3
+	val2 : 7
+k, s : 50, 1325
+	val1 : 3
+	val2 : 4
+k, s : 50, 1330
+	val1 : 2
+	val2 : 7
+k, s : 50, 1335
+	val1 : 3
+	val2 : 9
+k, s : 50, 1340
+	val1 : 2
+	val2 : 3
+k, s : 50, 1345
+	val1 : 3
+	val2 : 5
+k, s : 50, 1350
+	val1 : 3
+	val2 : 8
+k, s : 50, 1355
+	val1 : 3
+	val2 : 3
+k, s : 50, 1360
+	val1 : 3
+	val2 : 5
+k, s : 50, 1365
+	val1 : 2
+	val2 : 2
+k, s : 50, 1370
+	val1 : 3
+	val2 : 3
+k, s : 50, 1375
+	val1 : 2
+	val2 : 6
+k, s : 50, 1380
+	val1 : 3
+	val2 : 8
+k, s : 50, 1385
+	val1 : 3
+	val2 : 3
+k, s : 50, 1390
+	val1 : 2
+	val2 : 2
+k, s : 50, 1395
+	val1 : 3
+	val2 : 5
+k, s : 50, 1400
+	val1 : 3
+	val2 : 7
+k, s : 50, 1405
+	val1 : 3
+	val2 : 10
+k, s : 50, 1410
+	val1 : 3
+	val2 : 5
+k, s : 50, 1415
+	val1 : 3
+	val2 : 3
+k, s : 50, 1420
+	val1 : 3
+	val2 : 6
+k, s : 50, 1425
+	val1 : 3
+	val2 : 5
+k, s : 50, 1430
+	val1 : 3
+	val2 : 8
+k, s : 50, 1435
+	val1 : 3
+	val2 : 10
+k, s : 50, 1440
+	val1 : 3
+	val2 : 4
+k, s : 50, 1445
+	val1 : 3
+	val2 : 7
+k, s : 50, 1450
+	val1 : 3
+	val2 : 4
+k, s : 50, 1455
+	val1 : 3
+	val2 : 6
+k, s : 50, 1460
+	val1 : 3
+	val2 : 9
+k, s : 50, 1465
+	val1 : 3
+	val2 : 4
+k, s : 50, 1470
+	val1 : 3
+	val2 : 6
+k, s : 50, 1475
+	val1 : 3
+	val2 : 5
+k, s : 50, 1480
+	val1 : 3
+	val2 : 5
+k, s : 50, 1485
+	val1 : 3
+	val2 : 5
+k, s : 50, 1490
+	val1 : 3
+	val2 : 5
+k, s : 50, 1495
+	val1 : 3
+	val2 : 7
+k, s : 50, 1500
+	val1 : 3
+	val2 : 10
+k, s : 50, 1505
+	val1 : 3
+	val2 : 5
+k, s : 50, 1510
+	val1 : 3
+	val2 : 7
+k, s : 50, 1515
+	val1 : 3
+	val2 : 3
+k, s : 50, 1520
+	val1 : 3
+	val2 : 4
+k, s : 50, 1525
+	val1 : 3
+	val2 : 7
+k, s : 50, 1530
+	val1 : 3
+	val2 : 9
+k, s : 50, 1535
+	val1 : 3
+	val2 : 4
+k, s : 50, 1540
+	val1 : 3
+	val2 : 5
+k, s : 50, 1545
+	val1 : 3
+	val2 : 8
+k, s : 50, 1550
+	val1 : 3
+	val2 : 10
+k, s : 50, 1555
+	val1 : 3
+	val2 : 5
+k, s : 50, 1560
+	val1 : 3
+	val2 : 8
+k, s : 50, 1565
+	val1 : 3
+	val2 : 5
+k, s : 50, 1570
+	val1 : 3
+	val2 : 8
+k, s : 50, 1575
+	val1 : 3
+	val2 : 10
+k, s : 50, 1580
+	val1 : 3
+	val2 : 4
+k, s : 50, 1585
+	val1 : 3
+	val2 : 7
+k, s : 50, 1590
+	val1 : 3
+	val2 : 9
+k, s : 50, 1595
+	val1 : 3
+	val2 : 4
+k, s : 50, 1600
+	val1 : 3
+	val2 : 7
+k, s : 50, 1605
+	val1 : 3
+	val2 : 5
+k, s : 50, 1610
+	val1 : 3
+	val2 : 5
+k, s : 50, 1615
+	val1 : 3
+	val2 : 5
+k, s : 50, 1620
+	val1 : 3
+	val2 : 8
+k, s : 50, 1625
+	val1 : 3
+	val2 : 10
+k, s : 50, 1630
+	val1 : 3
+	val2 : 5
+k, s : 50, 1635
+	val1 : 3
+	val2 : 4
+k, s : 50, 1640
+	val1 : 3
+	val2 : 7
+k, s : 50, 1645
+	val1 : 3
+	val2 : 9
+k, s : 50, 1650
+	val1 : 3
+	val2 : 4
+k, s : 50, 1655
+	val1 : 3
+	val2 : 7
+k, s : 50, 1660
+	val1 : 3
+	val2 : 5
+k, s : 50, 1665
+	val1 : 3
+	val2 : 3
+k, s : 50, 1670
+	val1 : 3
+	val2 : 6
+k, s : 50, 1675
+	val1 : 3
+	val2 : 8
+k, s : 50, 1680
+	val1 : 3
+	val2 : 11
+k, s : 50, 1685
+	val1 : 3
+	val2 : 6
+k, s : 50, 1690
+	val1 : 3
+	val2 : 4
+k, s : 50, 1695
+	val1 : 3
+	val2 : 7
+k, s : 50, 1700
+	val1 : 3
+	val2 : 5
+k, s : 50, 1705
+	val1 : 3
+	val2 : 5
+k, s : 50, 1710
+	val1 : 4
+	val2 : 8
+k, s : 50, 1715
+	val1 : 3
+	val2 : 10
+k, s : 50, 1720
+	val1 : 3
+	val2 : 5
+k, s : 50, 1725
+	val1 : 3
+	val2 : 5
+k, s : 50, 1730
+	val1 : 3
+	val2 : 3
+k, s : 50, 1735
+	val1 : 3
+	val2 : 4
+k, s : 50, 1740
+	val1 : 3
+	val2 : 6
+k, s : 50, 1745
+	val1 : 3
+	val2 : 9
+k, s : 50, 1750
+	val1 : 3
+	val2 : 4
+k, s : 50, 1755
+	val1 : 3
+	val2 : 5
+k, s : 50, 1760
+	val1 : 3
+	val2 : 7
+k, s : 50, 1765
+	val1 : 3
+	val2 : 10
+k, s : 50, 1770
+	val1 : 3
+	val2 : 5
+k, s : 50, 1775
+	val1 : 3
+	val2 : 4
+k, s : 50, 1780
+	val1 : 3
+	val2 : 7
+k, s : 50, 1785
+	val1 : 3
+	val2 : 5
+k, s : 50, 1790
+	val1 : 3
+	val2 : 8
+k, s : 50, 1795
+	val1 : 3
+	val2 : 10
+k, s : 50, 1800
+	val1 : 3
+	val2 : 5
+k, s : 50, 1805
+	val1 : 3
+	val2 : 8
+k, s : 50, 1810
+	val1 : 3
+	val2 : 6
+k, s : 50, 1815
+	val1 : 3
+	val2 : 3
+k, s : 50, 1820
+	val1 : 3
+	val2 : 6
+k, s : 50, 1825
+	val1 : 3
+	val2 : 8
+k, s : 50, 1830
+	val1 : 3
+	val2 : 4
+k, s : 50, 1835
+	val1 : 3
+	val2 : 6
+k, s : 50, 1840
+	val1 : 3
+	val2 : 9
+k, s : 50, 1845
+	val1 : 3
+	val2 : 5
+k, s : 50, 1850
+	val1 : 3
+	val2 : 8
+k, s : 50, 1855
+	val1 : 3
+	val2 : 10
+k, s : 50, 1860
+	val1 : 4
+	val2 : 5
+k, s : 50, 1865
+	val1 : 3
+	val2 : 5
+k, s : 50, 1870
+	val1 : 4
+	val2 : 7
+k, s : 50, 1875
+	val1 : 3
+	val2 : 4
+k, s : 50, 1880
+	val1 : 3
+	val2 : 6
+k, s : 50, 1885
+	val1 : 3
+	val2 : 9
+k, s : 50, 1890
+	val1 : 3
+	val2 : 5
+k, s : 50, 1895
+	val1 : 3
+	val2 : 8
+k, s : 50, 1900
+	val1 : 3
+	val2 : 10
+k, s : 50, 1905
+	val1 : 3
+	val2 : 5
+k, s : 50, 1910
+	val1 : 3
+	val2 : 8
+k, s : 50, 1915
+	val1 : 3
+	val2 : 6
+k, s : 50, 1920
+	val1 : 3
+	val2 : 6
+k, s : 50, 1925
+	val1 : 3
+	val2 : 8
+k, s : 50, 1930
+	val1 : 3
+	val2 : 11
+k, s : 50, 1935
+	val1 : 3
+	val2 : 5
+k, s : 50, 1940
+	val1 : 3
+	val2 : 3
+k, s : 50, 1945
+	val1 : 4
+	val2 : 6
+k, s : 50, 1950
+	val1 : 3
+	val2 : 3
+k, s : 50, 1955
+	val1 : 4
+	val2 : 4
+k, s : 50, 1960
+	val1 : 3
+	val2 : 4
+k, s : 50, 1965
+	val1 : 4
+	val2 : 6
+k, s : 50, 1970
+	val1 : 4
+	val2 : 9
+k, s : 50, 1975
+	val1 : 3
+	val2 : 4
+k, s : 50, 1980
+	val1 : 4
+	val2 : 6
+k, s : 50, 1985
+	val1 : 4
+	val2 : 5
+k, s : 50, 1990
+	val1 : 3
+	val2 : 4
+k, s : 50, 1995
+	val1 : 4
+	val2 : 7
+k, s : 50, 2000
+	val1 : 3
+	val2 : 9
+k, s : 50, 400
+	val1 : 3
+	val2 : 6
+k, s : 50, 405
+	val1 : 3
+	val2 : 4
+k, s : 50, 410
+	val1 : 2
+	val2 : 9
+k, s : 50, 415
+	val1 : 3
+	val2 : 5
+k, s : 50, 420
+	val1 : 3
+	val2 : 3
+k, s : 50, 425
+	val1 : 2
+	val2 : 8
+k, s : 50, 430
+	val1 : 2
+	val2 : 4
+k, s : 50, 435
+	val1 : 2
+	val2 : 2
+k, s : 50, 440
+	val1 : 2
+	val2 : 7
+k, s : 50, 445
+	val1 : 2
+	val2 : 5
+k, s : 50, 450
+	val1 : 3
+	val2 : 3
+k, s : 50, 455
+	val1 : 2
+	val2 : 6
+k, s : 50, 460
+	val1 : 2
+	val2 : 4
+k, s : 50, 465
+	val1 : 2
+	val2 : 9
+k, s : 50, 470
+	val1 : 2
+	val2 : 5
+k, s : 50, 475
+	val1 : 3
+	val2 : 4
+k, s : 50, 480
+	val1 : 3
+	val2 : 4
+k, s : 50, 485
+	val1 : 3
+	val2 : 5
+k, s : 50, 490
+	val1 : 3
+	val2 : 5
+k, s : 50, 495
+	val1 : 3
+	val2 : 5
+k, s : 50, 500
+	val1 : 3
+	val2 : 5
+k, s : 50, 505
+	val1 : 3
+	val2 : 3
+k, s : 50, 510
+	val1 : 3
+	val2 : 8
+k, s : 50, 515
+	val1 : 2
+	val2 : 2
+k, s : 50, 520
+	val1 : 3
+	val2 : 5
+k, s : 50, 525
+	val1 : 3
+	val2 : 6
+k, s : 50, 530
+	val1 : 3
+	val2 : 4
+k, s : 50, 535
+	val1 : 2
+	val2 : 2
+k, s : 50, 540
+	val1 : 2
+	val2 : 7
+k, s : 50, 545
+	val1 : 3
+	val2 : 5
+k, s : 50, 550
+	val1 : 2
+	val2 : 2
+k, s : 50, 555
+	val1 : 2
+	val2 : 4
+k, s : 50, 560
+	val1 : 2
+	val2 : 4
+k, s : 50, 565
+	val1 : 2
+	val2 : 2
+k, s : 50, 570
+	val1 : 3
+	val2 : 3
+k, s : 50, 575
+	val1 : 3
+	val2 : 8
+k, s : 50, 580
+	val1 : 2
+	val2 : 5
+k, s : 50, 585
+	val1 : 1
+	val2 : 1
+k, s : 50, 590
+	val1 : 2
+	val2 : 6
+k, s : 50, 595
+	val1 : 2
+	val2 : 5
+k, s : 50, 600
+	val1 : 2
+	val2 : 3
+k, s : 50, 605
+	val1 : 2
+	val2 : 8
+k, s : 50, 610
+	val1 : 2
+	val2 : 4
+k, s : 50, 615
+	val1 : 2
+	val2 : 2
+k, s : 50, 620
+	val1 : 2
+	val2 : 7
+k, s : 50, 625
+	val1 : 3
+	val2 : 5
+k, s : 50, 630
+	val1 : 2
+	val2 : 4
+k, s : 50, 635
+	val1 : 2
+	val2 : 2
+k, s : 50, 640
+	val1 : 2
+	val2 : 7
+k, s : 50, 645
+	val1 : 1
+	val2 : 1
+k, s : 50, 650
+	val1 : 2
+	val2 : 6
+k, s : 50, 655
+	val1 : 2
+	val2 : 4
+k, s : 50, 660
+	val1 : 2
+	val2 : 9
+k, s : 50, 665
+	val1 : 2
+	val2 : 5
+k, s : 50, 670
+	val1 : 2
+	val2 : 4
+k, s : 50, 675
+	val1 : 2
+	val2 : 2
+k, s : 50, 680
+	val1 : 2
+	val2 : 2
+k, s : 50, 685
+	val1 : 2
+	val2 : 7
+k, s : 50, 690
+	val1 : 2
+	val2 : 5
+k, s : 50, 695
+	val1 : 2
+	val2 : 4
+k, s : 50, 700
+	val1 : 2
+	val2 : 2
+k, s : 50, 705
+	val1 : 3
+	val2 : 7
+k, s : 50, 710
+	val1 : 2
+	val2 : 3
+k, s : 50, 715
+	val1 : 2
+	val2 : 8
+k, s : 50, 720
+	val1 : 2
+	val2 : 6
+k, s : 50, 725
+	val1 : 2
+	val2 : 4
+k, s : 50, 730
+	val1 : 2
+	val2 : 7
+k, s : 50, 735
+	val1 : 3
+	val2 : 6
+k, s : 50, 740
+	val1 : 2
+	val2 : 2
+k, s : 50, 745
+	val1 : 2
+	val2 : 2
+k, s : 50, 750
+	val1 : 2
+	val2 : 2
+k, s : 50, 755
+	val1 : 2
+	val2 : 2
+k, s : 50, 760
+	val1 : 2
+	val2 : 7
+k, s : 50, 765
+	val1 : 2
+	val2 : 5
+k, s : 50, 770
+	val1 : 2
+	val2 : 3
+k, s : 50, 775
+	val1 : 2
+	val2 : 2
+k, s : 50, 780
+	val1 : 2
+	val2 : 3
+k, s : 50, 785
+	val1 : 2
+	val2 : 8
+k, s : 50, 790
+	val1 : 2
+	val2 : 6
+k, s : 50, 795
+	val1 : 2
+	val2 : 6
+k, s : 50, 800
+	val1 : 2
+	val2 : 4
+k, s : 50, 805
+	val1 : 2
+	val2 : 9
+k, s : 50, 810
+	val1 : 2
+	val2 : 2
+k, s : 50, 815
+	val1 : 3
+	val2 : 7
+k, s : 50, 820
+	val1 : 2
+	val2 : 5
+k, s : 50, 825
+	val1 : 3
+	val2 : 10
+k, s : 50, 830
+	val1 : 3
+	val2 : 6
+k, s : 50, 835
+	val1 : 2
+	val2 : 4
+k, s : 50, 840
+	val1 : 2
+	val2 : 9
+k, s : 50, 845
+	val1 : 2
+	val2 : 5
+k, s : 50, 850
+	val1 : 3
+	val2 : 4
+k, s : 50, 855
+	val1 : 2
+	val2 : 4
+k, s : 50, 860
+	val1 : 2
+	val2 : 2
+k, s : 50, 865
+	val1 : 2
+	val2 : 2
+k, s : 50, 870
+	val1 : 3
+	val2 : 7
+k, s : 50, 875
+	val1 : 2
+	val2 : 5
+k, s : 50, 880
+	val1 : 2
+	val2 : 10
+k, s : 50, 885
+	val1 : 3
+	val2 : 6
+k, s : 50, 890
+	val1 : 2
+	val2 : 4
+k, s : 50, 895
+	val1 : 2
+	val2 : 9
+k, s : 50, 900
+	val1 : 2
+	val2 : 5
+k, s : 50, 905
+	val1 : 2
+	val2 : 2
+k, s : 50, 910
+	val1 : 3
+	val2 : 7
+k, s : 50, 915
+	val1 : 2
+	val2 : 5
+k, s : 50, 920
+	val1 : 2
+	val2 : 10
+k, s : 50, 925
+	val1 : 3
+	val2 : 6
+k, s : 50, 930
+	val1 : 2
+	val2 : 2
+k, s : 50, 935
+	val1 : 2
+	val2 : 7
+k, s : 50, 940
+	val1 : 2
+	val2 : 2
+k, s : 50, 945
+	val1 : 3
+	val2 : 7
+k, s : 50, 950
+	val1 : 2
+	val2 : 5
+k, s : 50, 955
+	val1 : 2
+	val2 : 10
+k, s : 50, 960
+	val1 : 2
+	val2 : 6
+k, s : 50, 965
+	val1 : 3
+	val2 : 4
+k, s : 50, 970
+	val1 : 2
+	val2 : 9
+k, s : 50, 975
+	val1 : 2
+	val2 : 5
+k, s : 50, 980
+	val1 : 2
+	val2 : 4
+k, s : 50, 985
+	val1 : 2
+	val2 : 5
+k, s : 50, 990
+	val1 : 2
+	val2 : 3
+k, s : 50, 995
+	val1 : 3
+	val2 : 8
+k, s : 50, 1000
+	val1 : 3
+	val2 : 5
+k, s : 50, 1005
+	val1 : 3
+	val2 : 3
+k, s : 50, 1010
+	val1 : 2
+	val2 : 8
+k, s : 50, 1015
+	val1 : 2
+	val2 : 2
+k, s : 50, 1020
+	val1 : 2
+	val2 : 7
+k, s : 50, 1025
+	val1 : 2
+	val2 : 5
+k, s : 50, 1030
+	val1 : 2
+	val2 : 10
+k, s : 50, 1035
+	val1 : 2
+	val2 : 2
+k, s : 50, 1040
+	val1 : 2
+	val2 : 6
+k, s : 50, 1045
+	val1 : 3
+	val2 : 4
+k, s : 50, 1050
+	val1 : 3
+	val2 : 9
+k, s : 50, 1055
+	val1 : 3
+	val2 : 5
+k, s : 50, 1060
+	val1 : 3
+	val2 : 10
+k, s : 50, 1065
+	val1 : 3
+	val2 : 5
+k, s : 50, 1070
+	val1 : 3
+	val2 : 5
+k, s : 50, 1075
+	val1 : 3
+	val2 : 3
+k, s : 50, 1080
+	val1 : 3
+	val2 : 5
+k, s : 50, 1085
+	val1 : 2
+	val2 : 5
+k, s : 50, 1090
+	val1 : 3
+	val2 : 5
+k, s : 50, 1095
+	val1 : 3
+	val2 : 3
+k, s : 50, 1100
+	val1 : 2
+	val2 : 8
+k, s : 50, 1105
+	val1 : 2
+	val2 : 4
+k, s : 50, 1110
+	val1 : 2
+	val2 : 9
+k, s : 50, 1115
+	val1 : 3
+	val2 : 7
+k, s : 50, 1120
+	val1 : 2
+	val2 : 5
+k, s : 50, 1125
+	val1 : 2
+	val2 : 8
+k, s : 50, 1130
+	val1 : 3
+	val2 : 6
+k, s : 50, 1135
+	val1 : 3
+	val2 : 4
+k, s : 50, 1140
+	val1 : 2
+	val2 : 9
+k, s : 50, 1145
+	val1 : 3
+	val2 : 5
+k, s : 50, 1150
+	val1 : 3
+	val2 : 10
+k, s : 50, 1155
+	val1 : 2
+	val2 : 8
+k, s : 50, 1160
+	val1 : 3
+	val2 : 4
+k, s : 50, 1165
+	val1 : 2
+	val2 : 3
+k, s : 50, 1170
+	val1 : 2
+	val2 : 3
+k, s : 50, 1175
+	val1 : 2
+	val2 : 4
+k, s : 50, 1180
+	val1 : 3
+	val2 : 4
+k, s : 50, 1185
+	val1 : 3
+	val2 : 4
+k, s : 50, 1190
+	val1 : 2
+	val2 : 4
+k, s : 50, 1195
+	val1 : 2
+	val2 : 9
+k, s : 50, 1200
+	val1 : 3
+	val2 : 7
+k, s : 50, 1205
+	val1 : 2
+	val2 : 5
+k, s : 50, 1210
+	val1 : 3
+	val2 : 4
+k, s : 50, 1215
+	val1 : 2
+	val2 : 5
+k, s : 50, 1220
+	val1 : 3
+	val2 : 10
+k, s : 50, 1225
+	val1 : 3
+	val2 : 3
+k, s : 50, 1230
+	val1 : 2
+	val2 : 6
+k, s : 50, 1235
+	val1 : 2
+	val2 : 4
+k, s : 50, 1240
+	val1 : 2
+	val2 : 2
+k, s : 50, 1245
+	val1 : 3
+	val2 : 3
+k, s : 50, 1250
+	val1 : 3
+	val2 : 3
+k, s : 50, 1255
+	val1 : 2
+	val2 : 8
+k, s : 50, 1260
+	val1 : 2
+	val2 : 2
+k, s : 50, 1265
+	val1 : 3
+	val2 : 7
+k, s : 50, 1270
+	val1 : 2
+	val2 : 4
+k, s : 50, 1275
+	val1 : 3
+	val2 : 9
+k, s : 50, 1280
+	val1 : 3
+	val2 : 5
+k, s : 50, 1285
+	val1 : 3
+	val2 : 4
+k, s : 50, 1290
+	val1 : 2
+	val2 : 9
+k, s : 50, 1295
+	val1 : 3
+	val2 : 7
+k, s : 50, 1300
+	val1 : 3
+	val2 : 3
+k, s : 50, 1305
+	val1 : 3
+	val2 : 8
+k, s : 50, 1310
+	val1 : 3
+	val2 : 6
+k, s : 50, 1315
+	val1 : 3
+	val2 : 4
+k, s : 50, 1320
+	val1 : 3
+	val2 : 3
+k, s : 50, 1325
+	val1 : 3
+	val2 : 8
+k, s : 50, 1330
+	val1 : 3
+	val2 : 6
+k, s : 50, 1335
+	val1 : 3
+	val2 : 4
+k, s : 50, 1340
+	val1 : 3
+	val2 : 5
+k, s : 50, 1345
+	val1 : 3
+	val2 : 3
+k, s : 50, 1350
+	val1 : 3
+	val2 : 8
+k, s : 50, 1355
+	val1 : 3
+	val2 : 4
+k, s : 50, 1360
+	val1 : 3
+	val2 : 3
+k, s : 50, 1365
+	val1 : 3
+	val2 : 8
+k, s : 50, 1370
+	val1 : 3
+	val2 : 6
+k, s : 50, 1375
+	val1 : 3
+	val2 : 6
+k, s : 50, 1380
+	val1 : 3
+	val2 : 4
+k, s : 50, 1385
+	val1 : 3
+	val2 : 3
+k, s : 50, 1390
+	val1 : 3
+	val2 : 8
+k, s : 50, 1395
+	val1 : 3
+	val2 : 6
+k, s : 50, 1400
+	val1 : 3
+	val2 : 4
+k, s : 50, 1405
+	val1 : 3
+	val2 : 7
+k, s : 50, 1410
+	val1 : 3
+	val2 : 5
+k, s : 50, 1415
+	val1 : 3
+	val2 : 10
+k, s : 50, 1420
+	val1 : 3
+	val2 : 6
+k, s : 50, 1425
+	val1 : 3
+	val2 : 5
+k, s : 50, 1430
+	val1 : 3
+	val2 : 5
+k, s : 50, 1435
+	val1 : 3
+	val2 : 6
+k, s : 50, 1440
+	val1 : 3
+	val2 : 6
+k, s : 50, 1445
+	val1 : 3
+	val2 : 6
+k, s : 50, 1450
+	val1 : 3
+	val2 : 6
+k, s : 50, 1455
+	val1 : 3
+	val2 : 4
+k, s : 50, 1460
+	val1 : 3
+	val2 : 9
+k, s : 50, 1465
+	val1 : 3
+	val2 : 3
+k, s : 50, 1470
+	val1 : 3
+	val2 : 6
+k, s : 50, 1475
+	val1 : 3
+	val2 : 7
+k, s : 50, 1480
+	val1 : 3
+	val2 : 5
+k, s : 50, 1485
+	val1 : 3
+	val2 : 5
+k, s : 50, 1490
+	val1 : 3
+	val2 : 10
+k, s : 50, 1495
+	val1 : 3
+	val2 : 8
+k, s : 50, 1500
+	val1 : 3
+	val2 : 4
+k, s : 50, 1505
+	val1 : 3
+	val2 : 6
+k, s : 50, 1510
+	val1 : 3
+	val2 : 4
+k, s : 50, 1515
+	val1 : 3
+	val2 : 9
+k, s : 50, 1520
+	val1 : 3
+	val2 : 5
+k, s : 50, 1525
+	val1 : 3
+	val2 : 10
+k, s : 50, 1530
+	val1 : 3
+	val2 : 8
+k, s : 50, 1535
+	val1 : 3
+	val2 : 6
+k, s : 50, 1540
+	val1 : 3
+	val2 : 9
+k, s : 50, 1545
+	val1 : 3
+	val2 : 8
+k, s : 50, 1550
+	val1 : 3
+	val2 : 4
+k, s : 50, 1555
+	val1 : 3
+	val2 : 6
+k, s : 50, 1560
+	val1 : 3
+	val2 : 6
+k, s : 50, 1565
+	val1 : 3
+	val2 : 4
+k, s : 50, 1570
+	val1 : 3
+	val2 : 9
+k, s : 50, 1575
+	val1 : 3
+	val2 : 5
+k, s : 50, 1580
+	val1 : 3
+	val2 : 10
+k, s : 50, 1585
+	val1 : 3
+	val2 : 8
+k, s : 50, 1590
+	val1 : 3
+	val2 : 6
+k, s : 50, 1595
+	val1 : 3
+	val2 : 9
+k, s : 50, 1600
+	val1 : 3
+	val2 : 6
+k, s : 50, 1605
+	val1 : 3
+	val2 : 4
+k, s : 50, 1610
+	val1 : 3
+	val2 : 9
+k, s : 50, 1615
+	val1 : 3
+	val2 : 5
+k, s : 50, 1620
+	val1 : 3
+	val2 : 10
+k, s : 50, 1625
+	val1 : 3
+	val2 : 6
+k, s : 50, 1630
+	val1 : 3
+	val2 : 4
+k, s : 50, 1635
+	val1 : 3
+	val2 : 6
+k, s : 50, 1640
+	val1 : 3
+	val2 : 4
+k, s : 50, 1645
+	val1 : 3
+	val2 : 9
+k, s : 50, 1650
+	val1 : 3
+	val2 : 5
+k, s : 50, 1655
+	val1 : 3
+	val2 : 10
+k, s : 50, 1660
+	val1 : 3
+	val2 : 8
+k, s : 50, 1665
+	val1 : 3
+	val2 : 6
+k, s : 50, 1670
+	val1 : 3
+	val2 : 9
+k, s : 50, 1675
+	val1 : 3
+	val2 : 4
+k, s : 50, 1680
+	val1 : 3
+	val2 : 9
+k, s : 50, 1685
+	val1 : 3
+	val2 : 7
+k, s : 50, 1690
+	val1 : 3
+	val2 : 4
+k, s : 50, 1695
+	val1 : 3
+	val2 : 9
+k, s : 50, 1700
+	val1 : 3
+	val2 : 7
+k, s : 50, 1705
+	val1 : 3
+	val2 : 5
+k, s : 50, 1710
+	val1 : 3
+	val2 : 6
+k, s : 50, 1715
+	val1 : 3
+	val2 : 4
+k, s : 50, 1720
+	val1 : 3
+	val2 : 9
+k, s : 50, 1725
+	val1 : 3
+	val2 : 5
+k, s : 50, 1730
+	val1 : 3
+	val2 : 5
+k, s : 50, 1735
+	val1 : 3
+	val2 : 10
+k, s : 50, 1740
+	val1 : 3
+	val2 : 8
+k, s : 50, 1745
+	val1 : 3
+	val2 : 4
+k, s : 50, 1750
+	val1 : 3
+	val2 : 9
+k, s : 50, 1755
+	val1 : 3
+	val2 : 4
+k, s : 50, 1760
+	val1 : 3
+	val2 : 4
+k, s : 50, 1765
+	val1 : 3
+	val2 : 9
+k, s : 50, 1770
+	val1 : 3
+	val2 : 4
+k, s : 50, 1775
+	val1 : 3
+	val2 : 4
+k, s : 50, 1780
+	val1 : 3
+	val2 : 4
+k, s : 50, 1785
+	val1 : 3
+	val2 : 9
+k, s : 50, 1790
+	val1 : 3
+	val2 : 7
+k, s : 50, 1795
+	val1 : 3
+	val2 : 5
+k, s : 50, 1800
+	val1 : 3
+	val2 : 8
+k, s : 50, 1805
+	val1 : 3
+	val2 : 6
+k, s : 50, 1810
+	val1 : 3
+	val2 : 11
+k, s : 50, 1815
+	val1 : 3
+	val2 : 7
+k, s : 50, 1820
+	val1 : 3
+	val2 : 5
+k, s : 50, 1825
+	val1 : 3
+	val2 : 10
+k, s : 50, 1830
+	val1 : 3
+	val2 : 8
+k, s : 50, 1835
+	val1 : 3
+	val2 : 4
+k, s : 50, 1840
+	val1 : 3
+	val2 : 9
+k, s : 50, 1845
+	val1 : 3
+	val2 : 7
+k, s : 50, 1850
+	val1 : 3
+	val2 : 12
+k, s : 50, 1855
+	val1 : 3
+	val2 : 8
+k, s : 50, 1860
+	val1 : 3
+	val2 : 7
+k, s : 50, 1865
+	val1 : 3
+	val2 : 7
+k, s : 50, 1870
+	val1 : 3
+	val2 : 8
+k, s : 50, 1875
+	val1 : 3
+	val2 : 8
+k, s : 50, 1880
+	val1 : 3
+	val2 : 8
+k, s : 50, 1885
+	val1 : 3
+	val2 : 8
+k, s : 50, 1890
+	val1 : 3
+	val2 : 6
+k, s : 50, 1895
+	val1 : 3
+	val2 : 11
+k, s : 50, 1900
+	val1 : 3
+	val2 : 5
+k, s : 50, 1905
+	val1 : 3
+	val2 : 4
+k, s : 50, 1910
+	val1 : 3
+	val2 : 9
+k, s : 50, 1915
+	val1 : 3
+	val2 : 7
+k, s : 50, 1920
+	val1 : 3
+	val2 : 5
+k, s : 50, 1925
+	val1 : 3
+	val2 : 10
+k, s : 50, 1930
+	val1 : 4
+	val2 : 8
+k, s : 50, 1935
+	val1 : 3
+	val2 : 3
+k, s : 50, 1940
+	val1 : 4
+	val2 : 7
+k, s : 50, 1945
+	val1 : 4
+	val2 : 7
+k, s : 50, 1950
+	val1 : 3
+	val2 : 5
+k, s : 50, 1955
+	val1 : 4
+	val2 : 6
+k, s : 50, 1960
+	val1 : 3
+	val2 : 3
+k, s : 50, 1965
+	val1 : 3
+	val2 : 8
+k, s : 50, 1970
+	val1 : 4
+	val2 : 4
+k, s : 50, 1975
+	val1 : 3
+	val2 : 3
+k, s : 50, 1980
+	val1 : 4
+	val2 : 8
+k, s : 50, 1985
+	val1 : 3
+	val2 : 6
+k, s : 50, 1990
+	val1 : 4
+	val2 : 11
+k, s : 50, 1995
+	val1 : 4
+	val2 : 7
+k, s : 50, 2000
+	val1 : 4
+	val2 : 5
+k, s : 50, 400
+	val1 : 2
+	val2 : 19
+k, s : 50, 405
+	val1 : 1
+	val2 : 1
+k, s : 50, 410
+	val1 : 3
+	val2 : 6
+k, s : 50, 415
+	val1 : 2
+	val2 : 11
+k, s : 50, 420
+	val1 : 1
+	val2 : 1
+k, s : 50, 425
+	val1 : 2
+	val2 : 6
+k, s : 50, 430
+	val1 : 3
+	val2 : 11
+k, s : 50, 435
+	val1 : 2
+	val2 : 16
+k, s : 50, 440
+	val1 : 3
+	val2 : 21
+k, s : 50, 445
+	val1 : 2
+	val2 : 2
+k, s : 50, 450
+	val1 : 2
+	val2 : 7
+k, s : 50, 455
+	val1 : 2
+	val2 : 12
+k, s : 50, 460
+	val1 : 2
+	val2 : 17
+k, s : 50, 465
+	val1 : 3
+	val2 : 22
+k, s : 50, 470
+	val1 : 2
+	val2 : 27
+k, s : 50, 475
+	val1 : 3
+	val2 : 4
+k, s : 50, 480
+	val1 : 3
+	val2 : 3
+k, s : 50, 485
+	val1 : 2
+	val2 : 8
+k, s : 50, 490
+	val1 : 3
+	val2 : 4
+k, s : 50, 495
+	val1 : 3
+	val2 : 9
+k, s : 50, 500
+	val1 : 3
+	val2 : 5
+k, s : 50, 505
+	val1 : 3
+	val2 : 10
+k, s : 50, 510
+	val1 : 2
+	val2 : 15
+k, s : 50, 515
+	val1 : 3
+	val2 : 3
+k, s : 50, 520
+	val1 : 3
+	val2 : 8
+k, s : 50, 525
+	val1 : 2
+	val2 : 5
+k, s : 50, 530
+	val1 : 2
+	val2 : 10
+k, s : 50, 535
+	val1 : 2
+	val2 : 15
+k, s : 50, 540
+	val1 : 3
+	val2 : 20
+k, s : 50, 545
+	val1 : 2
+	val2 : 3
+k, s : 50, 550
+	val1 : 1
+	val2 : 1
+k, s : 50, 555
+	val1 : 2
+	val2 : 3
+k, s : 50, 560
+	val1 : 3
+	val2 : 8
+k, s : 50, 565
+	val1 : 2
+	val2 : 13
+k, s : 50, 570
+	val1 : 2
+	val2 : 18
+k, s : 50, 575
+	val1 : 1
+	val2 : 1
+k, s : 50, 580
+	val1 : 2
+	val2 : 6
+k, s : 50, 585
+	val1 : 3
+	val2 : 11
+k, s : 50, 590
+	val1 : 2
+	val2 : 16
+k, s : 50, 595
+	val1 : 3
+	val2 : 21
+k, s : 50, 600
+	val1 : 2
+	val2 : 3
+k, s : 50, 605
+	val1 : 1
+	val2 : 1
+k, s : 50, 610
+	val1 : 2
+	val2 : 6
+k, s : 50, 615
+	val1 : 1
+	val2 : 1
+k, s : 50, 620
+	val1 : 2
+	val2 : 6
+k, s : 50, 625
+	val1 : 2
+	val2 : 11
+k, s : 50, 630
+	val1 : 2
+	val2 : 2
+k, s : 50, 635
+	val1 : 2
+	val2 : 7
+k, s : 50, 640
+	val1 : 2
+	val2 : 12
+k, s : 50, 645
+	val1 : 2
+	val2 : 3
+k, s : 50, 650
+	val1 : 2
+	val2 : 3
+k, s : 50, 655
+	val1 : 2
+	val2 : 3
+k, s : 50, 660
+	val1 : 2
+	val2 : 4
+k, s : 50, 665
+	val1 : 2
+	val2 : 9
+k, s : 50, 670
+	val1 : 2
+	val2 : 2
+k, s : 50, 675
+	val1 : 2
+	val2 : 2
+k, s : 50, 680
+	val1 : 2
+	val2 : 7
+k, s : 50, 685
+	val1 : 2
+	val2 : 12
+k, s : 50, 690
+	val1 : 2
+	val2 : 17
+k, s : 50, 695
+	val1 : 2
+	val2 : 22
+k, s : 50, 700
+	val1 : 2
+	val2 : 27
+k, s : 50, 705
+	val1 : 2
+	val2 : 3
+k, s : 50, 710
+	val1 : 2
+	val2 : 8
+k, s : 50, 715
+	val1 : 3
+	val2 : 13
+k, s : 50, 720
+	val1 : 2
+	val2 : 18
+k, s : 50, 725
+	val1 : 2
+	val2 : 4
+k, s : 50, 730
+	val1 : 2
+	val2 : 9
+k, s : 50, 735
+	val1 : 2
+	val2 : 14
+k, s : 50, 740
+	val1 : 2
+	val2 : 3
+k, s : 50, 745
+	val1 : 2
+	val2 : 8
+k, s : 50, 750
+	val1 : 3
+	val2 : 13
+k, s : 50, 755
+	val1 : 3
+	val2 : 6
+k, s : 50, 760
+	val1 : 2
+	val2 : 11
+k, s : 50, 765
+	val1 : 2
+	val2 : 16
+k, s : 50, 770
+	val1 : 2
+	val2 : 21
+k, s : 50, 775
+	val1 : 3
+	val2 : 26
+k, s : 50, 780
+	val1 : 3
+	val2 : 31
+k, s : 50, 785
+	val1 : 2
+	val2 : 7
+k, s : 50, 790
+	val1 : 2
+	val2 : 12
+k, s : 50, 795
+	val1 : 2
+	val2 : 17
+k, s : 50, 800
+	val1 : 2
+	val2 : 3
+k, s : 50, 805
+	val1 : 2
+	val2 : 8
+k, s : 50, 810
+	val1 : 2
+	val2 : 4
+k, s : 50, 815
+	val1 : 2
+	val2 : 9
+k, s : 50, 820
+	val1 : 2
+	val2 : 14
+k, s : 50, 825
+	val1 : 2
+	val2 : 4
+k, s : 50, 830
+	val1 : 3
+	val2 : 9
+k, s : 50, 835
+	val1 : 2
+	val2 : 14
+k, s : 50, 840
+	val1 : 2
+	val2 : 19
+k, s : 50, 845
+	val1 : 3
+	val2 : 24
+k, s : 50, 850
+	val1 : 2
+	val2 : 29
+k, s : 50, 855
+	val1 : 2
+	val2 : 5
+k, s : 50, 860
+	val1 : 2
+	val2 : 3
+k, s : 50, 865
+	val1 : 2
+	val2 : 4
+k, s : 50, 870
+	val1 : 3
+	val2 : 3
+k, s : 50, 875
+	val1 : 2
+	val2 : 8
+k, s : 50, 880
+	val1 : 2
+	val2 : 13
+k, s : 50, 885
+	val1 : 2
+	val2 : 18
+k, s : 50, 890
+	val1 : 2
+	val2 : 4
+k, s : 50, 895
+	val1 : 2
+	val2 : 9
+k, s : 50, 900
+	val1 : 3
+	val2 : 5
+k, s : 50, 905
+	val1 : 3
+	val2 : 10
+k, s : 50, 910
+	val1 : 2
+	val2 : 15
+k, s : 50, 915
+	val1 : 2
+	val2 : 20
+k, s : 50, 920
+	val1 : 2
+	val2 : 2
+k, s : 50, 925
+	val1 : 2
+	val2 : 7
+k, s : 50, 930
+	val1 : 3
+	val2 : 5
+k, s : 50, 935
+	val1 : 2
+	val2 : 10
+k, s : 50, 940
+	val1 : 2
+	val2 : 15
+k, s : 50, 945
+	val1 : 3
+	val2 : 20
+k, s : 50, 950
+	val1 : 2
+	val2 : 25
+k, s : 50, 955
+	val1 : 2
+	val2 : 30
+k, s : 50, 960
+	val1 : 2
+	val2 : 6
+k, s : 50, 965
+	val1 : 2
+	val2 : 4
+k, s : 50, 970
+	val1 : 2
+	val2 : 9
+k, s : 50, 975
+	val1 : 2
+	val2 : 14
+k, s : 50, 980
+	val1 : 2
+	val2 : 19
+k, s : 50, 985
+	val1 : 2
+	val2 : 24
+k, s : 50, 990
+	val1 : 2
+	val2 : 6
+k, s : 50, 995
+	val1 : 2
+	val2 : 11
+k, s : 50, 1000
+	val1 : 2
+	val2 : 5
+k, s : 50, 1005
+	val1 : 2
+	val2 : 10
+k, s : 50, 1010
+	val1 : 2
+	val2 : 15
+k, s : 50, 1015
+	val1 : 2
+	val2 : 5
+k, s : 50, 1020
+	val1 : 2
+	val2 : 10
+k, s : 50, 1025
+	val1 : 2
+	val2 : 15
+k, s : 50, 1030
+	val1 : 2
+	val2 : 20
+k, s : 50, 1035
+	val1 : 2
+	val2 : 4
+k, s : 50, 1040
+	val1 : 2
+	val2 : 9
+k, s : 50, 1045
+	val1 : 2
+	val2 : 14
+k, s : 50, 1050
+	val1 : 2
+	val2 : 2
+k, s : 50, 1055
+	val1 : 3
+	val2 : 5
+k, s : 50, 1060
+	val1 : 3
+	val2 : 6
+k, s : 50, 1065
+	val1 : 3
+	val2 : 11
+k, s : 50, 1070
+	val1 : 2
+	val2 : 16
+k, s : 50, 1075
+	val1 : 3
+	val2 : 21
+k, s : 50, 1080
+	val1 : 3
+	val2 : 3
+k, s : 50, 1085
+	val1 : 2
+	val2 : 8
+k, s : 50, 1090
+	val1 : 3
+	val2 : 13
+k, s : 50, 1095
+	val1 : 3
+	val2 : 3
+k, s : 50, 1100
+	val1 : 2
+	val2 : 8
+k, s : 50, 1105
+	val1 : 2
+	val2 : 13
+k, s : 50, 1110
+	val1 : 3
+	val2 : 18
+k, s : 50, 1115
+	val1 : 2
+	val2 : 23
+k, s : 50, 1120
+	val1 : 2
+	val2 : 4
+k, s : 50, 1125
+	val1 : 2
+	val2 : 9
+k, s : 50, 1130
+	val1 : 2
+	val2 : 14
+k, s : 50, 1135
+	val1 : 2
+	val2 : 19
+k, s : 50, 1140
+	val1 : 2
+	val2 : 24
+k, s : 50, 1145
+	val1 : 2
+	val2 : 29
+k, s : 50, 1150
+	val1 : 2
+	val2 : 2
+k, s : 50, 1155
+	val1 : 2
+	val2 : 5
+k, s : 50, 1160
+	val1 : 3
+	val2 : 10
+k, s : 50, 1165
+	val1 : 2
+	val2 : 6
+k, s : 50, 1170
+	val1 : 2
+	val2 : 2
+k, s : 50, 1175
+	val1 : 3
+	val2 : 7
+k, s : 50, 1180
+	val1 : 2
+	val2 : 12
+k, s : 50, 1185
+	val1 : 3
+	val2 : 17
+k, s : 50, 1190
+	val1 : 2
+	val2 : 5
+k, s : 50, 1195
+	val1 : 2
+	val2 : 2
+k, s : 50, 1200
+	val1 : 2
+	val2 : 7
+k, s : 50, 1205
+	val1 : 3
+	val2 : 12
+k, s : 50, 1210
+	val1 : 2
+	val2 : 17
+k, s : 50, 1215
+	val1 : 3
+	val2 : 22
+k, s : 50, 1220
+	val1 : 2
+	val2 : 5
+k, s : 50, 1225
+	val1 : 2
+	val2 : 3
+k, s : 50, 1230
+	val1 : 2
+	val2 : 5
+k, s : 50, 1235
+	val1 : 3
+	val2 : 10
+k, s : 50, 1240
+	val1 : 3
+	val2 : 15
+k, s : 50, 1245
+	val1 : 3
+	val2 : 20
+k, s : 50, 1250
+	val1 : 3
+	val2 : 3
+k, s : 50, 1255
+	val1 : 2
+	val2 : 8
+k, s : 50, 1260
+	val1 : 3
+	val2 : 13
+k, s : 50, 1265
+	val1 : 2
+	val2 : 18
+k, s : 50, 1270
+	val1 : 2
+	val2 : 2
+k, s : 50, 1275
+	val1 : 3
+	val2 : 5
+k, s : 50, 1280
+	val1 : 3
+	val2 : 3
+k, s : 50, 1285
+	val1 : 3
+	val2 : 8
+k, s : 50, 1290
+	val1 : 3
+	val2 : 3
+k, s : 50, 1295
+	val1 : 3
+	val2 : 8
+k, s : 50, 1300
+	val1 : 2
+	val2 : 13
+k, s : 50, 1305
+	val1 : 2
+	val2 : 4
+k, s : 50, 1310
+	val1 : 2
+	val2 : 9
+k, s : 50, 1315
+	val1 : 2
+	val2 : 14
+k, s : 50, 1320
+	val1 : 2
+	val2 : 5
+k, s : 50, 1325
+	val1 : 3
+	val2 : 5
+k, s : 50, 1330
+	val1 : 3
+	val2 : 5
+k, s : 50, 1335
+	val1 : 3
+	val2 : 6
+k, s : 50, 1340
+	val1 : 3
+	val2 : 11
+k, s : 50, 1345
+	val1 : 3
+	val2 : 4
+k, s : 50, 1350
+	val1 : 3
+	val2 : 4
+k, s : 50, 1355
+	val1 : 3
+	val2 : 9
+k, s : 50, 1360
+	val1 : 3
+	val2 : 14
+k, s : 50, 1365
+	val1 : 3
+	val2 : 19
+k, s : 50, 1370
+	val1 : 3
+	val2 : 24
+k, s : 50, 1375
+	val1 : 3
+	val2 : 29
+k, s : 50, 1380
+	val1 : 3
+	val2 : 5
+k, s : 50, 1385
+	val1 : 3
+	val2 : 10
+k, s : 50, 1390
+	val1 : 3
+	val2 : 15
+k, s : 50, 1395
+	val1 : 3
+	val2 : 20
+k, s : 50, 1400
+	val1 : 3
+	val2 : 6
+k, s : 50, 1405
+	val1 : 3
+	val2 : 11
+k, s : 50, 1410
+	val1 : 3
+	val2 : 16
+k, s : 50, 1415
+	val1 : 3
+	val2 : 5
+k, s : 50, 1420
+	val1 : 3
+	val2 : 10
+k, s : 50, 1425
+	val1 : 3
+	val2 : 3
+k, s : 50, 1430
+	val1 : 3
+	val2 : 8
+k, s : 50, 1435
+	val1 : 3
+	val2 : 13
+k, s : 50, 1440
+	val1 : 3
+	val2 : 18
+k, s : 50, 1445
+	val1 : 3
+	val2 : 23
+k, s : 50, 1450
+	val1 : 3
+	val2 : 28
+k, s : 50, 1455
+	val1 : 3
+	val2 : 4
+k, s : 50, 1460
+	val1 : 3
+	val2 : 9
+k, s : 50, 1465
+	val1 : 3
+	val2 : 14
+k, s : 50, 1470
+	val1 : 3
+	val2 : 19
+k, s : 50, 1475
+	val1 : 3
+	val2 : 5
+k, s : 50, 1480
+	val1 : 3
+	val2 : 10
+k, s : 50, 1485
+	val1 : 3
+	val2 : 6
+k, s : 50, 1490
+	val1 : 3
+	val2 : 11
+k, s : 50, 1495
+	val1 : 3
+	val2 : 16
+k, s : 50, 1500
+	val1 : 3
+	val2 : 6
+k, s : 50, 1505
+	val1 : 3
+	val2 : 11
+k, s : 50, 1510
+	val1 : 3
+	val2 : 16
+k, s : 50, 1515
+	val1 : 3
+	val2 : 21
+k, s : 50, 1520
+	val1 : 3
+	val2 : 26
+k, s : 50, 1525
+	val1 : 3
+	val2 : 31
+k, s : 50, 1530
+	val1 : 3
+	val2 : 7
+k, s : 50, 1535
+	val1 : 3
+	val2 : 5
+k, s : 50, 1540
+	val1 : 3
+	val2 : 6
+k, s : 50, 1545
+	val1 : 3
+	val2 : 5
+k, s : 50, 1550
+	val1 : 3
+	val2 : 10
+k, s : 50, 1555
+	val1 : 3
+	val2 : 15
+k, s : 50, 1560
+	val1 : 3
+	val2 : 20
+k, s : 50, 1565
+	val1 : 3
+	val2 : 6
+k, s : 50, 1570
+	val1 : 3
+	val2 : 11
+k, s : 50, 1575
+	val1 : 3
+	val2 : 7
+k, s : 50, 1580
+	val1 : 3
+	val2 : 12
+k, s : 50, 1585
+	val1 : 3
+	val2 : 17
+k, s : 50, 1590
+	val1 : 3
+	val2 : 22
+k, s : 50, 1595
+	val1 : 3
+	val2 : 4
+k, s : 50, 1600
+	val1 : 3
+	val2 : 9
+k, s : 50, 1605
+	val1 : 3
+	val2 : 7
+k, s : 50, 1610
+	val1 : 3
+	val2 : 12
+k, s : 50, 1615
+	val1 : 3
+	val2 : 17
+k, s : 50, 1620
+	val1 : 3
+	val2 : 22
+k, s : 50, 1625
+	val1 : 3
+	val2 : 27
+k, s : 50, 1630
+	val1 : 3
+	val2 : 32
+k, s : 50, 1635
+	val1 : 3
+	val2 : 8
+k, s : 50, 1640
+	val1 : 3
+	val2 : 6
+k, s : 50, 1645
+	val1 : 3
+	val2 : 11
+k, s : 50, 1650
+	val1 : 3
+	val2 : 16
+k, s : 50, 1655
+	val1 : 3
+	val2 : 21
+k, s : 50, 1660
+	val1 : 3
+	val2 : 3
+k, s : 50, 1665
+	val1 : 3
+	val2 : 8
+k, s : 50, 1670
+	val1 : 3
+	val2 : 3
+k, s : 50, 1675
+	val1 : 3
+	val2 : 7
+k, s : 50, 1680
+	val1 : 3
+	val2 : 12
+k, s : 50, 1685
+	val1 : 3
+	val2 : 17
+k, s : 50, 1690
+	val1 : 3
+	val2 : 7
+k, s : 50, 1695
+	val1 : 3
+	val2 : 12
+k, s : 50, 1700
+	val1 : 3
+	val2 : 17
+k, s : 50, 1705
+	val1 : 3
+	val2 : 22
+k, s : 50, 1710
+	val1 : 3
+	val2 : 6
+k, s : 50, 1715
+	val1 : 3
+	val2 : 11
+k, s : 50, 1720
+	val1 : 3
+	val2 : 16
+k, s : 50, 1725
+	val1 : 3
+	val2 : 4
+k, s : 50, 1730
+	val1 : 3
+	val2 : 3
+k, s : 50, 1735
+	val1 : 3
+	val2 : 8
+k, s : 50, 1740
+	val1 : 3
+	val2 : 13
+k, s : 50, 1745
+	val1 : 3
+	val2 : 18
+k, s : 50, 1750
+	val1 : 3
+	val2 : 23
+k, s : 50, 1755
+	val1 : 3
+	val2 : 5
+k, s : 50, 1760
+	val1 : 3
+	val2 : 10
+k, s : 50, 1765
+	val1 : 3
+	val2 : 15
+k, s : 50, 1770
+	val1 : 3
+	val2 : 5
+k, s : 50, 1775
+	val1 : 3
+	val2 : 10
+k, s : 50, 1780
+	val1 : 3
+	val2 : 15
+k, s : 50, 1785
+	val1 : 3
+	val2 : 20
+k, s : 50, 1790
+	val1 : 3
+	val2 : 25
+k, s : 50, 1795
+	val1 : 3
+	val2 : 6
+k, s : 50, 1800
+	val1 : 3
+	val2 : 11
+k, s : 50, 1805
+	val1 : 3
+	val2 : 16
+k, s : 50, 1810
+	val1 : 3
+	val2 : 21
+k, s : 50, 1815
+	val1 : 3
+	val2 : 26
+k, s : 50, 1820
+	val1 : 3
+	val2 : 3
+k, s : 50, 1825
+	val1 : 3
+	val2 : 4
+k, s : 50, 1830
+	val1 : 3
+	val2 : 7
+k, s : 50, 1835
+	val1 : 3
+	val2 : 3
+k, s : 50, 1840
+	val1 : 3
+	val2 : 8
+k, s : 50, 1845
+	val1 : 3
+	val2 : 4
+k, s : 50, 1850
+	val1 : 3
+	val2 : 9
+k, s : 50, 1855
+	val1 : 3
+	val2 : 14
+k, s : 50, 1860
+	val1 : 3
+	val2 : 19
+k, s : 50, 1865
+	val1 : 3
+	val2 : 7
+k, s : 50, 1870
+	val1 : 3
+	val2 : 4
+k, s : 50, 1875
+	val1 : 3
+	val2 : 9
+k, s : 50, 1880
+	val1 : 3
+	val2 : 14
+k, s : 50, 1885
+	val1 : 3
+	val2 : 19
+k, s : 50, 1890
+	val1 : 3
+	val2 : 24
+k, s : 50, 1895
+	val1 : 3
+	val2 : 7
+k, s : 50, 1900
+	val1 : 4
+	val2 : 5
+k, s : 50, 1905
+	val1 : 3
+	val2 : 7
+k, s : 50, 1910
+	val1 : 3
+	val2 : 12
+k, s : 50, 1915
+	val1 : 3
+	val2 : 17
+k, s : 50, 1920
+	val1 : 3
+	val2 : 22
+k, s : 50, 1925
+	val1 : 3
+	val2 : 5
+k, s : 50, 1930
+	val1 : 3
+	val2 : 10
+k, s : 50, 1935
+	val1 : 3
+	val2 : 15
+k, s : 50, 1940
+	val1 : 4
+	val2 : 20
+k, s : 50, 1945
+	val1 : 4
+	val2 : 4
+k, s : 50, 1950
+	val1 : 4
+	val2 : 7
+k, s : 50, 1955
+	val1 : 3
+	val2 : 5
+k, s : 50, 1960
+	val1 : 3
+	val2 : 10
+k, s : 50, 1965
+	val1 : 3
+	val2 : 5
+k, s : 50, 1970
+	val1 : 3
+	val2 : 10
+k, s : 50, 1975
+	val1 : 3
+	val2 : 15
+k, s : 50, 1980
+	val1 : 3
+	val2 : 6
+k, s : 50, 1985
+	val1 : 4
+	val2 : 11
+k, s : 50, 1990
+	val1 : 4
+	val2 : 16
+k, s : 50, 1995
+	val1 : 3
+	val2 : 7
+k, s : 50, 2000
+	val1 : 3
+	val2 : 7
+k, s : 50, 400
+	val1 : 3
+	val2 : 6
+k, s : 50, 405
+	val1 : 2
+	val2 : 7
+k, s : 50, 410
+	val1 : 2
+	val2 : 3
+k, s : 50, 415
+	val1 : 3
+	val2 : 3
+k, s : 50, 420
+	val1 : 2
+	val2 : 2
+k, s : 50, 425
+	val1 : 2
+	val2 : 3
+k, s : 50, 430
+	val1 : 1
+	val2 : 1
+k, s : 50, 435
+	val1 : 2
+	val2 : 2
+k, s : 50, 440
+	val1 : 2
+	val2 : 4
+k, s : 50, 445
+	val1 : 2
+	val2 : 5
+k, s : 50, 450
+	val1 : 2
+	val2 : 6
+k, s : 50, 455
+	val1 : 2
+	val2 : 7
+k, s : 50, 460
+	val1 : 2
+	val2 : 3
+k, s : 50, 465
+	val1 : 2
+	val2 : 5
+k, s : 50, 470
+	val1 : 2
+	val2 : 6
+k, s : 50, 475
+	val1 : 2
+	val2 : 5
+k, s : 50, 480
+	val1 : 2
+	val2 : 3
+k, s : 50, 485
+	val1 : 2
+	val2 : 4
+k, s : 50, 490
+	val1 : 2
+	val2 : 5
+k, s : 50, 495
+	val1 : 2
+	val2 : 6
+k, s : 50, 500
+	val1 : 2
+	val2 : 3
+k, s : 50, 505
+	val1 : 3
+	val2 : 4
+k, s : 50, 510
+	val1 : 2
+	val2 : 3
+k, s : 50, 515
+	val1 : 2
+	val2 : 5
+k, s : 50, 520
+	val1 : 2
+	val2 : 2
+k, s : 50, 525
+	val1 : 3
+	val2 : 3
+k, s : 50, 530
+	val1 : 2
+	val2 : 4
+k, s : 50, 535
+	val1 : 2
+	val2 : 5
+k, s : 50, 540
+	val1 : 2
+	val2 : 2
+k, s : 50, 545
+	val1 : 2
+	val2 : 3
+k, s : 50, 550
+	val1 : 2
+	val2 : 2
+k, s : 50, 555
+	val1 : 2
+	val2 : 3
+k, s : 50, 560
+	val1 : 2
+	val2 : 4
+k, s : 50, 565
+	val1 : 2
+	val2 : 5
+k, s : 50, 570
+	val1 : 2
+	val2 : 6
+k, s : 50, 575
+	val1 : 2
+	val2 : 3
+k, s : 50, 580
+	val1 : 2
+	val2 : 4
+k, s : 50, 585
+	val1 : 2
+	val2 : 3
+k, s : 50, 590
+	val1 : 3
+	val2 : 4
+k, s : 50, 595
+	val1 : 2
+	val2 : 5
+k, s : 50, 600
+	val1 : 2
+	val2 : 2
+k, s : 50, 605
+	val1 : 2
+	val2 : 4
+k, s : 50, 610
+	val1 : 2
+	val2 : 5
+k, s : 50, 615
+	val1 : 3
+	val2 : 5
+k, s : 50, 620
+	val1 : 2
+	val2 : 6
+k, s : 50, 625
+	val1 : 2
+	val2 : 3
+k, s : 50, 630
+	val1 : 2
+	val2 : 4
+k, s : 50, 635
+	val1 : 2
+	val2 : 5
+k, s : 50, 640
+	val1 : 1
+	val2 : 1
+k, s : 50, 645
+	val1 : 2
+	val2 : 2
+k, s : 50, 650
+	val1 : 2
+	val2 : 3
+k, s : 50, 655
+	val1 : 2
+	val2 : 3
+k, s : 50, 660
+	val1 : 2
+	val2 : 4
+k, s : 50, 665
+	val1 : 3
+	val2 : 5
+k, s : 50, 670
+	val1 : 3
+	val2 : 3
+k, s : 50, 675
+	val1 : 2
+	val2 : 4
+k, s : 50, 680
+	val1 : 2
+	val2 : 5
+k, s : 50, 685
+	val1 : 2
+	val2 : 6
+k, s : 50, 690
+	val1 : 2
+	val2 : 3
+k, s : 50, 695
+	val1 : 2
+	val2 : 4
+k, s : 50, 700
+	val1 : 2
+	val2 : 3
+k, s : 50, 705
+	val1 : 2
+	val2 : 4
+k, s : 50, 710
+	val1 : 2
+	val2 : 5
+k, s : 50, 715
+	val1 : 2
+	val2 : 6
+k, s : 50, 720
+	val1 : 2
+	val2 : 2
+k, s : 50, 725
+	val1 : 2
+	val2 : 3
+k, s : 50, 730
+	val1 : 2
+	val2 : 4
+k, s : 50, 735
+	val1 : 2
+	val2 : 5
+k, s : 50, 740
+	val1 : 2
+	val2 : 6
+k, s : 50, 745
+	val1 : 3
+	val2 : 6
+k, s : 50, 750
+	val1 : 2
+	val2 : 7
+k, s : 50, 755
+	val1 : 2
+	val2 : 8
+k, s : 50, 760
+	val1 : 2
+	val2 : 4
+k, s : 50, 765
+	val1 : 2
+	val2 : 6
+k, s : 50, 770
+	val1 : 2
+	val2 : 5
+k, s : 50, 775
+	val1 : 2
+	val2 : 6
+k, s : 50, 780
+	val1 : 2
+	val2 : 4
+k, s : 50, 785
+	val1 : 2
+	val2 : 5
+k, s : 50, 790
+	val1 : 2
+	val2 : 6
+k, s : 50, 795
+	val1 : 2
+	val2 : 5
+k, s : 50, 800
+	val1 : 2
+	val2 : 6
+k, s : 50, 805
+	val1 : 3
+	val2 : 7
+k, s : 50, 810
+	val1 : 2
+	val2 : 8
+k, s : 50, 815
+	val1 : 2
+	val2 : 4
+k, s : 50, 820
+	val1 : 2
+	val2 : 6
+k, s : 50, 825
+	val1 : 3
+	val2 : 7
+k, s : 50, 830
+	val1 : 2
+	val2 : 6
+k, s : 50, 835
+	val1 : 2
+	val2 : 7
+k, s : 50, 840
+	val1 : 2
+	val2 : 8
+k, s : 50, 845
+	val1 : 3
+	val2 : 4
+k, s : 50, 850
+	val1 : 2
+	val2 : 6
+k, s : 50, 855
+	val1 : 2
+	val2 : 7
+k, s : 50, 860
+	val1 : 2
+	val2 : 6
+k, s : 50, 865
+	val1 : 3
+	val2 : 7
+k, s : 50, 870
+	val1 : 2
+	val2 : 8
+k, s : 50, 875
+	val1 : 2
+	val2 : 2
+k, s : 50, 880
+	val1 : 3
+	val2 : 3
+k, s : 50, 885
+	val1 : 3
+	val2 : 6
+k, s : 50, 890
+	val1 : 2
+	val2 : 4
+k, s : 50, 895
+	val1 : 2
+	val2 : 5
+k, s : 50, 900
+	val1 : 2
+	val2 : 6
+k, s : 50, 905
+	val1 : 2
+	val2 : 7
+k, s : 50, 910
+	val1 : 2
+	val2 : 4
+k, s : 50, 915
+	val1 : 2
+	val2 : 5
+k, s : 50, 920
+	val1 : 2
+	val2 : 4
+k, s : 50, 925
+	val1 : 3
+	val2 : 5
+k, s : 50, 930
+	val1 : 2
+	val2 : 6
+k, s : 50, 935
+	val1 : 2
+	val2 : 4
+k, s : 50, 940
+	val1 : 2
+	val2 : 4
+k, s : 50, 945
+	val1 : 3
+	val2 : 6
+k, s : 50, 950
+	val1 : 2
+	val2 : 7
+k, s : 50, 955
+	val1 : 2
+	val2 : 8
+k, s : 50, 960
+	val1 : 2
+	val2 : 5
+k, s : 50, 965
+	val1 : 2
+	val2 : 2
+k, s : 50, 970
+	val1 : 2
+	val2 : 3
+k, s : 50, 975
+	val1 : 3
+	val2 : 4
+k, s : 50, 980
+	val1 : 2
+	val2 : 5
+k, s : 50, 985
+	val1 : 3
+	val2 : 5
+k, s : 50, 990
+	val1 : 2
+	val2 : 7
+k, s : 50, 995
+	val1 : 3
+	val2 : 5
+k, s : 50, 1000
+	val1 : 2
+	val2 : 6
+k, s : 50, 1005
+	val1 : 2
+	val2 : 3
+k, s : 50, 1010
+	val1 : 3
+	val2 : 4
+k, s : 50, 1015
+	val1 : 2
+	val2 : 5
+k, s : 50, 1020
+	val1 : 3
+	val2 : 5
+k, s : 50, 1025
+	val1 : 2
+	val2 : 6
+k, s : 50, 1030
+	val1 : 2
+	val2 : 4
+k, s : 50, 1035
+	val1 : 2
+	val2 : 4
+k, s : 50, 1040
+	val1 : 2
+	val2 : 5
+k, s : 50, 1045
+	val1 : 3
+	val2 : 6
+k, s : 50, 1050
+	val1 : 2
+	val2 : 7
+k, s : 50, 1055
+	val1 : 3
+	val2 : 4
+k, s : 50, 1060
+	val1 : 2
+	val2 : 3
+k, s : 50, 1065
+	val1 : 3
+	val2 : 4
+k, s : 50, 1070
+	val1 : 2
+	val2 : 5
+k, s : 50, 1075
+	val1 : 3
+	val2 : 6
+k, s : 50, 1080
+	val1 : 2
+	val2 : 3
+k, s : 50, 1085
+	val1 : 2
+	val2 : 2
+k, s : 50, 1090
+	val1 : 2
+	val2 : 5
+k, s : 50, 1095
+	val1 : 2
+	val2 : 2
+k, s : 50, 1100
+	val1 : 3
+	val2 : 4
+k, s : 50, 1105
+	val1 : 2
+	val2 : 2
+k, s : 50, 1110
+	val1 : 2
+	val2 : 3
+k, s : 50, 1115
+	val1 : 3
+	val2 : 4
+k, s : 50, 1120
+	val1 : 3
+	val2 : 5
+k, s : 50, 1125
+	val1 : 2
+	val2 : 6
+k, s : 50, 1130
+	val1 : 2
+	val2 : 3
+k, s : 50, 1135
+	val1 : 3
+	val2 : 4
+k, s : 50, 1140
+	val1 : 3
+	val2 : 3
+k, s : 50, 1145
+	val1 : 3
+	val2 : 4
+k, s : 50, 1150
+	val1 : 3
+	val2 : 6
+k, s : 50, 1155
+	val1 : 2
+	val2 : 7
+k, s : 50, 1160
+	val1 : 3
+	val2 : 8
+k, s : 50, 1165
+	val1 : 3
+	val2 : 4
+k, s : 50, 1170
+	val1 : 3
+	val2 : 6
+k, s : 50, 1175
+	val1 : 3
+	val2 : 7
+k, s : 50, 1180
+	val1 : 3
+	val2 : 3
+k, s : 50, 1185
+	val1 : 3
+	val2 : 4
+k, s : 50, 1190
+	val1 : 3
+	val2 : 5
+k, s : 50, 1195
+	val1 : 3
+	val2 : 6
+k, s : 50, 1200
+	val1 : 3
+	val2 : 7
+k, s : 50, 1205
+	val1 : 2
+	val2 : 3
+k, s : 50, 1210
+	val1 : 2
+	val2 : 5
+k, s : 50, 1215
+	val1 : 3
+	val2 : 6
+k, s : 50, 1220
+	val1 : 3
+	val2 : 5
+k, s : 50, 1225
+	val1 : 2
+	val2 : 6
+k, s : 50, 1230
+	val1 : 3
+	val2 : 7
+k, s : 50, 1235
+	val1 : 3
+	val2 : 8
+k, s : 50, 1240
+	val1 : 3
+	val2 : 4
+k, s : 50, 1245
+	val1 : 3
+	val2 : 6
+k, s : 50, 1250
+	val1 : 3
+	val2 : 7
+k, s : 50, 1255
+	val1 : 2
+	val2 : 6
+k, s : 50, 1260
+	val1 : 3
+	val2 : 7
+k, s : 50, 1265
+	val1 : 3
+	val2 : 8
+k, s : 50, 1270
+	val1 : 2
+	val2 : 2
+k, s : 50, 1275
+	val1 : 3
+	val2 : 3
+k, s : 50, 1280
+	val1 : 2
+	val2 : 3
+k, s : 50, 1285
+	val1 : 3
+	val2 : 4
+k, s : 50, 1290
+	val1 : 3
+	val2 : 5
+k, s : 50, 1295
+	val1 : 3
+	val2 : 6
+k, s : 50, 1300
+	val1 : 3
+	val2 : 7
+k, s : 50, 1305
+	val1 : 3
+	val2 : 8
+k, s : 50, 1310
+	val1 : 3
+	val2 : 4
+k, s : 50, 1315
+	val1 : 3
+	val2 : 5
+k, s : 50, 1320
+	val1 : 3
+	val2 : 6
+k, s : 50, 1325
+	val1 : 3
+	val2 : 6
+k, s : 50, 1330
+	val1 : 3
+	val2 : 7
+k, s : 50, 1335
+	val1 : 3
+	val2 : 8
+k, s : 50, 1340
+	val1 : 3
+	val2 : 6
+k, s : 50, 1345
+	val1 : 3
+	val2 : 7
+k, s : 50, 1350
+	val1 : 3
+	val2 : 8
+k, s : 50, 1355
+	val1 : 3
+	val2 : 4
+k, s : 50, 1360
+	val1 : 3
+	val2 : 6
+k, s : 50, 1365
+	val1 : 3
+	val2 : 7
+k, s : 50, 1370
+	val1 : 3
+	val2 : 6
+k, s : 50, 1375
+	val1 : 3
+	val2 : 7
+k, s : 50, 1380
+	val1 : 3
+	val2 : 8
+k, s : 50, 1385
+	val1 : 3
+	val2 : 4
+k, s : 50, 1390
+	val1 : 3
+	val2 : 5
+k, s : 50, 1395
+	val1 : 3
+	val2 : 6
+k, s : 50, 1400
+	val1 : 3
+	val2 : 7
+k, s : 50, 1405
+	val1 : 3
+	val2 : 8
+k, s : 50, 1410
+	val1 : 3
+	val2 : 4
+k, s : 50, 1415
+	val1 : 3
+	val2 : 5
+k, s : 50, 1420
+	val1 : 3
+	val2 : 6
+k, s : 50, 1425
+	val1 : 3
+	val2 : 7
+k, s : 50, 1430
+	val1 : 3
+	val2 : 4
+k, s : 50, 1435
+	val1 : 3
+	val2 : 3
+k, s : 50, 1440
+	val1 : 3
+	val2 : 4
+k, s : 50, 1445
+	val1 : 3
+	val2 : 5
+k, s : 50, 1450
+	val1 : 3
+	val2 : 7
+k, s : 50, 1455
+	val1 : 3
+	val2 : 8
+k, s : 50, 1460
+	val1 : 3
+	val2 : 3
+k, s : 50, 1465
+	val1 : 3
+	val2 : 4
+k, s : 50, 1470
+	val1 : 3
+	val2 : 5
+k, s : 50, 1475
+	val1 : 3
+	val2 : 6
+k, s : 50, 1480
+	val1 : 3
+	val2 : 7
+k, s : 50, 1485
+	val1 : 3
+	val2 : 4
+k, s : 50, 1490
+	val1 : 3
+	val2 : 5
+k, s : 50, 1495
+	val1 : 3
+	val2 : 4
+k, s : 50, 1500
+	val1 : 3
+	val2 : 5
+k, s : 50, 1505
+	val1 : 3
+	val2 : 6
+k, s : 50, 1510
+	val1 : 3
+	val2 : 7
+k, s : 50, 1515
+	val1 : 3
+	val2 : 4
+k, s : 50, 1520
+	val1 : 3
+	val2 : 5
+k, s : 50, 1525
+	val1 : 3
+	val2 : 4
+k, s : 50, 1530
+	val1 : 3
+	val2 : 5
+k, s : 50, 1535
+	val1 : 3
+	val2 : 6
+k, s : 50, 1540
+	val1 : 3
+	val2 : 7
+k, s : 50, 1545
+	val1 : 3
+	val2 : 5
+k, s : 50, 1550
+	val1 : 3
+	val2 : 4
+k, s : 50, 1555
+	val1 : 3
+	val2 : 5
+k, s : 50, 1560
+	val1 : 3
+	val2 : 7
+k, s : 50, 1565
+	val1 : 3
+	val2 : 8
+k, s : 50, 1570
+	val1 : 3
+	val2 : 9
+k, s : 50, 1575
+	val1 : 3
+	val2 : 5
+k, s : 50, 1580
+	val1 : 3
+	val2 : 7
+k, s : 50, 1585
+	val1 : 3
+	val2 : 8
+k, s : 50, 1590
+	val1 : 3
+	val2 : 7
+k, s : 50, 1595
+	val1 : 3
+	val2 : 8
+k, s : 50, 1600
+	val1 : 3
+	val2 : 9
+k, s : 50, 1605
+	val1 : 3
+	val2 : 7
+k, s : 50, 1610
+	val1 : 3
+	val2 : 4
+k, s : 50, 1615
+	val1 : 3
+	val2 : 5
+k, s : 50, 1620
+	val1 : 3
+	val2 : 6
+k, s : 50, 1625
+	val1 : 3
+	val2 : 3
+k, s : 50, 1630
+	val1 : 3
+	val2 : 4
+k, s : 50, 1635
+	val1 : 3
+	val2 : 5
+k, s : 50, 1640
+	val1 : 3
+	val2 : 6
+k, s : 50, 1645
+	val1 : 3
+	val2 : 7
+k, s : 50, 1650
+	val1 : 3
+	val2 : 8
+k, s : 50, 1655
+	val1 : 3
+	val2 : 5
+k, s : 50, 1660
+	val1 : 3
+	val2 : 3
+k, s : 50, 1665
+	val1 : 3
+	val2 : 4
+k, s : 50, 1670
+	val1 : 3
+	val2 : 5
+k, s : 50, 1675
+	val1 : 3
+	val2 : 6
+k, s : 50, 1680
+	val1 : 3
+	val2 : 7
+k, s : 50, 1685
+	val1 : 3
+	val2 : 3
+k, s : 50, 1690
+	val1 : 3
+	val2 : 4
+k, s : 50, 1695
+	val1 : 3
+	val2 : 4
+k, s : 50, 1700
+	val1 : 3
+	val2 : 7
+k, s : 50, 1705
+	val1 : 3
+	val2 : 7
+k, s : 50, 1710
+	val1 : 3
+	val2 : 8
+k, s : 50, 1715
+	val1 : 3
+	val2 : 9
+k, s : 50, 1720
+	val1 : 3
+	val2 : 5
+k, s : 50, 1725
+	val1 : 3
+	val2 : 7
+k, s : 50, 1730
+	val1 : 3
+	val2 : 6
+k, s : 50, 1735
+	val1 : 3
+	val2 : 7
+k, s : 50, 1740
+	val1 : 3
+	val2 : 8
+k, s : 50, 1745
+	val1 : 3
+	val2 : 4
+k, s : 50, 1750
+	val1 : 3
+	val2 : 4
+k, s : 50, 1755
+	val1 : 3
+	val2 : 3
+k, s : 50, 1760
+	val1 : 4
+	val2 : 4
+k, s : 50, 1765
+	val1 : 3
+	val2 : 3
+k, s : 50, 1770
+	val1 : 3
+	val2 : 7
+k, s : 50, 1775
+	val1 : 3
+	val2 : 5
+k, s : 50, 1780
+	val1 : 4
+	val2 : 6
+k, s : 50, 1785
+	val1 : 3
+	val2 : 7
+k, s : 50, 1790
+	val1 : 3
+	val2 : 8
+k, s : 50, 1795
+	val1 : 3
+	val2 : 4
+k, s : 50, 1800
+	val1 : 3
+	val2 : 6
+k, s : 50, 1805
+	val1 : 3
+	val2 : 7
+k, s : 50, 1810
+	val1 : 3
+	val2 : 6
+k, s : 50, 1815
+	val1 : 3
+	val2 : 4
+k, s : 50, 1820
+	val1 : 3
+	val2 : 5
+k, s : 50, 1825
+	val1 : 3
+	val2 : 6
+k, s : 50, 1830
+	val1 : 4
+	val2 : 7
+k, s : 50, 1835
+	val1 : 3
+	val2 : 4
+k, s : 50, 1840
+	val1 : 3
+	val2 : 5
+k, s : 50, 1845
+	val1 : 3
+	val2 : 4
+k, s : 50, 1850
+	val1 : 3
+	val2 : 6
+k, s : 50, 1855
+	val1 : 3
+	val2 : 3
+k, s : 50, 1860
+	val1 : 4
+	val2 : 4
+k, s : 50, 1865
+	val1 : 3
+	val2 : 5
+k, s : 50, 1870
+	val1 : 3
+	val2 : 6
+k, s : 50, 1875
+	val1 : 3
+	val2 : 6
+k, s : 50, 1880
+	val1 : 3
+	val2 : 8
+k, s : 50, 1885
+	val1 : 3
+	val2 : 9
+k, s : 50, 1890
+	val1 : 3
+	val2 : 4
+k, s : 50, 1895
+	val1 : 3
+	val2 : 5
+k, s : 50, 1900
+	val1 : 4
+	val2 : 6
+k, s : 50, 1905
+	val1 : 3
+	val2 : 7
+k, s : 50, 1910
+	val1 : 3
+	val2 : 4
+k, s : 50, 1915
+	val1 : 4
+	val2 : 5
+k, s : 50, 1920
+	val1 : 3
+	val2 : 4
+k, s : 50, 1925
+	val1 : 4
+	val2 : 5
+k, s : 50, 1930
+	val1 : 4
+	val2 : 6
+k, s : 50, 1935
+	val1 : 3
+	val2 : 3
+k, s : 50, 1940
+	val1 : 4
+	val2 : 5
+k, s : 50, 1945
+	val1 : 4
+	val2 : 6
+k, s : 50, 1950
+	val1 : 4
+	val2 : 6
+k, s : 50, 1955
+	val1 : 4
+	val2 : 7
+k, s : 50, 1960
+	val1 : 4
+	val2 : 4
+k, s : 50, 1965
+	val1 : 4
+	val2 : 5
+k, s : 50, 1970
+	val1 : 4
+	val2 : 6
+k, s : 50, 1975
+	val1 : 4
+	val2 : 7
+k, s : 50, 1980
+	val1 : 4
+	val2 : 7
+k, s : 50, 1985
+	val1 : 4
+	val2 : 8
+k, s : 50, 1990
+	val1 : 4
+	val2 : 4
+k, s : 50, 1995
+	val1 : 4
+	val2 : 5
+k, s : 50, 2000
+	val1 : 4
+	val2 : 6
+k, s : 50, 400
+	val1 : 2
+	val2 : 3
+k, s : 50, 405
+	val1 : 3
+	val2 : 8
+k, s : 50, 410
+	val1 : 2
+	val2 : 2
+k, s : 50, 415
+	val1 : 2
+	val2 : 3
+k, s : 50, 420
+	val1 : 3
+	val2 : 3
+k, s : 50, 425
+	val1 : 2
+	val2 : 2
+k, s : 50, 430
+	val1 : 2
+	val2 : 3
+k, s : 50, 435
+	val1 : 2
+	val2 : 4
+k, s : 50, 440
+	val1 : 3
+	val2 : 3
+k, s : 50, 445
+	val1 : 2
+	val2 : 3
+k, s : 50, 450
+	val1 : 2
+	val2 : 3
+k, s : 50, 455
+	val1 : 1
+	val2 : 1
+k, s : 50, 460
+	val1 : 2
+	val2 : 6
+k, s : 50, 465
+	val1 : 3
+	val2 : 6
+k, s : 50, 470
+	val1 : 2
+	val2 : 6
+k, s : 50, 475
+	val1 : 3
+	val2 : 6
+k, s : 50, 480
+	val1 : 3
+	val2 : 5
+k, s : 50, 485
+	val1 : 2
+	val2 : 5
+k, s : 50, 490
+	val1 : 2
+	val2 : 5
+k, s : 50, 495
+	val1 : 2
+	val2 : 5
+k, s : 50, 500
+	val1 : 2
+	val2 : 2
+k, s : 50, 505
+	val1 : 2
+	val2 : 2
+k, s : 50, 510
+	val1 : 2
+	val2 : 2
+k, s : 50, 515
+	val1 : 3
+	val2 : 7
+k, s : 50, 520
+	val1 : 3
+	val2 : 7
+k, s : 50, 525
+	val1 : 2
+	val2 : 7
+k, s : 50, 530
+	val1 : 2
+	val2 : 6
+k, s : 50, 535
+	val1 : 1
+	val2 : 1
+k, s : 50, 540
+	val1 : 2
+	val2 : 6
+k, s : 50, 545
+	val1 : 2
+	val2 : 6
+k, s : 50, 550
+	val1 : 2
+	val2 : 6
+k, s : 50, 555
+	val1 : 2
+	val2 : 6
+k, s : 50, 560
+	val1 : 2
+	val2 : 5
+k, s : 50, 565
+	val1 : 3
+	val2 : 5
+k, s : 50, 570
+	val1 : 3
+	val2 : 5
+k, s : 50, 575
+	val1 : 2
+	val2 : 5
+k, s : 50, 580
+	val1 : 1
+	val2 : 1
+k, s : 50, 585
+	val1 : 2
+	val2 : 6
+k, s : 50, 590
+	val1 : 2
+	val2 : 6
+k, s : 50, 595
+	val1 : 2
+	val2 : 3
+k, s : 50, 600
+	val1 : 2
+	val2 : 3
+k, s : 50, 605
+	val1 : 2
+	val2 : 3
+k, s : 50, 610
+	val1 : 2
+	val2 : 5
+k, s : 50, 615
+	val1 : 2
+	val2 : 5
+k, s : 50, 620
+	val1 : 2
+	val2 : 5
+k, s : 50, 625
+	val1 : 2
+	val2 : 5
+k, s : 50, 630
+	val1 : 2
+	val2 : 5
+k, s : 50, 635
+	val1 : 2
+	val2 : 4
+k, s : 50, 640
+	val1 : 2
+	val2 : 2
+k, s : 50, 645
+	val1 : 2
+	val2 : 2
+k, s : 50, 650
+	val1 : 2
+	val2 : 7
+k, s : 50, 655
+	val1 : 2
+	val2 : 7
+k, s : 50, 660
+	val1 : 2
+	val2 : 7
+k, s : 50, 665
+	val1 : 3
+	val2 : 6
+k, s : 50, 670
+	val1 : 2
+	val2 : 6
+k, s : 50, 675
+	val1 : 2
+	val2 : 6
+k, s : 50, 680
+	val1 : 2
+	val2 : 6
+k, s : 50, 685
+	val1 : 2
+	val2 : 4
+k, s : 50, 690
+	val1 : 2
+	val2 : 4
+k, s : 50, 695
+	val1 : 2
+	val2 : 4
+k, s : 50, 700
+	val1 : 2
+	val2 : 4
+k, s : 50, 705
+	val1 : 2
+	val2 : 3
+k, s : 50, 710
+	val1 : 2
+	val2 : 3
+k, s : 50, 715
+	val1 : 2
+	val2 : 8
+k, s : 50, 720
+	val1 : 3
+	val2 : 8
+k, s : 50, 725
+	val1 : 2
+	val2 : 8
+k, s : 50, 730
+	val1 : 2
+	val2 : 4
+k, s : 50, 735
+	val1 : 2
+	val2 : 4
+k, s : 50, 740
+	val1 : 2
+	val2 : 2
+k, s : 50, 745
+	val1 : 3
+	val2 : 7
+k, s : 50, 750
+	val1 : 2
+	val2 : 7
+k, s : 50, 755
+	val1 : 2
+	val2 : 7
+k, s : 50, 760
+	val1 : 3
+	val2 : 4
+k, s : 50, 765
+	val1 : 3
+	val2 : 4
+k, s : 50, 770
+	val1 : 2
+	val2 : 4
+k, s : 50, 775
+	val1 : 2
+	val2 : 6
+k, s : 50, 780
+	val1 : 2
+	val2 : 6
+k, s : 50, 785
+	val1 : 2
+	val2 : 6
+k, s : 50, 790
+	val1 : 2
+	val2 : 6
+k, s : 50, 795
+	val1 : 2
+	val2 : 6
+k, s : 50, 800
+	val1 : 2
+	val2 : 5
+k, s : 50, 805
+	val1 : 2
+	val2 : 5
+k, s : 50, 810
+	val1 : 3
+	val2 : 5
+k, s : 50, 815
+	val1 : 2
+	val2 : 10
+k, s : 50, 820
+	val1 : 2
+	val2 : 4
+k, s : 50, 825
+	val1 : 3
+	val2 : 6
+k, s : 50, 830
+	val1 : 3
+	val2 : 6
+k, s : 50, 835
+	val1 : 3
+	val2 : 4
+k, s : 50, 840
+	val1 : 2
+	val2 : 2
+k, s : 50, 845
+	val1 : 2
+	val2 : 7
+k, s : 50, 850
+	val1 : 2
+	val2 : 2
+k, s : 50, 855
+	val1 : 2
+	val2 : 5
+k, s : 50, 860
+	val1 : 2
+	val2 : 5
+k, s : 50, 865
+	val1 : 2
+	val2 : 5
+k, s : 50, 870
+	val1 : 2
+	val2 : 5
+k, s : 50, 875
+	val1 : 2
+	val2 : 4
+k, s : 50, 880
+	val1 : 3
+	val2 : 4
+k, s : 50, 885
+	val1 : 3
+	val2 : 9
+k, s : 50, 890
+	val1 : 2
+	val2 : 9
+k, s : 50, 895
+	val1 : 3
+	val2 : 9
+k, s : 50, 900
+	val1 : 3
+	val2 : 5
+k, s : 50, 905
+	val1 : 3
+	val2 : 3
+k, s : 50, 910
+	val1 : 2
+	val2 : 3
+k, s : 50, 915
+	val1 : 2
+	val2 : 8
+k, s : 50, 920
+	val1 : 2
+	val2 : 8
+k, s : 50, 925
+	val1 : 3
+	val2 : 8
+k, s : 50, 930
+	val1 : 2
+	val2 : 7
+k, s : 50, 935
+	val1 : 2
+	val2 : 4
+k, s : 50, 940
+	val1 : 2
+	val2 : 4
+k, s : 50, 945
+	val1 : 3
+	val2 : 4
+k, s : 50, 950
+	val1 : 2
+	val2 : 9
+k, s : 50, 955
+	val1 : 2
+	val2 : 3
+k, s : 50, 960
+	val1 : 2
+	val2 : 2
+k, s : 50, 965
+	val1 : 2
+	val2 : 7
+k, s : 50, 970
+	val1 : 3
+	val2 : 7
+k, s : 50, 975
+	val1 : 3
+	val2 : 7
+k, s : 50, 980
+	val1 : 3
+	val2 : 7
+k, s : 50, 985
+	val1 : 2
+	val2 : 2
+k, s : 50, 990
+	val1 : 2
+	val2 : 2
+k, s : 50, 995
+	val1 : 2
+	val2 : 7
+k, s : 50, 1000
+	val1 : 2
+	val2 : 7
+k, s : 50, 1005
+	val1 : 3
+	val2 : 7
+k, s : 50, 1010
+	val1 : 3
+	val2 : 7
+k, s : 50, 1015
+	val1 : 3
+	val2 : 6
+k, s : 50, 1020
+	val1 : 2
+	val2 : 6
+k, s : 50, 1025
+	val1 : 2
+	val2 : 3
+k, s : 50, 1030
+	val1 : 2
+	val2 : 3
+k, s : 50, 1035
+	val1 : 2
+	val2 : 6
+k, s : 50, 1040
+	val1 : 3
+	val2 : 4
+k, s : 50, 1045
+	val1 : 2
+	val2 : 4
+k, s : 50, 1050
+	val1 : 3
+	val2 : 4
+k, s : 50, 1055
+	val1 : 3
+	val2 : 4
+k, s : 50, 1060
+	val1 : 2
+	val2 : 9
+k, s : 50, 1065
+	val1 : 2
+	val2 : 3
+k, s : 50, 1070
+	val1 : 2
+	val2 : 2
+k, s : 50, 1075
+	val1 : 3
+	val2 : 7
+k, s : 50, 1080
+	val1 : 3
+	val2 : 7
+k, s : 50, 1085
+	val1 : 3
+	val2 : 7
+k, s : 50, 1090
+	val1 : 2
+	val2 : 7
+k, s : 50, 1095
+	val1 : 2
+	val2 : 2
+k, s : 50, 1100
+	val1 : 3
+	val2 : 7
+k, s : 50, 1105
+	val1 : 2
+	val2 : 7
+k, s : 50, 1110
+	val1 : 2
+	val2 : 2
+k, s : 50, 1115
+	val1 : 2
+	val2 : 3
+k, s : 50, 1120
+	val1 : 2
+	val2 : 2
+k, s : 50, 1125
+	val1 : 3
+	val2 : 7
+k, s : 50, 1130
+	val1 : 3
+	val2 : 7
+k, s : 50, 1135
+	val1 : 2
+	val2 : 4
+k, s : 50, 1140
+	val1 : 3
+	val2 : 5
+k, s : 50, 1145
+	val1 : 3
+	val2 : 5
+k, s : 50, 1150
+	val1 : 3
+	val2 : 5
+k, s : 50, 1155
+	val1 : 3
+	val2 : 5
+k, s : 50, 1160
+	val1 : 2
+	val2 : 4
+k, s : 50, 1165
+	val1 : 3
+	val2 : 4
+k, s : 50, 1170
+	val1 : 3
+	val2 : 9
+k, s : 50, 1175
+	val1 : 3
+	val2 : 9
+k, s : 50, 1180
+	val1 : 3
+	val2 : 9
+k, s : 50, 1185
+	val1 : 2
+	val2 : 2
+k, s : 50, 1190
+	val1 : 3
+	val2 : 6
+k, s : 50, 1195
+	val1 : 3
+	val2 : 6
+k, s : 50, 1200
+	val1 : 2
+	val2 : 6
+k, s : 50, 1205
+	val1 : 3
+	val2 : 6
+k, s : 50, 1210
+	val1 : 3
+	val2 : 5
+k, s : 50, 1215
+	val1 : 3
+	val2 : 5
+k, s : 50, 1220
+	val1 : 3
+	val2 : 5
+k, s : 50, 1225
+	val1 : 2
+	val2 : 5
+k, s : 50, 1230
+	val1 : 3
+	val2 : 5
+k, s : 50, 1235
+	val1 : 3
+	val2 : 5
+k, s : 50, 1240
+	val1 : 3
+	val2 : 4
+k, s : 50, 1245
+	val1 : 2
+	val2 : 4
+k, s : 50, 1250
+	val1 : 2
+	val2 : 4
+k, s : 50, 1255
+	val1 : 3
+	val2 : 4
+k, s : 50, 1260
+	val1 : 3
+	val2 : 9
+k, s : 50, 1265
+	val1 : 3
+	val2 : 5
+k, s : 50, 1270
+	val1 : 3
+	val2 : 5
+k, s : 50, 1275
+	val1 : 2
+	val2 : 2
+k, s : 50, 1280
+	val1 : 3
+	val2 : 7
+k, s : 50, 1285
+	val1 : 3
+	val2 : 7
+k, s : 50, 1290
+	val1 : 3
+	val2 : 4
+k, s : 50, 1295
+	val1 : 3
+	val2 : 4
+k, s : 50, 1300
+	val1 : 3
+	val2 : 4
+k, s : 50, 1305
+	val1 : 3
+	val2 : 4
+k, s : 50, 1310
+	val1 : 3
+	val2 : 9
+k, s : 50, 1315
+	val1 : 3
+	val2 : 3
+k, s : 50, 1320
+	val1 : 3
+	val2 : 3
+k, s : 50, 1325
+	val1 : 3
+	val2 : 6
+k, s : 50, 1330
+	val1 : 3
+	val2 : 6
+k, s : 50, 1335
+	val1 : 3
+	val2 : 6
+k, s : 50, 1340
+	val1 : 3
+	val2 : 6
+k, s : 50, 1345
+	val1 : 3
+	val2 : 5
+k, s : 50, 1350
+	val1 : 3
+	val2 : 5
+k, s : 50, 1355
+	val1 : 3
+	val2 : 5
+k, s : 50, 1360
+	val1 : 3
+	val2 : 10
+k, s : 50, 1365
+	val1 : 3
+	val2 : 3
+k, s : 50, 1370
+	val1 : 3
+	val2 : 3
+k, s : 50, 1375
+	val1 : 3
+	val2 : 8
+k, s : 50, 1380
+	val1 : 3
+	val2 : 8
+k, s : 50, 1385
+	val1 : 3
+	val2 : 8
+k, s : 50, 1390
+	val1 : 3
+	val2 : 7
+k, s : 50, 1395
+	val1 : 3
+	val2 : 7
+k, s : 50, 1400
+	val1 : 3
+	val2 : 7
+k, s : 50, 1405
+	val1 : 3
+	val2 : 7
+k, s : 50, 1410
+	val1 : 3
+	val2 : 3
+k, s : 50, 1415
+	val1 : 3
+	val2 : 8
+k, s : 50, 1420
+	val1 : 3
+	val2 : 4
+k, s : 50, 1425
+	val1 : 3
+	val2 : 6
+k, s : 50, 1430
+	val1 : 3
+	val2 : 6
+k, s : 50, 1435
+	val1 : 3
+	val2 : 6
+k, s : 50, 1440
+	val1 : 3
+	val2 : 3
+k, s : 50, 1445
+	val1 : 3
+	val2 : 8
+k, s : 50, 1450
+	val1 : 3
+	val2 : 8
+k, s : 50, 1455
+	val1 : 3
+	val2 : 5
+k, s : 50, 1460
+	val1 : 3
+	val2 : 5
+k, s : 50, 1465
+	val1 : 3
+	val2 : 5
+k, s : 50, 1470
+	val1 : 3
+	val2 : 5
+k, s : 50, 1475
+	val1 : 3
+	val2 : 10
+k, s : 50, 1480
+	val1 : 3
+	val2 : 4
+k, s : 50, 1485
+	val1 : 3
+	val2 : 9
+k, s : 50, 1490
+	val1 : 3
+	val2 : 9
+k, s : 50, 1495
+	val1 : 3
+	val2 : 9
+k, s : 50, 1500
+	val1 : 3
+	val2 : 9
+k, s : 50, 1505
+	val1 : 3
+	val2 : 5
+k, s : 50, 1510
+	val1 : 3
+	val2 : 5
+k, s : 50, 1515
+	val1 : 3
+	val2 : 4
+k, s : 50, 1520
+	val1 : 3
+	val2 : 8
+k, s : 50, 1525
+	val1 : 3
+	val2 : 6
+k, s : 50, 1530
+	val1 : 3
+	val2 : 6
+k, s : 50, 1535
+	val1 : 3
+	val2 : 4
+k, s : 50, 1540
+	val1 : 3
+	val2 : 4
+k, s : 50, 1545
+	val1 : 3
+	val2 : 9
+k, s : 50, 1550
+	val1 : 3
+	val2 : 9
+k, s : 50, 1555
+	val1 : 3
+	val2 : 9
+k, s : 50, 1560
+	val1 : 3
+	val2 : 8
+k, s : 50, 1565
+	val1 : 3
+	val2 : 8
+k, s : 50, 1570
+	val1 : 3
+	val2 : 8
+k, s : 50, 1575
+	val1 : 3
+	val2 : 8
+k, s : 50, 1580
+	val1 : 3
+	val2 : 4
+k, s : 50, 1585
+	val1 : 3
+	val2 : 4
+k, s : 50, 1590
+	val1 : 3
+	val2 : 7
+k, s : 50, 1595
+	val1 : 3
+	val2 : 7
+k, s : 50, 1600
+	val1 : 3
+	val2 : 7
+k, s : 50, 1605
+	val1 : 3
+	val2 : 7
+k, s : 50, 1610
+	val1 : 3
+	val2 : 6
+k, s : 50, 1615
+	val1 : 3
+	val2 : 3
+k, s : 50, 1620
+	val1 : 3
+	val2 : 8
+k, s : 50, 1625
+	val1 : 3
+	val2 : 8
+k, s : 50, 1630
+	val1 : 3
+	val2 : 8
+k, s : 50, 1635
+	val1 : 3
+	val2 : 8
+k, s : 50, 1640
+	val1 : 3
+	val2 : 3
+k, s : 50, 1645
+	val1 : 3
+	val2 : 6
+k, s : 50, 1650
+	val1 : 3
+	val2 : 6
+k, s : 50, 1655
+	val1 : 3
+	val2 : 6
+k, s : 50, 1660
+	val1 : 3
+	val2 : 6
+k, s : 50, 1665
+	val1 : 3
+	val2 : 5
+k, s : 50, 1670
+	val1 : 3
+	val2 : 6
+k, s : 50, 1675
+	val1 : 3
+	val2 : 6
+k, s : 50, 1680
+	val1 : 3
+	val2 : 6
+k, s : 50, 1685
+	val1 : 3
+	val2 : 6
+k, s : 50, 1690
+	val1 : 3
+	val2 : 6
+k, s : 50, 1695
+	val1 : 3
+	val2 : 5
+k, s : 50, 1700
+	val1 : 3
+	val2 : 5
+k, s : 50, 1705
+	val1 : 3
+	val2 : 4
+k, s : 50, 1710
+	val1 : 3
+	val2 : 7
+k, s : 50, 1715
+	val1 : 3
+	val2 : 5
+k, s : 50, 1720
+	val1 : 3
+	val2 : 3
+k, s : 50, 1725
+	val1 : 3
+	val2 : 3
+k, s : 50, 1730
+	val1 : 3
+	val2 : 8
+k, s : 50, 1735
+	val1 : 3
+	val2 : 8
+k, s : 50, 1740
+	val1 : 3
+	val2 : 8
+k, s : 50, 1745
+	val1 : 3
+	val2 : 8
+k, s : 50, 1750
+	val1 : 4
+	val2 : 7
+k, s : 50, 1755
+	val1 : 4
+	val2 : 6
+k, s : 50, 1760
+	val1 : 3
+	val2 : 6
+k, s : 50, 1765
+	val1 : 3
+	val2 : 6
+k, s : 50, 1770
+	val1 : 3
+	val2 : 6
+k, s : 50, 1775
+	val1 : 3
+	val2 : 5
+k, s : 50, 1780
+	val1 : 3
+	val2 : 6
+k, s : 50, 1785
+	val1 : 3
+	val2 : 6
+k, s : 50, 1790
+	val1 : 4
+	val2 : 5
+k, s : 50, 1795
+	val1 : 4
+	val2 : 6
+k, s : 50, 1800
+	val1 : 4
+	val2 : 7
+k, s : 50, 1805
+	val1 : 3
+	val2 : 6
+k, s : 50, 1810
+	val1 : 3
+	val2 : 6
+k, s : 50, 1815
+	val1 : 3
+	val2 : 3
+k, s : 50, 1820
+	val1 : 3
+	val2 : 4
+k, s : 50, 1825
+	val1 : 3
+	val2 : 4
+k, s : 50, 1830
+	val1 : 3
+	val2 : 9
+k, s : 50, 1835
+	val1 : 4
+	val2 : 9
+k, s : 50, 1840
+	val1 : 4
+	val2 : 9
+k, s : 50, 1845
+	val1 : 4
+	val2 : 8
+k, s : 50, 1850
+	val1 : 4
+	val2 : 8
+k, s : 50, 1855
+	val1 : 3
+	val2 : 8
+k, s : 50, 1860
+	val1 : 4
+	val2 : 8
+k, s : 50, 1865
+	val1 : 4
+	val2 : 5
+k, s : 50, 1870
+	val1 : 3
+	val2 : 5
+k, s : 50, 1875
+	val1 : 3
+	val2 : 5
+k, s : 50, 1880
+	val1 : 4
+	val2 : 5
+k, s : 50, 1885
+	val1 : 4
+	val2 : 10
+k, s : 50, 1890
+	val1 : 4
+	val2 : 4
+k, s : 50, 1895
+	val1 : 4
+	val2 : 9
+k, s : 50, 1900
+	val1 : 4
+	val2 : 4
+k, s : 50, 1905
+	val1 : 4
+	val2 : 4
+k, s : 50, 1910
+	val1 : 3
+	val2 : 9
+k, s : 50, 1915
+	val1 : 4
+	val2 : 9
+k, s : 50, 1920
+	val1 : 3
+	val2 : 9
+k, s : 50, 1925
+	val1 : 3
+	val2 : 3
+k, s : 50, 1930
+	val1 : 4
+	val2 : 8
+k, s : 50, 1935
+	val1 : 4
+	val2 : 8
+k, s : 50, 1940
+	val1 : 4
+	val2 : 8
+k, s : 50, 1945
+	val1 : 4
+	val2 : 4
+k, s : 50, 1950
+	val1 : 4
+	val2 : 4
+k, s : 50, 1955
+	val1 : 4
+	val2 : 9
+k, s : 50, 1960
+	val1 : 3
+	val2 : 6
+k, s : 50, 1965
+	val1 : 4
+	val2 : 6
+k, s : 50, 1970
+	val1 : 3
+	val2 : 3
+k, s : 50, 1975
+	val1 : 3
+	val2 : 3
+k, s : 50, 1980
+	val1 : 4
+	val2 : 8
+k, s : 50, 1985
+	val1 : 4
+	val2 : 8
+k, s : 50, 1990
+	val1 : 4
+	val2 : 8
+k, s : 50, 1995
+	val1 : 4
+	val2 : 8
+k, s : 50, 2000
+	val1 : 4
+	val2 : 7
