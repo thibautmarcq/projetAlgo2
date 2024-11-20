@@ -1,7 +1,7 @@
 import math
 import random
 
-P_MAX = 5500
+P_MAX = 700
 random.seed(47)
 
 
