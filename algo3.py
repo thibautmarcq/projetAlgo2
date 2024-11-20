@@ -17,10 +17,11 @@ def AlgorithmeIII(s, k, V) :
     return sub_algo_glouton(s, k, tab)
 
 def TestGloutonCompatible(k, V) :
+    tab = [0] + V
     if k>=3 :
-        for S in range(V[3]+2, V[k-1] + V[k]) :
+        for S in range(int(tab[3]+2) , int(tab[k-1] + tab[k] - 1)) :
             for j in range(1, k) :
-                if (V[j] < S) and (AlgorithmeIII(S, len(V), V) > AlgorithmeIII(S - V[j], len(V), V) ) :
+                if (tab[j] < S) and (AlgorithmeIII(S, len(V), V) > 1 + AlgorithmeIII(S - V[j], len(V), V) ) :
                     return False
     return True
 

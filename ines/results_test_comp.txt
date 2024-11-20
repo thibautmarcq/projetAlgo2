@@ -1,0 +1,61 @@
+for k : 1-> 14
+100.000 instances de tests pour chaque valeur de k
+
+k :  1
+         tot :  100000
+         compatibles :  100000
+         proportion d'instances glouton-compatibles :  1.0
+k :  2
+         tot :  100000
+         compatibles :  100000
+         proportion d'instances glouton-compatibles :  1.0
+k :  3
+         tot :  100000
+         compatibles :  100000
+         proportion d'instances glouton-compatibles :  1.0
+k :  4
+         tot :  100000
+         compatibles :  1187
+         proportion d'instances glouton-compatibles :  0.01187
+k :  5
+         tot :  100000
+         compatibles :  38
+         proportion d'instances glouton-compatibles :  0.00038
+k :  6
+         tot :  100000
+         compatibles :  3
+         proportion d'instances glouton-compatibles :  3e-05
+k :  7
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+k :  8
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+k :  9
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+k :  10
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+k :  11
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+k :  12
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+k :  13
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+k :  14
+         tot :  100000
+         compatibles :  0
+         proportion d'instances glouton-compatibles :  0.0
+
+moyenne de proportion : 0.21516285714285716 (super faussé par les 3 premières valeurs à 100%)
