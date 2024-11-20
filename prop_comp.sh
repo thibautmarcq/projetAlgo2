@@ -1,21 +1,21 @@
 #!/bin/bash
 
 # Parcourir tous les fichiers .txt dans le dossier 'results'
-for file in proportion_glouton_compatible/*.txt; do
+for file in stats/stats_ecarts/*.txt; do
     # Extraire le nom de base du fichier sans l'extension
     base_name=$(basename "$file" .txt)
     
     # Générer le graphique avec toutes les valeurs de s
     gnuplot -e "
         set terminal png;
-        set output 'proportion_glouton_compatible/${base_name}_plot.png';
+        set output 'stats/stats_ecarts/${base_name}_plot.png';
         set title '${base_name}';
         set xlabel 'Valeur de s';
-        set ylabel 'Différence de l'algo glouton avec d'algo dynamique';
+        set ylabel 'Difference de lalgo glouton avec dalgo dynamique';
         set key inside;
         set xtics rotate by -45;
         set format x '%.0f';
-        plot '$file' using 1:2 with points title 'Proportion de différence';
+        plot '$file' using 1:4 with points title 'Proportion de difference';
     "
 
     # gnuplot -e "
