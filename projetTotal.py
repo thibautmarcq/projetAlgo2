@@ -1,3 +1,6 @@
+## Fichier contenant toutes le fonctions (algorithmes) écrits durant le projet
+# Pour les algorithmes isolés : voir algo1.py, algo2.py, algo3.py,
+
 import numpy as np
 
 def AlgorithmeI(s, i, V) :
